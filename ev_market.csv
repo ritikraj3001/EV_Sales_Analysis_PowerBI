@@ -1,0 +1,2001 @@
+brand,model,years,variant,price_usd,drive_type,seating_capacity,body_type,weight_kg,safety_rating,country,segment,annual_sales
+Volkswagen,ID. Buzz,2023,Performance,104881,AWD,7,Truck,2015,4,Germany,Luxury,202182
+Toyota,bZ Compact SUV,2022,Premium,48217,FWD,5,SUV,1709,4,Japan,Mid-range,7146
+GM/Chevrolet,Bolt EV,2024,Premium,49651,AWD,5,Van,1533,4,US,Mid-range,16590
+Kia,Sportage EV,2024,Long Range,38132,AWD,7,SUV,1935,4,South Korea,Mid-range,127201
+Tesla,Model 3,2022,Long Range,144080,RWD,5,SUV,2229,4,US,Luxury,196401
+Tesla,Model Y,2023,Performance,119590,AWD,5,Hatchback,1751,5,US,Luxury,411764
+Tesla,Model 3,2024,Premium,128428,RWD,5,Coupe,1500,5,US,Luxury,213937
+Mercedes,EQS,2025,Performance,131074,RWD,7,SUV,2219,4,Germany,Luxury,48277
+Kia,Niro EV,2021,Premium,80531,AWD,7,Hatchback,1511,3,South Korea,Premium,90830
+GM/Chevrolet,Blazer EV,2025,Base,56945,FWD,7,Van,1520,5,US,Mid-range,8761
+Tesla,Model S,2026,Long Range,134166,AWD,5,Sedan,1720,4,US,Luxury,211478
+Fisker,Ronin,2025,Standard,88914,AWD,7,Truck,2536,3,US,Premium,2408
+Mercedes,EQG,2025,Performance,210812,RWD,7,Hatchback,1562,5,Germany,Luxury,56039
+BYD,Seagull,2023,Base,16394,FWD,5,Coupe,1744,5,China,Budget,224997
+Tesla,Model 3,2024,Premium,95913,FWD,7,Sedan,1556,4,US,Premium,124780
+Tesla,Model S,2024,Premium,134964,RWD,5,Van,1500,5,US,Luxury,235048
+BYD,Atto 3,2024,Standard,64427,RWD,7,Truck,2756,5,China,Mid-range,204232
+Hyundai,Kona Electric,2024,Premium,63140,RWD,5,Coupe,1750,4,South Korea,Mid-range,132242
+Volkswagen,ID.4,2024,Long Range,77030,AWD,7,Sedan,1634,4,Germany,Premium,238587
+BYD,Atto 3,2024,Premium,72337,AWD,5,Van,1500,3,China,Premium,168778
+Kia,Picanto EV,2025,Premium,106848,AWD,5,Coupe,1500,4,South Korea,Luxury,85618
+Tesla,Cybertruck,2023,Base,70532,AWD,7,Truck,2290,5,US,Premium,209622
+BYD,Yuan Plus,2024,Performance,114840,RWD,5,SUV,1978,5,China,Luxury,229532
+Volkswagen,ID.5,2024,Long Range,51142,RWD,5,Coupe,1500,4,Germany,Mid-range,203079
+Volkswagen,ID. Aero,2026,Standard,59825,AWD,5,Sedan,1781,3,Germany,Mid-range,293709
+Ford,Mustang Mach-E,2025,Performance,96528,FWD,7,Coupe,1500,3,US,Premium,67670
+Tesla,Model X,2023,Standard,67773,FWD,5,Sedan,1539,5,US,Premium,207968
+Hyundai,Ioniq 6,2025,Performance,86046,RWD,7,Hatchback,1500,5,South Korea,Premium,124864
+Kia,EV9,2024,Standard,66877,RWD,5,SUV,1980,4,South Korea,Premium,117514
+Tesla,Model Y,2025,Performance,135781,AWD,5,Truck,2015,5,US,Luxury,411097
+Kia,Niro EV,2024,Performance,105947,RWD,7,Coupe,1701,4,South Korea,Luxury,147459
+Tesla,Model X,2025,Base,110772,AWD,5,SUV,1959,4,US,Luxury,179640
+Tesla,Cybertruck,2024,Performance,42827,AWD,5,Truck,2122,4,US,Mid-range,133489
+Toyota,bZ Compact SUV,2020,Long Range,70748,AWD,5,SUV,2056,5,Japan,Premium,2261
+Fisker,Ronin,2026,Base,50396,FWD,7,Sedan,1500,5,US,Mid-range,11950
+Ford,E-Transit,2025,Performance,69598,AWD,5,Sedan,1500,5,US,Premium,24574
+BYD,Leaf 50X,2025,Standard,31434,RWD,5,Hatchback,1643,4,China,Budget,242953
+Tesla,Model X,2023,Base,109504,RWD,5,Van,1500,5,US,Luxury,174834
+BMW,i7,2025,Performance,156774,AWD,5,Truck,2499,5,Germany,Luxury,58126
+Volkswagen,ID.3,2021,Long Range,52967,RWD,5,Coupe,1853,5,Germany,Mid-range,232633
+Tesla,Cybertruck,2024,Standard,121805,FWD,7,Truck,2502,4,US,Luxury,225373
+Hyundai,Ioniq 6,2025,Standard,69769,FWD,5,Hatchback,1500,4,South Korea,Premium,50147
+Tesla,Model X,2024,Long Range,117518,AWD,5,Truck,2225,5,US,Luxury,122440
+Audi,e-tron GT,2025,Standard,53762,FWD,5,Coupe,1899,4,Germany,Mid-range,69650
+BYD,Max,2024,Base,24030,FWD,5,Sedan,1669,5,China,Budget,157077
+BMW,i3,2024,Long Range,120387,RWD,5,Truck,2464,4,Germany,Luxury,62864
+BYD,Atto 3,2025,Base,26682,FWD,7,Truck,2367,4,China,Budget,158602
+Hyundai,Ioniq,2025,Base,45100,AWD,5,Hatchback,1705,4,South Korea,Mid-range,128526
+Kia,Sportage EV,2023,Standard,77485,FWD,5,SUV,2017,3,South Korea,Premium,101678
+Tesla,Model Y,2023,Standard,98109,FWD,5,SUV,2146,5,US,Premium,431290
+Fisker,Ronin,2020,Performance,143107,AWD,5,Hatchback,1705,4,US,Luxury,18708
+Ford,F-150 Lightning,2026,Base,52267,FWD,2,Truck,2850,5,US,Mid-range,62843
+NIO,ET6,2025,Performance,60625,RWD,7,SUV,2138,4,China,Mid-range,8857
+Audi,e-tron GT,2025,Base,63332,RWD,7,Coupe,1565,5,Germany,Mid-range,62327
+Kia,Sportage EV,2024,Long Range,95245,AWD,5,SUV,2045,4,South Korea,Premium,76023
+Rivian,R3,2024,Base,66816,AWD,5,Sedan,1757,5,US,Premium,27456
+Tesla,Model X,2025,Base,73016,RWD,7,Truck,2036,5,US,Premium,173406
+Tesla,Cybertruck,2025,Performance,117416,AWD,5,Truck,2353,5,US,Luxury,183531
+Tesla,Model 3,2025,Standard,71317,RWD,5,SUV,2053,5,US,Premium,242716
+BYD,Leaf 50X,2025,Base,59006,RWD,5,Van,1500,5,China,Mid-range,127516
+Volkswagen,ID. Aero,2024,Long Range,42431,AWD,5,Coupe,1590,3,Germany,Mid-range,260840
+BYD,Dolphin,2024,Performance,30671,AWD,5,Sedan,1815,5,China,Budget,201621
+Mercedes,EQC,2025,Performance,188302,RWD,7,Coupe,1500,4,Germany,Luxury,43172
+Volkswagen,ID.4,2023,Long Range,94330,FWD,7,Sedan,1500,5,Germany,Premium,232451
+BYD,Dolphin,2024,Premium,83518,AWD,5,Coupe,1652,3,China,Premium,148454
+Kia,Niro EV,2024,Premium,68437,AWD,5,Coupe,1556,3,South Korea,Premium,81219
+Tesla,Model Y,2025,Performance,43196,RWD,7,Truck,2547,5,US,Mid-range,437912
+Ford,Explorer EV,2024,Long Range,66403,RWD,5,Van,1894,5,US,Premium,36517
+Tesla,Model X,2024,Performance,42932,RWD,7,Hatchback,1500,5,US,Mid-range,238196
+Porsche,Macan Electric,2022,Long Range,101898,AWD,7,Truck,2679,5,Germany,Luxury,26972
+Ford,E-Transit,2025,Premium,45540,AWD,5,Hatchback,1785,5,US,Mid-range,26865
+Tesla,Model S,2024,Premium,66708,AWD,5,Van,1686,5,US,Premium,187104
+Tesla,Model S,2020,Performance,102901,RWD,5,Truck,2284,3,US,Luxury,184383
+Ford,Explorer EV,2024,Long Range,69723,AWD,7,Truck,2451,5,US,Premium,54063
+GM/Chevrolet,Bolt EUV,2025,Performance,102049,AWD,5,Van,1834,4,US,Luxury,7957
+GM/Chevrolet,Equinox EV,2024,Long Range,78669,AWD,5,SUV,2096,5,US,Premium,14020
+Ford,Mustang Mach-E,2024,Standard,79438,RWD,5,Van,1521,5,US,Premium,21827
+Tesla,Model 3,2024,Performance,139025,AWD,5,Coupe,1500,4,US,Luxury,220216
+Volkswagen,ID.3,2025,Base,38889,FWD,5,Sedan,1571,5,Germany,Mid-range,293320
+Tesla,Model 3,2025,Performance,169366,RWD,7,SUV,1923,5,US,Luxury,248754
+Mercedes,GLE EV,2023,Standard,144582,FWD,7,SUV,1857,4,Germany,Luxury,76491
+BMW,iX,2023,Premium,86082,AWD,7,Truck,2745,4,Germany,Premium,51887
+BYD,Max,2026,Performance,101561,RWD,5,Truck,2633,3,China,Luxury,216998
+Tesla,Cybertruck,2024,Long Range,158926,AWD,5,Truck,2567,5,US,Luxury,138950
+BYD,Yuan Plus,2023,Standard,21523,FWD,7,Sedan,1621,4,China,Budget,183596
+BYD,Leaf 50X,2024,Premium,100360,RWD,5,Van,1876,5,China,Luxury,137465
+GM/Chevrolet,Bolt EUV,2026,Base,63697,FWD,5,Truck,2581,5,US,Mid-range,8032
+BMW,i3,2024,Standard,84406,RWD,5,Truck,2679,3,Germany,Premium,42777
+Audi,Q6 e-tron,2024,Standard,73911,FWD,5,SUV,2121,4,Germany,Premium,36319
+Hyundai,Ioniq 5,2025,Performance,57905,AWD,7,Sedan,1792,4,South Korea,Mid-range,68118
+Tesla,Cybertruck,2024,Base,38394,AWD,7,Truck,2403,3,US,Mid-range,246203
+GM/Chevrolet,Bolt EUV,2026,Standard,71136,FWD,5,Hatchback,1500,5,US,Premium,27175
+GM/Chevrolet,Blazer EV,2024,Long Range,76560,RWD,5,Van,1598,4,US,Premium,12139
+Kia,Niro EV,2023,Premium,92594,AWD,5,Coupe,1506,5,South Korea,Premium,83731
+Ford,Mustang Mach-E,2023,Long Range,76072,FWD,5,Hatchback,1734,5,US,Premium,48060
+Hyundai,Ioniq,2024,Standard,44655,RWD,5,SUV,1844,4,South Korea,Mid-range,128091
+Hyundai,Ioniq 6,2025,Performance,45838,RWD,5,Sedan,1557,5,South Korea,Mid-range,96533
+Volkswagen,ID.4,2023,Performance,80922,RWD,5,Hatchback,1500,3,Germany,Premium,234095
+Tesla,Model X,2023,Performance,184746,RWD,5,Coupe,1782,3,US,Luxury,148529
+Tesla,Cybertruck,2024,Performance,177944,RWD,5,Truck,2270,3,US,Luxury,234160
+Tesla,Cybertruck,2024,Base,59968,AWD,7,Truck,2448,4,US,Mid-range,228933
+BMW,iX,2024,Performance,84126,RWD,5,Hatchback,1588,5,Germany,Premium,33561
+BYD,Qin,2022,Standard,37515,AWD,5,Truck,2894,4,China,Mid-range,192045
+Hyundai,Kona Electric,2022,Long Range,84514,RWD,7,Coupe,1784,4,South Korea,Premium,95418
+Audi,e-tron,2025,Premium,80343,RWD,7,Van,1500,5,Germany,Premium,43236
+BYD,Leaf 50X,2025,Base,75748,FWD,5,Sedan,1500,3,China,Premium,114789
+Volkswagen,ID.3,2024,Performance,50097,FWD,5,Van,1780,3,Germany,Mid-range,263009
+GM/Chevrolet,Bolt EUV,2024,Premium,43668,RWD,7,Truck,2572,4,US,Mid-range,1211
+BYD,Qin,2025,Long Range,61701,AWD,7,SUV,1726,5,China,Mid-range,190763
+Tesla,Model 3,2025,Premium,152706,AWD,5,SUV,1903,4,US,Luxury,172494
+BYD,Max,2023,Performance,26461,RWD,7,SUV,2379,3,China,Budget,226324
+Tesla,Model 3,2026,Base,36489,AWD,5,Van,1500,3,US,Mid-range,214895
+Rivian,R3,2021,Base,60979,FWD,5,Hatchback,1500,5,US,Mid-range,7599
+Ford,F-150 Lightning,2025,Base,57536,FWD,4,Truck,2341,4,US,Mid-range,44164
+BMW,i3,2025,Performance,162823,AWD,7,Truck,2729,5,Germany,Luxury,48304
+Mercedes,EQG,2023,Long Range,163925,AWD,5,Coupe,1540,4,Germany,Luxury,50822
+Ford,F-150 Lightning,2024,Long Range,54997,FWD,2,Truck,2427,5,US,Mid-range,49671
+Tesla,Model Y,2026,Standard,96645,RWD,5,Sedan,1500,5,US,Premium,408778
+Audi,e-tron,2025,Standard,72972,FWD,7,SUV,1928,5,Germany,Premium,23427
+Kia,Niro EV,2023,Premium,38796,RWD,7,Coupe,1751,5,South Korea,Mid-range,146563
+Ford,Mustang Mach-E,2023,Base,59885,AWD,5,Truck,2597,4,US,Mid-range,28589
+Audi,Q6 e-tron,2024,Long Range,130606,RWD,7,SUV,2080,5,Germany,Luxury,39897
+BYD,Atto 3,2024,Long Range,47823,RWD,7,Coupe,1500,5,China,Mid-range,108045
+Tesla,Model S,2023,Performance,65005,RWD,7,Truck,2744,4,US,Premium,208805
+BYD,Qin,2024,Standard,21712,RWD,5,Van,1628,4,China,Budget,169389
+Volkswagen,ID. Aero,2024,Long Range,54336,RWD,7,Sedan,1630,5,Germany,Mid-range,284565
+Ford,Explorer EV,2024,Base,53738,RWD,7,Sedan,1500,3,US,Mid-range,62660
+Mercedes,GLE EV,2026,Standard,68995,FWD,7,Van,1568,5,Germany,Premium,79213
+Tesla,Model Y,2024,Base,105607,FWD,7,Van,1500,4,US,Luxury,422392
+Hyundai,i30,2025,Performance,97965,RWD,7,Truck,2842,4,South Korea,Premium,98285
+Volkswagen,ID. Buzz,2025,Standard,60229,FWD,7,SUV,2260,5,Germany,Mid-range,215577
+BYD,Leaf 50X,2025,Premium,41882,AWD,7,SUV,2237,4,China,Mid-range,128802
+Tesla,Model 3,2024,Long Range,138761,FWD,5,Sedan,1500,5,US,Luxury,204411
+BYD,Atto 3,2025,Long Range,90654,FWD,5,Van,1500,5,China,Premium,227338
+NIO,EL8,2022,Base,53544,AWD,7,SUV,1956,4,China,Mid-range,10495
+BYD,Dolphin,2025,Long Range,27390,AWD,7,Coupe,1616,4,China,Budget,146828
+Hyundai,Ioniq 5,2025,Long Range,94029,AWD,5,SUV,2407,4,South Korea,Premium,71912
+GM/Chevrolet,Bolt EV,2025,Premium,59621,RWD,7,Coupe,1744,5,US,Mid-range,21979
+Volkswagen,ID. Buzz,2025,Performance,78714,AWD,5,Truck,2608,4,Germany,Premium,216549
+Fisker,Ocean,2022,Long Range,59485,RWD,7,Hatchback,1611,5,US,Mid-range,23860
+Toyota,bZ4X,2025,Performance,62346,AWD,5,Truck,2450,5,Japan,Mid-range,15819
+BYD,Dolphin,2023,Performance,33904,RWD,5,Sedan,1623,4,China,Budget,106140
+Hyundai,Kona Electric,2025,Long Range,40498,AWD,7,SUV,2284,3,South Korea,Mid-range,61921
+BYD,Dolphin,2024,Premium,89340,AWD,7,Van,1633,5,China,Premium,229760
+BYD,Seagull,2023,Long Range,77902,AWD,5,SUV,1861,5,China,Premium,177211
+Tesla,Model S,2025,Standard,67490,RWD,5,Coupe,1692,4,US,Premium,226745
+Kia,Sportage EV,2025,Performance,99993,RWD,5,SUV,2114,4,South Korea,Premium,52100
+Hyundai,Ioniq,2024,Base,29445,FWD,7,Hatchback,1684,5,South Korea,Budget,53245
+Tesla,Cybertruck,2024,Long Range,57587,RWD,5,Truck,2629,4,US,Mid-range,136381
+BYD,Dolphin,2023,Standard,50127,FWD,7,Sedan,1618,4,China,Mid-range,176192
+Audi,Q6 e-tron,2024,Standard,112838,FWD,7,Sedan,1591,3,Germany,Luxury,45029
+BYD,Max,2023,Premium,29372,AWD,5,Hatchback,1500,4,China,Budget,240988
+Tesla,Model Y,2024,Base,40220,AWD,5,Coupe,1547,5,US,Mid-range,429025
+Hyundai,i30,2025,Base,51160,AWD,5,Van,1683,5,South Korea,Mid-range,89226
+Porsche,Taycan,2024,Premium,142937,RWD,5,SUV,2128,5,Germany,Luxury,23751
+BYD,Qin,2024,Performance,99381,AWD,5,Truck,2757,4,China,Premium,152043
+BMW,i3,2024,Premium,109123,AWD,5,Van,1611,5,Germany,Luxury,54152
+Ford,F-150 Lightning,2026,Standard,51713,RWD,4,Truck,2391,4,US,Mid-range,26384
+BYD,Seagull,2024,Base,19471,FWD,5,Truck,2552,3,China,Budget,210937
+GM/Chevrolet,Blazer EV,2025,Standard,46970,AWD,7,SUV,1866,4,US,Mid-range,6914
+Volkswagen,ID. Buzz,2025,Long Range,93620,RWD,5,Sedan,1697,5,Germany,Premium,222583
+BMW,iX,2025,Long Range,124852,FWD,7,Sedan,1872,3,Germany,Luxury,51096
+BMW,i5,2025,Standard,97047,AWD,5,Hatchback,1510,5,Germany,Premium,66065
+Hyundai,Ioniq,2021,Premium,81529,AWD,5,Truck,2400,4,South Korea,Premium,137712
+Tesla,Model 3,2023,Premium,123494,AWD,7,SUV,2083,5,US,Luxury,228731
+Mercedes,GLE EV,2024,Premium,194077,RWD,5,Hatchback,1581,3,Germany,Luxury,69583
+BYD,Qin,2021,Standard,47542,FWD,5,SUV,2063,3,China,Mid-range,230454
+Tesla,Model S,2022,Long Range,133034,AWD,7,Coupe,1500,5,US,Luxury,213496
+Tesla,Model X,2023,Premium,41055,AWD,5,Truck,2601,5,US,Mid-range,203412
+Kia,EV6,2022,Base,59653,RWD,5,SUV,1917,5,South Korea,Mid-range,145797
+BMW,i4,2023,Long Range,76875,AWD,7,Sedan,1596,5,Germany,Premium,29925
+Tesla,Model Y,2024,Standard,31623,FWD,7,Hatchback,1500,5,US,Budget,457458
+Hyundai,Kona Electric,2025,Long Range,43168,FWD,5,Van,1663,4,South Korea,Mid-range,84174
+BYD,Leaf 50X,2024,Base,77144,FWD,5,Hatchback,1656,4,China,Premium,140199
+BMW,i5,2023,Base,58952,FWD,5,Van,1615,5,Germany,Mid-range,20422
+Tesla,Cybertruck,2023,Base,113861,AWD,7,Truck,2449,5,US,Luxury,162424
+GM/Chevrolet,Blazer EV,2022,Base,24572,AWD,7,Truck,2500,4,US,Budget,9346
+Volkswagen,ID.4,2025,Premium,67323,RWD,5,Van,1500,5,Germany,Premium,295974
+NIO,ET6,2025,Long Range,108463,FWD,7,SUV,1856,3,China,Luxury,18130
+Tesla,Model X,2025,Base,71275,RWD,7,Van,1837,5,US,Premium,132658
+BYD,Leaf 50X,2024,Standard,55111,RWD,5,Hatchback,1630,4,China,Mid-range,112631
+Tesla,Model 3,2025,Standard,132101,RWD,5,SUV,1751,5,US,Luxury,220080
+Rivian,R3,2023,Performance,104609,RWD,7,Sedan,1647,5,US,Luxury,4453
+Audi,e-tron GT,2026,Performance,126814,AWD,5,Sedan,1634,5,Germany,Luxury,35466
+BYD,Atto 3,2026,Premium,102365,RWD,5,Sedan,1770,4,China,Luxury,112568
+BMW,i5,2025,Premium,71336,RWD,7,Hatchback,1688,4,Germany,Premium,26069
+Ford,E-Transit,2026,Performance,52666,AWD,5,SUV,1927,5,US,Mid-range,76169
+Kia,EV9,2024,Premium,65472,AWD,5,SUV,2132,4,South Korea,Premium,60682
+Hyundai,i30,2022,Standard,35583,FWD,5,Sedan,1500,5,South Korea,Mid-range,116403
+BYD,Dolphin,2025,Base,62108,RWD,5,Truck,2468,4,China,Mid-range,129397
+Tesla,Model S,2024,Performance,119857,AWD,5,Truck,2510,4,US,Luxury,142701
+Audi,e-tron GT,2025,Long Range,70111,FWD,5,Coupe,1548,3,Germany,Premium,79614
+Audi,Q6 e-tron,2025,Premium,138511,RWD,5,Coupe,1588,4,Germany,Luxury,58972
+BMW,iX,2023,Base,90268,AWD,5,Hatchback,1500,4,Germany,Premium,26056
+BYD,Max,2020,Base,67730,RWD,7,Truck,2386,4,China,Premium,160145
+BYD,Yuan Plus,2022,Standard,27939,AWD,7,SUV,1964,5,China,Budget,100593
+GM/Chevrolet,Bolt EUV,2026,Long Range,70455,RWD,5,Truck,2305,4,US,Premium,1598
+Audi,e-tron GT,2025,Base,104531,RWD,7,SUV,2104,5,Germany,Luxury,52472
+Audi,Q6 e-tron,2025,Long Range,97249,RWD,5,Van,1500,5,Germany,Premium,46587
+Ford,Explorer EV,2024,Performance,105603,AWD,5,Van,2052,4,US,Luxury,31600
+BMW,iX,2025,Standard,55555,AWD,5,Van,1646,5,Germany,Mid-range,69514
+Tesla,Cybertruck,2026,Base,50614,RWD,7,Truck,2227,5,US,Mid-range,175527
+Tesla,Model Y,2025,Base,42292,RWD,7,Truck,2648,4,US,Mid-range,472726
+Audi,Q4 e-tron,2026,Long Range,94110,FWD,5,Sedan,1508,4,Germany,Premium,38660
+Kia,EV9,2025,Standard,77484,FWD,5,SUV,1989,3,South Korea,Premium,116585
+Tesla,Model Y,2022,Long Range,112383,FWD,5,Coupe,1583,4,US,Luxury,494879
+Tesla,Model X,2025,Premium,112066,FWD,5,Van,1720,4,US,Luxury,245565
+BMW,i7,2024,Long Range,93724,AWD,7,Van,1614,4,Germany,Premium,36760
+Tesla,Cybertruck,2021,Base,98646,RWD,5,Truck,2415,5,US,Premium,235244
+Tesla,Cybertruck,2023,Base,46210,AWD,5,Truck,2463,4,US,Mid-range,187848
+Kia,EV6,2021,Long Range,66634,AWD,7,Coupe,1500,5,South Korea,Premium,57850
+GM/Chevrolet,Silverado EV,2026,Performance,65285,AWD,7,Coupe,1566,4,US,Premium,25704
+BMW,i3,2023,Premium,137952,RWD,7,Hatchback,1654,4,Germany,Luxury,26110
+BYD,Seagull,2024,Standard,32277,RWD,5,Hatchback,1646,5,China,Budget,236029
+GM/Chevrolet,Bolt EV,2024,Standard,61071,AWD,7,Hatchback,1883,5,US,Mid-range,2434
+BYD,Seagull,2025,Base,67470,AWD,7,Hatchback,1654,4,China,Premium,179136
+BYD,Seagull,2025,Long Range,48991,RWD,5,SUV,2202,4,China,Mid-range,211809
+GM/Chevrolet,Bolt EV,2024,Base,56305,AWD,5,Van,1500,4,US,Mid-range,2728
+BMW,i5,2021,Standard,94182,AWD,7,Coupe,1626,5,Germany,Premium,79673
+Mercedes,GLE EV,2025,Long Range,122339,FWD,7,Hatchback,1843,3,Germany,Luxury,52641
+BMW,i3,2023,Standard,67705,AWD,5,Coupe,1770,5,Germany,Premium,68305
+Kia,EV6,2024,Standard,44921,FWD,5,Truck,2615,5,South Korea,Mid-range,145791
+Tesla,Cybertruck,2024,Premium,47891,FWD,7,Truck,2335,3,US,Mid-range,118665
+Volkswagen,ID.5,2022,Premium,62108,FWD,7,SUV,1760,5,Germany,Mid-range,222675
+BYD,Seagull,2025,Long Range,24414,FWD,5,Sedan,1500,5,China,Budget,228388
+BYD,Qin,2023,Standard,36045,FWD,5,Truck,2600,4,China,Mid-range,117310
+Fisker,Ronin,2024,Premium,67457,AWD,5,Coupe,1631,4,US,Premium,20333
+Volkswagen,ID. Buzz,2025,Long Range,52580,FWD,5,Hatchback,1588,3,Germany,Mid-range,238272
+Audi,Q4 e-tron,2025,Base,81941,RWD,5,Coupe,1693,5,Germany,Premium,77358
+BMW,i4,2026,Performance,133852,AWD,5,Truck,2197,4,Germany,Luxury,50521
+Ford,Mustang Mach-E,2025,Standard,56042,RWD,5,SUV,2215,3,US,Mid-range,69874
+Hyundai,Ioniq 5,2024,Long Range,83570,AWD,5,Coupe,1794,5,South Korea,Premium,145959
+Kia,Picanto EV,2022,Performance,111175,RWD,5,Hatchback,1538,5,South Korea,Luxury,51798
+Hyundai,Ioniq 5,2025,Base,61129,RWD,5,Van,1903,5,South Korea,Mid-range,110095
+Tesla,Model Y,2023,Standard,44516,FWD,5,Sedan,1513,4,US,Mid-range,403294
+GM/Chevrolet,Equinox EV,2025,Standard,32070,AWD,5,SUV,2020,4,US,Budget,1331
+BYD,Yuan Plus,2024,Premium,107359,FWD,7,Coupe,1661,3,China,Luxury,110469
+Tesla,Model Y,2026,Standard,78088,AWD,7,Sedan,1514,5,US,Premium,489120
+BMW,i5,2025,Performance,132667,AWD,7,Van,1817,5,Germany,Luxury,71584
+Tesla,Model X,2023,Premium,100324,AWD,5,Coupe,1500,4,US,Luxury,121739
+NIO,EL6,2022,Standard,69452,FWD,5,Sedan,1500,5,China,Premium,28334
+Toyota,bZ4X,2023,Base,53579,FWD,7,Coupe,1576,4,Japan,Mid-range,16544
+Rivian,R3,2023,Standard,81874,AWD,5,Sedan,1668,4,US,Premium,1989
+Volkswagen,ID. Aero,2024,Long Range,59514,FWD,7,SUV,1974,4,Germany,Mid-range,230145
+Tesla,Model 3,2026,Base,80808,RWD,7,Coupe,1500,5,US,Premium,234368
+Rivian,R2,2024,Standard,84157,FWD,5,Coupe,1500,4,US,Premium,29685
+Volkswagen,ID.5,2024,Base,39961,AWD,5,Sedan,1793,4,Germany,Mid-range,212818
+Fisker,Ronin,2024,Long Range,115879,AWD,7,Truck,2039,4,US,Luxury,6077
+Toyota,bZ Compact SUV,2024,Long Range,64462,FWD,7,SUV,2334,4,Japan,Mid-range,1214
+Mercedes,EQG,2023,Performance,181027,FWD,5,Truck,2572,4,Germany,Luxury,35248
+BYD,Yuan Plus,2025,Long Range,48600,FWD,5,Sedan,1500,4,China,Mid-range,222634
+Volkswagen,ID.3,2023,Premium,40147,AWD,7,Coupe,1894,4,Germany,Mid-range,229072
+Mercedes,GLE EV,2023,Long Range,182444,RWD,7,Sedan,1500,4,Germany,Luxury,20765
+BYD,Atto 3,2022,Performance,38276,RWD,5,Van,1520,4,China,Mid-range,175542
+Tesla,Cybertruck,2025,Performance,116078,FWD,5,Truck,2613,5,US,Luxury,150657
+Kia,EV9,2025,Long Range,56773,RWD,5,SUV,2199,4,South Korea,Mid-range,99235
+NIO,EL8,2025,Premium,87479,RWD,7,SUV,2018,4,China,Premium,16505
+GM/Chevrolet,Bolt EUV,2025,Long Range,68470,AWD,7,Van,1500,4,US,Premium,14899
+Kia,EV9,2025,Premium,89987,AWD,7,SUV,2020,4,South Korea,Premium,123485
+Tesla,Model S,2023,Premium,76608,AWD,7,Van,1617,3,US,Premium,244244
+Kia,Picanto EV,2022,Long Range,76439,FWD,5,Truck,2689,5,South Korea,Premium,85577
+Volvo,XC90 Recharge,2025,Performance,106317,RWD,5,Van,1794,5,Sweden,Luxury,8684
+Tesla,Model Y,2025,Premium,83799,RWD,5,Truck,2793,5,US,Premium,427228
+Hyundai,Ioniq,2024,Base,50277,RWD,5,Van,1533,3,South Korea,Mid-range,126203
+Audi,e-tron GT,2022,Premium,98374,RWD,5,Truck,2533,5,Germany,Premium,45293
+GM/Chevrolet,Equinox EV,2025,Performance,101370,AWD,7,SUV,1831,3,US,Luxury,27681
+GM/Chevrolet,Blazer EV,2025,Base,61000,AWD,5,Truck,2734,4,US,Mid-range,3536
+GM/Chevrolet,Silverado EV,2025,Premium,56307,RWD,5,Sedan,1699,4,US,Mid-range,25746
+Volkswagen,ID.4,2021,Premium,107418,AWD,5,Hatchback,1514,5,Germany,Luxury,254098
+BYD,Leaf 50X,2024,Performance,118469,AWD,5,Coupe,1584,4,China,Luxury,209498
+Ford,Explorer EV,2025,Long Range,92752,FWD,7,Truck,2390,4,US,Premium,70352
+Ford,Mustang Mach-E,2024,Base,52120,FWD,7,Coupe,1529,4,US,Mid-range,29029
+Mercedes,EQC,2024,Long Range,169395,RWD,5,Truck,2679,3,Germany,Luxury,60151
+Audi,e-tron GT,2021,Base,80312,AWD,5,Sedan,1509,5,Germany,Premium,55803
+Hyundai,Ioniq 5,2022,Premium,72159,AWD,7,Van,1500,4,South Korea,Premium,119329
+Hyundai,Ioniq 6,2025,Long Range,37714,RWD,7,Truck,2452,4,South Korea,Mid-range,77052
+Ford,Mustang Mach-E,2023,Long Range,63828,FWD,7,Truck,2431,4,US,Mid-range,74506
+BMW,i7,2025,Premium,150512,RWD,7,Hatchback,1765,4,Germany,Luxury,47379
+GM/Chevrolet,Bolt EUV,2023,Performance,74890,RWD,7,Coupe,1704,4,US,Premium,29402
+Ford,F-150 Lightning,2025,Long Range,66475,FWD,4,Truck,2671,4,US,Premium,43803
+Audi,Q6 e-tron,2020,Long Range,76666,AWD,5,Hatchback,1563,4,Germany,Premium,32828
+BYD,Dolphin,2025,Base,42876,FWD,7,SUV,2370,5,China,Mid-range,158327
+Volkswagen,ID. Buzz,2026,Standard,43539,RWD,5,Van,1732,4,Germany,Mid-range,228329
+Tesla,Cybertruck,2023,Base,104581,FWD,7,Truck,2370,5,US,Luxury,156090
+Kia,EV6,2022,Long Range,90771,FWD,5,Truck,2457,4,South Korea,Premium,86318
+Tesla,Model S,2022,Premium,59089,RWD,5,Sedan,1500,5,US,Mid-range,130707
+Hyundai,Ioniq,2024,Performance,50088,FWD,7,Truck,2466,5,South Korea,Mid-range,62703
+Kia,EV6,2025,Performance,117332,RWD,5,Coupe,1704,4,South Korea,Luxury,108933
+BYD,Max,2024,Base,36467,RWD,5,Coupe,1558,4,China,Mid-range,220450
+Kia,EV6,2025,Base,74610,RWD,5,Truck,2255,5,South Korea,Premium,84247
+Tesla,Cybertruck,2025,Base,87113,RWD,5,Truck,2639,4,US,Premium,217680
+Tesla,Cybertruck,2025,Performance,166573,AWD,5,Truck,2600,5,US,Luxury,229037
+Mercedes,GLE EV,2024,Base,116776,RWD,5,Hatchback,1558,4,Germany,Luxury,43904
+Volkswagen,ID.3,2024,Premium,98792,AWD,5,Hatchback,1840,5,Germany,Premium,289215
+Tesla,Model S,2023,Base,56750,AWD,5,Van,1500,4,US,Mid-range,175034
+Hyundai,Kona Electric,2024,Premium,75054,RWD,7,Truck,2127,4,South Korea,Premium,86699
+Ford,E-Transit,2025,Standard,49970,RWD,7,Truck,2803,4,US,Mid-range,35218
+BYD,Max,2024,Standard,39728,AWD,7,Van,1609,4,China,Mid-range,139199
+BMW,i4,2025,Base,85729,RWD,5,Truck,2688,5,Germany,Premium,29338
+Tesla,Cybertruck,2023,Base,62213,FWD,5,Truck,2531,5,US,Mid-range,199768
+Tesla,Cybertruck,2022,Performance,170128,RWD,7,Truck,2467,4,US,Luxury,163960
+Hyundai,Ioniq 5,2024,Premium,80949,FWD,7,Van,1500,5,South Korea,Premium,134570
+Kia,Picanto EV,2022,Base,43746,RWD,7,Hatchback,1724,5,South Korea,Mid-range,77441
+BMW,i3,2023,Long Range,134040,AWD,5,Sedan,1652,5,Germany,Luxury,70841
+GM/Chevrolet,Blazer EV,2025,Premium,80896,RWD,5,Hatchback,1500,4,US,Premium,11404
+Lucid,Air,2026,Standard,199366,FWD,7,Coupe,1531,4,US,Luxury,26890
+Hyundai,i30,2023,Long Range,65970,FWD,5,Coupe,1500,5,South Korea,Premium,146072
+BYD,Qin,2024,Premium,67623,AWD,5,Hatchback,1988,4,China,Premium,235660
+Ford,E-Transit,2023,Base,42208,AWD,5,SUV,1892,5,US,Mid-range,47569
+BYD,Leaf 50X,2024,Base,56389,RWD,7,Sedan,1666,5,China,Mid-range,205113
+Volkswagen,ID. Buzz,2025,Long Range,66045,FWD,7,Hatchback,1571,4,Germany,Premium,228215
+Tesla,Cybertruck,2024,Base,37365,AWD,5,Truck,2555,5,US,Mid-range,220616
+Tesla,Cybertruck,2023,Base,38622,FWD,5,Truck,2714,5,US,Mid-range,174372
+Toyota,bZ4X,2022,Standard,69982,AWD,5,Truck,2317,5,Japan,Premium,8818
+Mercedes,EQE,2021,Performance,165233,AWD,7,Van,1751,4,Germany,Luxury,35726
+GM/Chevrolet,Blazer EV,2025,Standard,70614,AWD,7,Hatchback,1629,4,US,Premium,27643
+Volkswagen,ID.4,2025,Performance,80550,RWD,7,Truck,2812,5,Germany,Premium,291709
+Tesla,Model Y,2020,Long Range,96391,FWD,5,Van,1505,4,US,Premium,498047
+Tesla,Model X,2023,Base,27433,FWD,7,Coupe,1644,5,US,Budget,230869
+BYD,Leaf 50X,2024,Base,76473,RWD,5,Van,1500,4,China,Premium,191416
+Kia,Picanto EV,2025,Base,41416,RWD,5,Hatchback,1500,5,South Korea,Mid-range,137512
+GM/Chevrolet,Silverado EV,2023,Standard,64132,RWD,5,Truck,2693,4,US,Mid-range,5462
+BMW,i3,2025,Performance,97631,RWD,5,Truck,2381,4,Germany,Premium,50895
+BYD,Seagull,2024,Performance,117282,FWD,5,Sedan,1500,3,China,Luxury,111137
+Toyota,bZ4X,2025,Long Range,77618,AWD,7,Coupe,1500,5,Japan,Premium,15856
+GM/Chevrolet,Bolt EV,2025,Performance,53614,FWD,7,Truck,2645,5,US,Mid-range,7236
+Kia,Niro EV,2026,Premium,98300,RWD,5,Coupe,1500,5,South Korea,Premium,126328
+Kia,EV9,2025,Premium,62152,AWD,5,SUV,2022,5,South Korea,Mid-range,58624
+Volkswagen,ID. Buzz,2025,Performance,57462,AWD,7,Hatchback,1500,4,Germany,Mid-range,298599
+BYD,Dolphin,2023,Premium,65383,RWD,5,Coupe,1500,5,China,Premium,171261
+Volkswagen,ID.3,2025,Performance,88159,AWD,7,Hatchback,1591,5,Germany,Premium,265949
+GM/Chevrolet,Bolt EV,2022,Long Range,49444,FWD,5,Van,1500,4,US,Mid-range,17112
+Tesla,Model 3,2023,Base,33305,RWD,5,Van,1500,4,US,Budget,239021
+Tesla,Cybertruck,2025,Base,29690,FWD,5,Truck,2468,5,US,Budget,210522
+Tesla,Model S,2025,Long Range,129183,FWD,7,Hatchback,1638,5,US,Luxury,207546
+Tesla,Cybertruck,2025,Long Range,132227,RWD,5,Truck,2287,5,US,Luxury,133735
+Mercedes,EQE,2026,Base,59152,FWD,7,SUV,2444,4,Germany,Mid-range,57795
+GM/Chevrolet,Equinox EV,2026,Performance,42539,RWD,5,SUV,2235,5,US,Mid-range,18263
+Hyundai,Ioniq 5,2026,Premium,86931,RWD,7,Sedan,1500,4,South Korea,Premium,147601
+Tesla,Model S,2025,Premium,162032,AWD,5,Sedan,1618,5,US,Luxury,210253
+Hyundai,Kona Electric,2025,Premium,51037,AWD,5,Coupe,2027,5,South Korea,Mid-range,55671
+Hyundai,Kona Electric,2024,Base,52223,RWD,5,Van,1635,4,South Korea,Mid-range,89573
+Tesla,Model S,2025,Base,54018,AWD,5,Coupe,1787,4,US,Mid-range,101221
+Volkswagen,ID.5,2025,Base,78662,RWD,5,Van,1500,4,Germany,Premium,237990
+Volkswagen,ID. Buzz,2026,Standard,39804,FWD,7,Truck,2758,3,Germany,Mid-range,248701
+Kia,EV9,2025,Premium,103512,AWD,5,SUV,2221,5,South Korea,Luxury,50563
+BMW,i5,2024,Performance,76696,AWD,5,SUV,2006,5,Germany,Premium,21525
+Tesla,Model S,2023,Long Range,98608,FWD,5,Hatchback,1521,4,US,Premium,246839
+Volkswagen,ID.4,2026,Standard,86543,FWD,5,Hatchback,1583,4,Germany,Premium,282690
+BMW,i4,2026,Standard,72989,RWD,5,Hatchback,1500,5,Germany,Premium,49770
+Hyundai,Ioniq 6,2025,Standard,39400,AWD,5,SUV,1935,4,South Korea,Mid-range,101021
+Mercedes,EQS,2024,Premium,99625,AWD,5,SUV,1569,4,Germany,Premium,71016
+BMW,i7,2025,Performance,113646,AWD,5,Truck,2275,5,Germany,Luxury,68048
+Tesla,Model Y,2024,Standard,110939,RWD,5,Coupe,1526,4,US,Luxury,456268
+Tesla,Model X,2026,Long Range,142726,RWD,5,Coupe,1500,4,US,Luxury,176985
+BMW,i3,2024,Premium,69442,RWD,7,Van,1764,4,Germany,Premium,51378
+Tesla,Model 3,2025,Base,42979,AWD,7,SUV,1730,4,US,Mid-range,207769
+Kia,Picanto EV,2024,Premium,56096,RWD,5,Coupe,1841,3,South Korea,Mid-range,113782
+NIO,EL8,2024,Base,82537,FWD,7,Truck,2319,5,China,Premium,17477
+Kia,EV9,2026,Base,62908,FWD,5,SUV,1838,5,South Korea,Mid-range,93165
+Volkswagen,ID.5,2025,Performance,97403,RWD,5,Truck,2374,4,Germany,Premium,255988
+BMW,i7,2025,Standard,85706,FWD,5,Hatchback,1703,4,Germany,Premium,78799
+Hyundai,Ioniq 6,2024,Base,54235,FWD,7,Truck,2843,5,South Korea,Mid-range,136935
+Kia,Picanto EV,2023,Premium,95598,AWD,5,SUV,1516,5,South Korea,Premium,107457
+NIO,EC6,2023,Long Range,98012,AWD,7,Sedan,1662,4,China,Premium,12631
+Volkswagen,ID.3,2025,Performance,58313,AWD,5,Truck,2583,3,Germany,Mid-range,263694
+Toyota,bZ Compact SUV,2024,Base,62800,RWD,5,SUV,1773,4,Japan,Mid-range,8458
+Audi,e-tron,2025,Standard,91039,RWD,7,Truck,2402,5,Germany,Premium,26577
+Tesla,Cybertruck,2024,Standard,130803,FWD,5,Truck,2533,4,US,Luxury,105012
+Tesla,Model 3,2025,Base,69626,FWD,7,Sedan,1522,5,US,Premium,189686
+Tesla,Model Y,2024,Long Range,85409,AWD,5,Sedan,1500,4,US,Premium,497556
+Tesla,Model 3,2026,Long Range,153057,RWD,7,Coupe,1574,5,US,Luxury,178740
+Tesla,Cybertruck,2023,Standard,121897,RWD,7,Truck,2332,5,US,Luxury,186743
+BMW,i7,2025,Base,66274,FWD,5,Truck,2768,5,Germany,Premium,30088
+Tesla,Model Y,2024,Base,43316,AWD,5,Sedan,1500,5,US,Mid-range,424937
+BYD,Atto 3,2022,Premium,36072,RWD,7,Van,1527,4,China,Mid-range,159638
+Mercedes,GLE EV,2025,Base,127214,FWD,5,Sedan,1918,4,Germany,Luxury,74928
+Tesla,Model X,2024,Standard,79316,FWD,7,Truck,2173,5,US,Premium,122128
+Ford,Explorer EV,2023,Base,35482,RWD,5,Hatchback,1677,5,US,Mid-range,63701
+BYD,Dolphin,2026,Standard,82657,AWD,7,Van,1904,5,China,Premium,156944
+Tesla,Model S,2025,Long Range,137829,FWD,5,Van,1656,3,US,Luxury,239713
+GM/Chevrolet,Silverado EV,2025,Standard,70239,FWD,7,Van,1577,5,US,Premium,23483
+BMW,i4,2026,Standard,90500,FWD,7,Coupe,1618,3,Germany,Premium,72987
+Audi,e-tron,2024,Long Range,130132,AWD,7,Sedan,1642,4,Germany,Luxury,36875
+GM/Chevrolet,Bolt EV,2024,Long Range,56344,AWD,7,Coupe,1500,5,US,Mid-range,12802
+Ford,F-150 Lightning,2024,Standard,59798,FWD,4,Truck,2692,4,US,Mid-range,57357
+BYD,Leaf 50X,2023,Long Range,100157,FWD,5,Truck,2399,4,China,Luxury,107443
+Tesla,Model Y,2023,Base,55299,RWD,5,Hatchback,1605,5,US,Mid-range,449181
+GM/Chevrolet,Blazer EV,2025,Long Range,44798,RWD,5,Hatchback,1636,4,US,Mid-range,19461
+Ford,E-Transit,2024,Performance,98104,RWD,7,Van,1563,4,US,Premium,47356
+Volvo,XC90 Recharge,2025,Standard,55877,FWD,5,Van,1577,5,Sweden,Mid-range,15994
+Volkswagen,ID.3,2024,Base,32754,RWD,5,Truck,2243,5,Germany,Budget,224478
+Volkswagen,ID.3,2022,Standard,73903,FWD,7,Van,1754,4,Germany,Premium,251288
+Ford,Explorer EV,2023,Base,52080,RWD,5,Van,1632,4,US,Mid-range,72053
+BYD,Dolphin,2025,Standard,22600,FWD,7,Hatchback,1771,5,China,Budget,131689
+Rivian,R1S,2024,Long Range,99040,FWD,5,Coupe,1864,5,US,Premium,10950
+Mercedes,EQC,2026,Performance,108053,AWD,7,Hatchback,2011,5,Germany,Luxury,49733
+Volkswagen,ID. Buzz,2023,Performance,50097,RWD,7,Van,1844,4,Germany,Mid-range,238954
+GM/Chevrolet,Blazer EV,2025,Standard,35979,FWD,5,SUV,1752,4,US,Mid-range,25503
+GM/Chevrolet,Equinox EV,2025,Performance,57051,RWD,7,SUV,2113,4,US,Mid-range,13660
+Tesla,Model Y,2025,Base,109970,RWD,5,Coupe,1709,4,US,Luxury,456748
+Audi,e-tron,2024,Long Range,92779,RWD,7,Hatchback,1511,4,Germany,Premium,22988
+Hyundai,i30,2025,Standard,65008,FWD,7,Hatchback,1717,4,South Korea,Premium,138781
+Mercedes,EQS,2023,Long Range,123139,AWD,7,Truck,2004,5,Germany,Luxury,65127
+BYD,Atto 3,2020,Performance,102788,RWD,5,Van,1500,4,China,Luxury,117639
+Audi,e-tron,2025,Base,79196,FWD,5,Sedan,1535,4,Germany,Premium,62967
+Volkswagen,ID.4,2024,Premium,93015,AWD,5,Truck,2324,5,Germany,Premium,264436
+Tesla,Model S,2023,Premium,131294,RWD,5,SUV,2015,4,US,Luxury,154508
+Audi,e-tron,2025,Base,84381,AWD,7,SUV,2209,4,Germany,Premium,37226
+Tesla,Model X,2025,Standard,76636,RWD,5,SUV,1709,5,US,Premium,167458
+BYD,Leaf 50X,2026,Premium,60331,RWD,5,Coupe,1729,4,China,Mid-range,145412
+Toyota,bZ Compact SUV,2022,Base,59241,RWD,5,SUV,2240,4,Japan,Mid-range,18789
+Toyota,bZ Compact SUV,2024,Standard,62299,AWD,5,SUV,2079,3,Japan,Mid-range,25820
+Kia,Picanto EV,2025,Base,41303,AWD,5,Truck,2736,5,South Korea,Mid-range,124417
+BMW,iX,2026,Standard,111476,RWD,5,Van,1551,4,Germany,Luxury,22266
+Volkswagen,ID.4,2023,Premium,44869,RWD,5,Sedan,1500,3,Germany,Mid-range,264149
+BYD,Atto 3,2026,Long Range,67427,FWD,5,Sedan,1641,4,China,Premium,102350
+BYD,Dolphin,2025,Performance,53328,RWD,5,Sedan,1500,4,China,Mid-range,120007
+BMW,i7,2022,Standard,69932,FWD,5,Hatchback,1591,5,Germany,Premium,52868
+GM/Chevrolet,Silverado EV,2025,Performance,50051,RWD,7,Sedan,1500,5,US,Mid-range,17861
+Ford,E-Transit,2026,Performance,48841,RWD,7,Hatchback,1844,4,US,Mid-range,32288
+Ford,Explorer EV,2021,Long Range,77562,FWD,5,Hatchback,1721,4,US,Premium,27293
+Tesla,Cybertruck,2025,Base,69447,RWD,5,Truck,2266,4,US,Premium,214270
+Hyundai,Ioniq 5,2023,Standard,68110,FWD,5,Truck,2701,4,South Korea,Premium,73761
+Tesla,Model Y,2023,Base,92950,RWD,5,SUV,2272,5,US,Premium,491547
+Kia,EV9,2022,Performance,67331,RWD,5,SUV,1973,5,South Korea,Premium,91349
+Volkswagen,ID. Aero,2025,Premium,89383,AWD,5,Truck,3000,4,Germany,Premium,222817
+Audi,Q4 e-tron,2024,Base,108295,RWD,5,Truck,2606,5,Germany,Luxury,75960
+BYD,Max,2025,Performance,92830,RWD,7,SUV,1909,5,China,Premium,235698
+Tesla,Cybertruck,2025,Premium,35992,AWD,5,Truck,2427,4,US,Mid-range,169730
+Tesla,Model 3,2025,Base,88596,AWD,7,Van,1570,5,US,Premium,124700
+Ford,Explorer EV,2023,Standard,73470,RWD,5,Coupe,1500,5,US,Premium,59218
+Kia,Niro EV,2026,Standard,72350,FWD,7,SUV,1981,4,South Korea,Premium,69075
+Tesla,Model X,2023,Performance,93392,AWD,7,SUV,2085,5,US,Premium,138082
+Tesla,Model S,2023,Premium,109016,FWD,5,Hatchback,1577,5,US,Luxury,113179
+GM/Chevrolet,Bolt EV,2024,Standard,40534,FWD,7,Coupe,1673,5,US,Mid-range,24616
+Tesla,Model Y,2024,Premium,47765,RWD,5,Sedan,1500,5,US,Mid-range,423769
+Ford,Mustang Mach-E,2024,Performance,92735,RWD,7,Van,1569,4,US,Premium,52532
+GM/Chevrolet,Bolt EUV,2024,Standard,53007,RWD,5,SUV,2061,4,US,Mid-range,25295
+Tesla,Model 3,2024,Long Range,74766,AWD,7,Sedan,1610,5,US,Premium,155185
+Tesla,Model S,2025,Base,43017,FWD,7,SUV,1663,5,US,Mid-range,118264
+Porsche,Taycan,2023,Base,145263,RWD,5,Hatchback,1755,4,Germany,Luxury,24347
+Volkswagen,ID.4,2022,Performance,102467,RWD,7,Truck,2347,5,Germany,Luxury,252835
+Volkswagen,ID.4,2025,Performance,66259,RWD,7,Sedan,1721,4,Germany,Premium,296982
+Ford,Explorer EV,2026,Standard,69137,FWD,5,SUV,2080,3,US,Premium,61663
+Toyota,bZ Compact SUV,2024,Long Range,87516,FWD,7,SUV,1886,4,Japan,Premium,24507
+Porsche,Taycan,2026,Long Range,220737,RWD,5,SUV,2169,5,Germany,Luxury,5345
+GM/Chevrolet,Bolt EV,2025,Premium,93152,RWD,7,Sedan,1500,5,US,Premium,20002
+Volkswagen,ID. Aero,2026,Standard,36004,FWD,7,Hatchback,1597,5,Germany,Mid-range,241049
+Tesla,Model S,2022,Long Range,119080,RWD,5,Truck,2165,5,US,Luxury,124340
+Ford,E-Transit,2023,Base,51057,RWD,5,Coupe,1639,5,US,Mid-range,59730
+Kia,Niro EV,2020,Base,46533,RWD,7,Van,1762,4,South Korea,Mid-range,63258
+Volkswagen,ID.4,2024,Premium,114365,RWD,5,Hatchback,1812,5,Germany,Luxury,233971
+Audi,e-tron GT,2025,Standard,109816,FWD,5,Sedan,1514,5,Germany,Luxury,73358
+Tesla,Model Y,2026,Standard,40007,FWD,7,Truck,2397,4,US,Mid-range,488644
+Hyundai,Ioniq 6,2025,Standard,63640,FWD,5,Truck,2077,4,South Korea,Mid-range,139571
+Tesla,Model Y,2025,Long Range,161112,AWD,7,Coupe,1641,4,US,Luxury,404800
+Hyundai,Ioniq 6,2025,Premium,44862,RWD,5,Coupe,1680,4,South Korea,Mid-range,98434
+Tesla,Model S,2023,Premium,137660,AWD,5,Coupe,1530,4,US,Luxury,167952
+Tesla,Model 3,2024,Base,32106,FWD,5,Coupe,1625,4,US,Budget,245170
+Tesla,Model 3,2025,Performance,42441,FWD,7,Truck,2532,5,US,Mid-range,230471
+BMW,iX,2022,Base,61657,AWD,5,SUV,1890,5,Germany,Mid-range,21575
+GM/Chevrolet,Equinox EV,2023,Base,37448,AWD,7,SUV,1971,5,US,Mid-range,12182
+Kia,EV9,2023,Standard,55592,AWD,5,SUV,2004,4,South Korea,Mid-range,113695
+Toyota,bZ4X,2024,Long Range,55686,FWD,5,Van,1570,5,Japan,Mid-range,18558
+Volkswagen,ID.4,2025,Long Range,47486,FWD,5,Sedan,1870,4,Germany,Mid-range,243761
+BYD,Dolphin,2025,Performance,53346,FWD,7,SUV,1923,5,China,Mid-range,141126
+Mercedes,EQC,2025,Long Range,162751,AWD,5,Sedan,1500,5,Germany,Luxury,68195
+BYD,Dolphin,2020,Standard,70473,AWD,5,Van,1731,3,China,Premium,199656
+Toyota,bZ4X,2024,Base,36014,FWD,5,Coupe,1500,4,Japan,Mid-range,5267
+Tesla,Model Y,2026,Base,41355,RWD,5,Van,1501,4,US,Mid-range,407336
+Fisker,Ronin,2024,Base,65556,RWD,7,Van,1500,5,US,Premium,2927
+Tesla,Model S,2026,Base,88832,FWD,7,Coupe,1583,5,US,Premium,238605
+Audi,Q4 e-tron,2026,Long Range,71435,FWD,7,Hatchback,1500,3,Germany,Premium,45647
+Hyundai,i30,2025,Standard,41854,FWD,7,Hatchback,1688,4,South Korea,Mid-range,111448
+Volvo,XC90 Recharge,2025,Premium,96814,FWD,7,Van,1615,5,Sweden,Premium,10606
+Tesla,Model Y,2025,Premium,129624,AWD,5,Truck,2337,5,US,Luxury,481115
+Kia,EV9,2024,Standard,70067,AWD,7,SUV,1704,4,South Korea,Premium,125092
+Fisker,Ocean,2025,Premium,141027,AWD,7,Sedan,1626,5,US,Luxury,11123
+Hyundai,Ioniq 5,2020,Standard,50631,FWD,5,Hatchback,1560,5,South Korea,Mid-range,60112
+BMW,i4,2025,Premium,113837,FWD,7,SUV,1950,4,Germany,Luxury,42535
+GM/Chevrolet,Silverado EV,2025,Standard,51177,FWD,7,Van,1514,4,US,Mid-range,14323
+Volkswagen,ID.3,2026,Long Range,92636,FWD,7,Truck,2583,5,Germany,Premium,243081
+BMW,i7,2024,Standard,64828,RWD,5,SUV,2130,4,Germany,Mid-range,69279
+Kia,Niro EV,2025,Performance,56005,AWD,7,Sedan,1649,5,South Korea,Mid-range,96451
+Audi,Q6 e-tron,2020,Standard,102595,FWD,5,Coupe,1500,3,Germany,Luxury,45569
+Tesla,Model Y,2022,Premium,74321,FWD,7,Truck,2356,5,US,Premium,438573
+BYD,Qin,2023,Base,51322,RWD,7,Hatchback,1815,5,China,Mid-range,135053
+Toyota,bZ4X,2024,Standard,61583,FWD,5,Hatchback,1929,5,Japan,Mid-range,26767
+Audi,Q6 e-tron,2022,Base,87895,FWD,7,Hatchback,1500,5,Germany,Premium,64291
+Volkswagen,ID.3,2025,Performance,88485,RWD,7,Coupe,1717,3,Germany,Premium,285530
+BMW,i3,2023,Premium,102427,RWD,7,Truck,2700,5,Germany,Luxury,26181
+BYD,Max,2025,Premium,104282,AWD,7,Van,1633,4,China,Luxury,164080
+Tesla,Model X,2026,Performance,167028,AWD,7,SUV,2121,4,US,Luxury,191484
+Hyundai,Ioniq 6,2024,Premium,45546,RWD,7,Sedan,1514,4,South Korea,Mid-range,71807
+BYD,Max,2025,Standard,86289,FWD,5,Van,1500,4,China,Premium,120560
+Kia,Picanto EV,2025,Base,58803,FWD,5,Truck,2466,4,South Korea,Mid-range,111130
+Tesla,Model S,2023,Standard,44025,FWD,7,Truck,2856,5,US,Mid-range,124369
+Fisker,Ocean,2024,Long Range,113332,RWD,5,Truck,2457,5,US,Luxury,17978
+Porsche,Taycan,2024,Long Range,111923,FWD,7,Hatchback,1657,5,Germany,Luxury,28429
+GM/Chevrolet,Silverado EV,2024,Performance,74263,RWD,7,Sedan,1589,5,US,Premium,24171
+Hyundai,Ioniq 5,2024,Long Range,41622,FWD,5,Hatchback,1900,5,South Korea,Mid-range,70525
+BYD,Qin,2025,Performance,122518,AWD,7,Hatchback,1755,4,China,Luxury,150780
+Ford,F-150 Lightning,2021,Base,63459,RWD,4,Truck,2629,4,US,Mid-range,76517
+BMW,i5,2023,Premium,140939,RWD,5,SUV,1843,5,Germany,Luxury,51811
+Tesla,Model 3,2025,Base,90299,AWD,5,Sedan,1528,3,US,Premium,163915
+Audi,Q4 e-tron,2025,Base,79689,AWD,5,Van,1714,4,Germany,Premium,66705
+Mercedes,EQC,2026,Base,137679,FWD,7,Coupe,1767,5,Germany,Luxury,34790
+Toyota,bZ4X,2025,Long Range,72609,AWD,5,Sedan,1731,4,Japan,Premium,13954
+GM/Chevrolet,Equinox EV,2025,Premium,91035,AWD,5,SUV,1847,4,US,Premium,12825
+Kia,Picanto EV,2023,Base,42172,AWD,5,Hatchback,1500,4,South Korea,Mid-range,135630
+Volkswagen,ID. Aero,2020,Long Range,40763,AWD,7,Coupe,1532,4,Germany,Mid-range,220087
+Rivian,R3,2025,Base,70881,FWD,5,Truck,2589,5,US,Premium,11173
+Mercedes,EQS,2024,Performance,114049,AWD,5,Van,1541,5,Germany,Luxury,68987
+Tesla,Model 3,2024,Standard,36657,AWD,5,Coupe,1813,5,US,Mid-range,208877
+Tesla,Cybertruck,2025,Premium,124866,AWD,5,Truck,2145,4,US,Luxury,223231
+Volkswagen,ID. Buzz,2026,Base,46635,FWD,7,Van,1500,4,Germany,Mid-range,203221
+Ford,Explorer EV,2023,Standard,68554,FWD,5,SUV,1984,5,US,Premium,60519
+Porsche,Taycan,2023,Performance,254017,AWD,5,Sedan,1500,5,Germany,Luxury,26159
+Tesla,Model X,2021,Standard,27946,AWD,7,Hatchback,1891,5,US,Budget,162791
+Kia,Niro EV,2024,Performance,51698,RWD,5,Truck,2631,5,South Korea,Mid-range,56242
+Volkswagen,ID.4,2024,Standard,36019,RWD,7,Hatchback,1771,4,Germany,Mid-range,209890
+Fisker,Ocean,2024,Premium,121375,AWD,7,Van,1768,3,US,Luxury,26859
+Mercedes,EQG,2026,Premium,115212,RWD,7,Sedan,1500,4,Germany,Luxury,42340
+Mercedes,EQG,2025,Standard,139106,RWD,7,Coupe,1656,5,Germany,Luxury,49644
+Hyundai,i30,2025,Standard,60051,AWD,5,Hatchback,1500,4,South Korea,Mid-range,138281
+Volkswagen,ID.4,2026,Standard,44501,FWD,7,Coupe,1547,5,Germany,Mid-range,220387
+BYD,Yuan Plus,2024,Base,40390,AWD,7,Coupe,1810,5,China,Mid-range,138054
+Tesla,Cybertruck,2024,Long Range,45682,RWD,5,Truck,2562,4,US,Mid-range,170687
+Mercedes,EQE,2025,Standard,103045,AWD,5,Van,1542,5,Germany,Luxury,75663
+Ford,Mustang Mach-E,2026,Long Range,53194,RWD,7,Van,1783,4,US,Mid-range,23578
+Honda,e:Ny1,2026,Performance,51309,RWD,5,Sedan,1557,5,Japan,Mid-range,6885
+Xiaomi,SU7,2024,Performance,102584,AWD,5,Hatchback,1831,5,China,Luxury,19780
+Kia,Sportage EV,2024,Long Range,99048,FWD,7,SUV,2057,5,South Korea,Premium,55742
+Ford,Mustang Mach-E,2023,Base,67976,AWD,7,SUV,2302,4,US,Premium,21067
+Toyota,bZ4X,2023,Standard,69286,AWD,7,Hatchback,1552,5,Japan,Premium,15625
+Mercedes,EQC,2024,Performance,167899,RWD,5,Coupe,1729,4,Germany,Luxury,20936
+BYD,Qin,2025,Standard,36623,FWD,5,Truck,2509,5,China,Mid-range,185983
+Volkswagen,ID.5,2025,Base,30097,AWD,7,Coupe,1883,5,Germany,Budget,289031
+Tesla,Model S,2023,Performance,82511,FWD,5,Coupe,1518,4,US,Premium,243479
+Toyota,bZ Compact SUV,2022,Performance,56752,RWD,5,SUV,2143,5,Japan,Mid-range,9887
+Kia,EV6,2024,Base,30277,RWD,5,Van,1644,5,South Korea,Budget,130299
+BYD,Qin,2024,Performance,103480,RWD,7,SUV,2052,4,China,Luxury,211837
+BMW,i7,2026,Base,48107,AWD,7,SUV,2060,4,Germany,Mid-range,49300
+Kia,Sportage EV,2023,Premium,102071,FWD,7,SUV,1859,3,South Korea,Luxury,148039
+Volkswagen,ID.3,2025,Premium,94111,AWD,7,Van,1687,5,Germany,Premium,225387
+Tesla,Cybertruck,2025,Standard,125306,AWD,7,Truck,2372,4,US,Luxury,199754
+BMW,i7,2026,Performance,116974,RWD,5,Truck,2650,5,Germany,Luxury,50944
+Hyundai,Ioniq 6,2024,Long Range,84752,RWD,5,Van,1511,5,South Korea,Premium,53893
+Ford,Explorer EV,2025,Standard,65329,RWD,7,Coupe,1592,4,US,Premium,24686
+Hyundai,Ioniq,2026,Long Range,78615,FWD,5,Truck,2653,5,South Korea,Premium,126223
+Mercedes,GLE EV,2026,Standard,135101,FWD,5,SUV,2160,4,Germany,Luxury,54508
+Kia,Niro EV,2023,Premium,96493,RWD,7,Van,1729,5,South Korea,Premium,123691
+Kia,EV9,2023,Base,52108,FWD,5,SUV,1976,5,South Korea,Mid-range,98868
+Audi,e-tron,2023,Base,93511,AWD,5,Hatchback,1834,5,Germany,Premium,70832
+Volkswagen,ID.4,2024,Standard,78233,FWD,5,Coupe,1684,4,Germany,Premium,259295
+Tesla,Model S,2025,Base,101976,FWD,5,Hatchback,1882,5,US,Luxury,160905
+Tesla,Model Y,2024,Standard,110001,AWD,5,Sedan,1577,4,US,Luxury,414109
+GM/Chevrolet,Equinox EV,2025,Performance,83117,AWD,5,SUV,1801,3,US,Premium,17250
+BMW,i7,2025,Premium,107463,RWD,5,Sedan,1736,5,Germany,Luxury,59946
+GM/Chevrolet,Blazer EV,2022,Standard,55685,FWD,7,Sedan,1642,4,US,Mid-range,22694
+BYD,Max,2026,Performance,90766,FWD,5,Sedan,1500,4,China,Premium,205278
+Tesla,Model Y,2026,Base,111102,FWD,5,Sedan,1767,5,US,Luxury,457566
+Tesla,Cybertruck,2026,Base,121350,AWD,5,Truck,2759,5,US,Luxury,144677
+BYD,Qin,2025,Base,43869,FWD,5,Coupe,1761,5,China,Mid-range,211394
+Kia,EV9,2026,Long Range,37919,AWD,5,SUV,2341,5,South Korea,Mid-range,92798
+Volkswagen,ID.5,2023,Premium,87379,AWD,7,Truck,2532,3,Germany,Premium,280958
+Volkswagen,ID. Aero,2025,Long Range,98050,FWD,7,Truck,2544,4,Germany,Premium,232457
+Audi,Q6 e-tron,2025,Base,91070,AWD,5,Sedan,1500,3,Germany,Premium,69627
+BYD,Dolphin,2026,Base,33590,AWD,7,Truck,2166,4,China,Budget,225478
+Hyundai,Ioniq 5,2023,Long Range,51553,RWD,5,Coupe,1500,5,South Korea,Mid-range,110986
+Ford,Mustang Mach-E,2025,Base,31921,AWD,5,Coupe,1500,5,US,Budget,21264
+Volkswagen,ID.4,2024,Long Range,67460,FWD,7,Truck,2596,4,Germany,Premium,219503
+BMW,i7,2025,Standard,56109,AWD,5,Hatchback,1729,5,Germany,Mid-range,32771
+Mercedes,EQS,2024,Performance,175696,AWD,5,Truck,2775,4,Germany,Luxury,47072
+Toyota,bZ Compact SUV,2020,Base,47570,RWD,5,SUV,1792,4,Japan,Mid-range,28709
+Tesla,Cybertruck,2024,Performance,68395,RWD,5,Truck,2391,5,US,Premium,230110
+Rivian,R1T,2025,Standard,78693,RWD,4,Truck,2866,4,US,Premium,14022
+Hyundai,Ioniq 6,2025,Standard,46340,FWD,5,Sedan,1585,3,South Korea,Mid-range,91894
+BYD,Seagull,2021,Standard,73231,AWD,5,Sedan,1547,4,China,Premium,227938
+Hyundai,Ioniq 6,2025,Standard,70402,FWD,5,Sedan,1500,5,South Korea,Premium,69074
+Polestar,3,2024,Premium,98224,RWD,5,Coupe,1500,4,Sweden,Premium,3904
+Hyundai,Ioniq,2024,Premium,39646,AWD,5,Hatchback,1595,5,South Korea,Mid-range,129173
+BYD,Yuan Plus,2023,Standard,70732,FWD,5,Hatchback,1764,4,China,Premium,198624
+BMW,i5,2023,Standard,106048,AWD,5,Hatchback,1511,5,Germany,Luxury,52016
+BYD,Seagull,2026,Standard,75688,AWD,7,Sedan,1545,3,China,Premium,230330
+Tesla,Model 3,2024,Premium,164904,AWD,5,Coupe,1747,3,US,Luxury,238934
+Tesla,Cybertruck,2025,Premium,104330,RWD,7,Truck,2220,4,US,Luxury,241443
+Tesla,Model 3,2022,Premium,74668,AWD,5,Truck,2148,5,US,Premium,245609
+Tesla,Model S,2024,Standard,132958,RWD,7,Sedan,1603,5,US,Luxury,220563
+Tesla,Model Y,2025,Performance,146522,AWD,5,SUV,1942,4,US,Luxury,406719
+BMW,i7,2024,Long Range,126323,FWD,7,Hatchback,1500,5,Germany,Luxury,51591
+Tesla,Model X,2025,Base,42945,AWD,7,SUV,1861,5,US,Mid-range,202664
+BYD,Dolphin,2024,Long Range,38015,AWD,7,SUV,1687,5,China,Mid-range,241420
+Audi,e-tron,2025,Standard,109442,AWD,5,Hatchback,1589,4,Germany,Luxury,27623
+Hyundai,Ioniq 6,2026,Long Range,93180,FWD,5,Sedan,1500,4,South Korea,Premium,64997
+BMW,i5,2025,Premium,79696,AWD,5,Truck,2846,5,Germany,Premium,32509
+Tesla,Model Y,2025,Standard,85878,RWD,7,Sedan,2009,4,US,Premium,499717
+Tesla,Model Y,2021,Standard,49771,FWD,5,Coupe,1578,3,US,Mid-range,483023
+Tesla,Model 3,2025,Premium,60544,RWD,5,Truck,2538,5,US,Mid-range,170776
+Tesla,Model S,2026,Long Range,125991,FWD,7,Hatchback,1589,5,US,Luxury,200607
+BYD,Seagull,2020,Long Range,48720,FWD,5,Coupe,1511,4,China,Mid-range,158941
+Tesla,Model X,2022,Performance,66278,RWD,5,Truck,2882,3,US,Premium,108652
+Tesla,Model Y,2025,Standard,122991,AWD,5,Hatchback,1500,4,US,Luxury,444103
+Tesla,Model 3,2025,Standard,77509,RWD,7,Hatchback,1500,3,US,Premium,156028
+Hyundai,Ioniq 5,2025,Base,42592,FWD,5,Truck,2777,4,South Korea,Mid-range,124929
+BYD,Max,2026,Standard,42446,AWD,7,Coupe,1642,4,China,Mid-range,217748
+Volkswagen,ID. Aero,2023,Performance,44275,AWD,7,Hatchback,1606,5,Germany,Mid-range,209760
+Hyundai,Ioniq 6,2025,Performance,107109,AWD,5,SUV,2249,5,South Korea,Luxury,92278
+GM/Chevrolet,Bolt EV,2023,Base,38370,FWD,7,SUV,2174,5,US,Mid-range,19280
+Tesla,Model S,2023,Long Range,82873,AWD,7,Coupe,1852,5,US,Premium,233601
+Ford,Mustang Mach-E,2024,Premium,96727,AWD,7,Hatchback,1832,3,US,Premium,75873
+BMW,i7,2024,Base,84386,FWD,7,Sedan,1500,5,Germany,Premium,74771
+Tesla,Model Y,2025,Long Range,33796,RWD,5,SUV,2400,5,US,Budget,476519
+Audi,e-tron GT,2025,Base,67635,FWD,5,Sedan,1712,4,Germany,Premium,62437
+Rivian,R2,2025,Long Range,105675,AWD,5,SUV,2353,5,US,Luxury,25421
+Tesla,Model X,2023,Standard,43959,FWD,5,SUV,1838,3,US,Mid-range,124556
+BYD,Dolphin,2025,Base,19398,FWD,5,Van,1500,4,China,Budget,165718
+Ford,Explorer EV,2026,Base,55828,RWD,5,Hatchback,1668,5,US,Mid-range,64449
+GM/Chevrolet,Blazer EV,2025,Standard,55792,FWD,7,SUV,1903,5,US,Mid-range,16439
+Tesla,Model 3,2025,Premium,151283,AWD,5,Sedan,1557,5,US,Luxury,203592
+BYD,Qin,2024,Performance,54578,AWD,5,Hatchback,1638,5,China,Mid-range,139526
+Volkswagen,ID. Buzz,2025,Standard,55247,AWD,5,Sedan,1500,5,Germany,Mid-range,220284
+Hyundai,Ioniq 6,2025,Base,37922,RWD,5,SUV,1992,3,South Korea,Mid-range,75225
+Kia,EV9,2023,Base,65534,FWD,5,SUV,1815,4,South Korea,Premium,115671
+Volkswagen,ID.3,2026,Standard,36868,RWD,7,Van,1542,5,Germany,Mid-range,299992
+Hyundai,Ioniq 6,2023,Standard,66320,RWD,7,Van,1709,4,South Korea,Premium,139935
+GM/Chevrolet,Blazer EV,2026,Standard,47749,RWD,7,Truck,2378,5,US,Mid-range,11602
+Tesla,Model S,2025,Standard,75213,FWD,7,Sedan,1513,5,US,Premium,148099
+BYD,Atto 3,2025,Long Range,87159,AWD,5,Truck,2527,3,China,Premium,204628
+GM/Chevrolet,Bolt EUV,2021,Standard,44183,RWD,5,Van,1615,5,US,Mid-range,22786
+Audi,e-tron,2023,Standard,63314,AWD,5,Van,1632,4,Germany,Mid-range,25175
+Hyundai,Kona Electric,2024,Long Range,90975,FWD,7,Van,1741,4,South Korea,Premium,59668
+Hyundai,Ioniq 5,2022,Performance,81725,AWD,5,Sedan,1500,5,South Korea,Premium,72070
+Tesla,Model Y,2025,Long Range,64135,RWD,5,Hatchback,1742,4,US,Mid-range,427732
+Volkswagen,ID.4,2025,Performance,91484,AWD,5,Coupe,1500,4,Germany,Premium,206750
+Hyundai,i30,2024,Premium,40686,AWD,7,Hatchback,1548,5,South Korea,Mid-range,143645
+BYD,Dolphin,2025,Base,52144,FWD,7,Hatchback,1600,4,China,Mid-range,212512
+BYD,Yuan Plus,2024,Base,73962,RWD,5,Sedan,1597,5,China,Premium,121424
+Volkswagen,ID.5,2023,Performance,62312,FWD,7,Sedan,1792,4,Germany,Mid-range,298301
+Tesla,Model 3,2024,Long Range,73678,RWD,5,Coupe,1536,5,US,Premium,201869
+BYD,Leaf 50X,2021,Premium,32843,AWD,5,SUV,2155,4,China,Budget,173134
+BYD,Atto 3,2023,Performance,62875,RWD,5,Sedan,1665,4,China,Mid-range,207361
+BYD,Atto 3,2022,Premium,107436,RWD,5,SUV,1887,5,China,Luxury,201045
+Tesla,Model 3,2025,Premium,154569,RWD,5,Coupe,1756,5,US,Luxury,245844
+Audi,e-tron,2024,Standard,62074,RWD,7,SUV,2242,5,Germany,Mid-range,41240
+Kia,EV6,2024,Performance,68316,RWD,7,Hatchback,1907,4,South Korea,Premium,86275
+BMW,iX,2023,Base,98462,FWD,7,Sedan,1509,5,Germany,Premium,22686
+Ford,Mustang Mach-E,2023,Premium,61501,AWD,7,Sedan,1576,5,US,Mid-range,52208
+Hyundai,Ioniq 6,2024,Standard,60165,FWD,7,SUV,1827,5,South Korea,Mid-range,85467
+Tesla,Model 3,2023,Standard,123172,FWD,5,Hatchback,1779,4,US,Luxury,165942
+Hyundai,i30,2024,Base,35093,FWD,5,Van,1663,4,South Korea,Mid-range,117101
+Kia,Niro EV,2021,Premium,101333,RWD,5,Van,1660,4,South Korea,Luxury,89918
+GM/Chevrolet,Blazer EV,2022,Long Range,54306,FWD,5,Van,1708,5,US,Mid-range,18445
+Volkswagen,ID. Buzz,2025,Performance,58008,RWD,7,Van,1781,3,Germany,Mid-range,241176
+Tesla,Cybertruck,2024,Performance,188965,RWD,7,Truck,2274,4,US,Luxury,239165
+BYD,Leaf 50X,2025,Standard,33650,AWD,7,Sedan,1698,4,China,Budget,210399
+Volkswagen,ID. Buzz,2023,Base,31851,FWD,5,Sedan,1500,5,Germany,Budget,272903
+BMW,iX,2026,Standard,111338,RWD,7,Van,1641,4,Germany,Luxury,20689
+Kia,Sportage EV,2024,Standard,56593,RWD,5,SUV,2177,4,South Korea,Mid-range,135755
+Volkswagen,ID.3,2024,Base,71570,RWD,7,SUV,2030,5,Germany,Premium,287315
+Porsche,Macan Electric,2023,Long Range,139595,FWD,7,Hatchback,1829,3,Germany,Luxury,9428
+Kia,Niro EV,2023,Standard,42129,FWD,7,Hatchback,1795,4,South Korea,Mid-range,121472
+BYD,Seagull,2023,Base,52361,FWD,7,Hatchback,1500,4,China,Mid-range,203886
+Tesla,Cybertruck,2022,Performance,161514,RWD,5,Truck,2605,4,US,Luxury,172224
+Tesla,Model S,2025,Performance,99546,AWD,7,Hatchback,1588,4,US,Premium,244941
+BYD,Dolphin,2023,Premium,78664,AWD,5,Truck,2356,5,China,Premium,238674
+Tesla,Model Y,2022,Base,75540,FWD,5,Coupe,1503,5,US,Premium,455317
+Tesla,Model S,2025,Performance,135541,RWD,5,SUV,2369,5,US,Luxury,108193
+BYD,Seagull,2024,Base,24520,AWD,7,Hatchback,1739,5,China,Budget,191198
+Tesla,Model Y,2026,Base,113351,FWD,7,Sedan,1500,5,US,Luxury,463970
+Audi,Q6 e-tron,2025,Base,80915,FWD,5,Sedan,1500,5,Germany,Premium,22856
+Tesla,Model X,2023,Performance,84448,FWD,5,Sedan,1535,4,US,Premium,103295
+Hyundai,Ioniq,2024,Base,31858,FWD,7,Hatchback,1538,3,South Korea,Budget,89552
+Volkswagen,ID.5,2025,Standard,70801,FWD,7,SUV,1837,5,Germany,Premium,299914
+Polestar,4,2025,Standard,80679,AWD,5,Hatchback,1818,5,Sweden,Premium,7428
+Tesla,Model S,2025,Base,29089,FWD,7,Van,1535,5,US,Budget,173989
+Volkswagen,ID.3,2026,Long Range,57232,RWD,7,Van,1604,4,Germany,Mid-range,290062
+Fisker,Ronin,2025,Premium,67039,AWD,7,Coupe,1735,5,US,Premium,2336
+Mercedes,EQG,2024,Base,72881,RWD,5,Truck,2466,4,Germany,Premium,46123
+Ford,E-Transit,2024,Premium,81885,AWD,5,Hatchback,1998,3,US,Premium,49332
+BYD,Dolphin,2024,Base,27229,FWD,5,Hatchback,1522,5,China,Budget,118103
+Tesla,Cybertruck,2022,Performance,39720,AWD,5,Truck,2610,5,US,Mid-range,220959
+BMW,i4,2024,Long Range,83738,FWD,5,Sedan,1527,4,Germany,Premium,68789
+Rivian,R2,2025,Performance,104305,FWD,7,Hatchback,1500,4,US,Luxury,26219
+Kia,EV6,2025,Performance,107335,AWD,5,Truck,2775,5,South Korea,Luxury,56222
+Kia,Picanto EV,2026,Long Range,38689,FWD,7,SUV,1906,3,South Korea,Mid-range,112175
+BYD,Dolphin,2025,Standard,45069,RWD,5,Sedan,1566,5,China,Mid-range,196546
+Ford,E-Transit,2023,Standard,38404,FWD,5,Truck,3000,3,US,Mid-range,49683
+Tesla,Model S,2025,Standard,47712,FWD,5,Sedan,1500,4,US,Mid-range,180408
+BYD,Dolphin,2023,Long Range,77361,RWD,7,Truck,2502,5,China,Premium,154361
+Volkswagen,ID. Buzz,2024,Base,65767,FWD,7,Van,1591,5,Germany,Premium,214102
+Hyundai,Ioniq 6,2025,Premium,72309,AWD,5,Van,1602,3,South Korea,Premium,143294
+BYD,Leaf 50X,2021,Performance,86937,FWD,7,Sedan,1500,5,China,Premium,145646
+Tesla,Model 3,2026,Standard,127647,FWD,7,SUV,2416,4,US,Luxury,120535
+Kia,Sportage EV,2025,Long Range,37973,RWD,5,SUV,2061,4,South Korea,Mid-range,66783
+BYD,Atto 3,2023,Long Range,48954,AWD,5,Van,1616,5,China,Mid-range,200483
+Kia,EV9,2021,Long Range,60642,AWD,5,SUV,2142,5,South Korea,Mid-range,116742
+Tesla,Model S,2025,Long Range,89183,FWD,5,Truck,2123,4,US,Premium,161378
+Hyundai,Ioniq 5,2024,Premium,41142,AWD,5,Hatchback,1865,4,South Korea,Mid-range,133250
+Hyundai,Ioniq 5,2025,Long Range,49595,RWD,5,Coupe,1805,5,South Korea,Mid-range,108288
+Tesla,Model S,2025,Base,99046,FWD,5,SUV,2154,4,US,Premium,134937
+BYD,Leaf 50X,2024,Standard,68838,FWD,7,Coupe,1666,4,China,Premium,173863
+Tesla,Model 3,2024,Long Range,54793,FWD,5,Hatchback,1657,4,US,Mid-range,136524
+Tesla,Cybertruck,2025,Premium,160712,AWD,5,Truck,2776,5,US,Luxury,208796
+Volvo,C40 Recharge,2026,Long Range,68235,FWD,5,SUV,2235,4,Sweden,Premium,22605
+BYD,Atto 3,2023,Base,53519,FWD,7,Hatchback,1500,4,China,Mid-range,222794
+Ford,E-Transit,2025,Standard,43156,FWD,5,Van,1526,4,US,Mid-range,34530
+BYD,Leaf 50X,2021,Base,44708,RWD,7,Hatchback,1500,4,China,Mid-range,132992
+BMW,i7,2022,Long Range,115394,AWD,5,Sedan,1500,5,Germany,Luxury,58674
+GM/Chevrolet,Bolt EUV,2025,Base,38010,RWD,7,Hatchback,1852,4,US,Mid-range,16274
+Kia,EV6,2024,Standard,70387,RWD,5,Sedan,1504,4,South Korea,Premium,72998
+Hyundai,Ioniq,2022,Long Range,67747,AWD,5,Coupe,1778,5,South Korea,Premium,100096
+Volkswagen,ID.4,2024,Performance,78110,FWD,7,Truck,2339,5,Germany,Premium,260956
+BYD,Max,2025,Base,23230,AWD,5,Van,1500,5,China,Budget,183226
+Rivian,R1S,2026,Standard,87078,RWD,5,Coupe,1649,5,US,Premium,21561
+Mercedes,EQG,2023,Long Range,133059,AWD,7,Truck,2651,5,Germany,Luxury,29039
+Fisker,Ronin,2026,Base,89077,FWD,5,Coupe,1746,4,US,Premium,28442
+Tesla,Model 3,2025,Premium,106222,AWD,7,Sedan,1593,4,US,Luxury,106799
+GM/Chevrolet,Bolt EV,2024,Standard,59254,RWD,7,Truck,2655,5,US,Mid-range,22516
+NIO,ET6,2025,Standard,70152,AWD,7,Truck,2579,5,China,Premium,21427
+Tesla,Model X,2022,Standard,45368,FWD,5,Sedan,1627,5,US,Mid-range,112809
+Tesla,Cybertruck,2026,Base,101101,RWD,5,Truck,2449,3,US,Luxury,118722
+GM/Chevrolet,Silverado EV,2024,Performance,71691,AWD,5,Sedan,1500,4,US,Premium,26479
+Kia,EV6,2026,Base,65903,AWD,5,Sedan,1918,4,South Korea,Premium,95119
+Mercedes,GLE EV,2024,Performance,178912,AWD,5,Truck,2315,4,Germany,Luxury,68804
+Tesla,Model Y,2025,Long Range,97027,RWD,5,Truck,2443,5,US,Premium,401761
+Ford,F-150 Lightning,2025,Long Range,53282,FWD,4,Truck,2590,4,US,Mid-range,59310
+Tesla,Model Y,2023,Standard,53432,AWD,7,Coupe,1500,5,US,Mid-range,490497
+Tesla,Model X,2025,Long Range,92232,FWD,5,Van,1571,4,US,Premium,226342
+Tesla,Model X,2024,Standard,125066,RWD,7,Hatchback,1620,4,US,Luxury,243623
+Ford,F-150 Lightning,2020,Long Range,67768,FWD,2,Truck,2624,5,US,Premium,25258
+BMW,i3,2026,Standard,62675,FWD,5,Coupe,1500,3,Germany,Mid-range,61611
+Hyundai,Kona Electric,2023,Long Range,40703,AWD,5,SUV,2484,4,South Korea,Mid-range,128695
+Volkswagen,ID. Buzz,2026,Premium,50056,RWD,7,Hatchback,1500,5,Germany,Mid-range,296123
+Audi,e-tron GT,2023,Base,67690,RWD,5,Sedan,1806,4,Germany,Premium,63429
+Volkswagen,ID.3,2024,Long Range,37558,FWD,7,Coupe,1738,5,Germany,Mid-range,247190
+Ford,E-Transit,2024,Standard,48329,AWD,7,SUV,2108,4,US,Mid-range,34857
+Volkswagen,ID. Aero,2025,Long Range,102772,FWD,5,Van,2045,4,Germany,Luxury,235887
+Volkswagen,ID. Aero,2025,Long Range,97037,RWD,5,Coupe,1540,4,Germany,Premium,292071
+Hyundai,i30,2025,Long Range,81033,RWD,7,Coupe,1543,5,South Korea,Premium,132543
+BYD,Atto 3,2024,Long Range,53347,AWD,7,Sedan,1500,5,China,Mid-range,234710
+GM/Chevrolet,Silverado EV,2022,Base,39748,FWD,7,Van,1622,5,US,Mid-range,29407
+Hyundai,Ioniq,2025,Standard,59265,AWD,5,Van,1500,5,South Korea,Mid-range,55296
+BYD,Dolphin,2025,Long Range,24263,FWD,7,Coupe,1702,4,China,Budget,185360
+Audi,Q6 e-tron,2023,Base,103373,AWD,5,Sedan,1652,4,Germany,Luxury,46342
+Volkswagen,ID. Buzz,2025,Base,65624,FWD,5,Sedan,1849,5,Germany,Premium,228265
+Kia,EV6,2025,Base,34297,AWD,7,Coupe,1500,4,South Korea,Budget,124108
+Audi,Q6 e-tron,2023,Premium,94047,AWD,5,Truck,2616,5,Germany,Premium,36637
+BMW,i5,2024,Base,85525,AWD,7,SUV,1949,5,Germany,Premium,61102
+Tesla,Model 3,2025,Long Range,37325,RWD,5,Coupe,1636,3,US,Mid-range,182729
+NIO,EL8,2023,Standard,65638,FWD,5,Hatchback,1846,5,China,Premium,24026
+BMW,i3,2023,Premium,86679,AWD,5,Truck,2454,5,Germany,Premium,68670
+BYD,Seagull,2024,Base,18386,FWD,7,Hatchback,1500,4,China,Budget,194535
+Tesla,Model 3,2025,Base,39961,RWD,5,Hatchback,1862,5,US,Mid-range,132702
+Ford,F-150 Lightning,2025,Standard,71167,FWD,2,Truck,2632,4,US,Premium,29813
+BMW,iX,2021,Performance,122478,AWD,5,Hatchback,1612,3,Germany,Luxury,61194
+Hyundai,Kona Electric,2025,Standard,33896,FWD,5,Sedan,1542,4,South Korea,Budget,74203
+Audi,e-tron GT,2026,Premium,101047,RWD,5,SUV,2084,4,Germany,Luxury,68624
+Ford,Explorer EV,2023,Standard,42430,AWD,7,Sedan,1767,3,US,Mid-range,37998
+Tesla,Model X,2025,Standard,81903,RWD,5,Sedan,1640,4,US,Premium,135577
+BYD,Max,2026,Long Range,92694,RWD,7,Truck,2517,5,China,Premium,133159
+BYD,Atto 3,2026,Performance,110110,AWD,7,Van,1500,4,China,Luxury,116675
+GM/Chevrolet,Equinox EV,2026,Premium,81491,RWD,5,SUV,2230,3,US,Premium,15310
+Tesla,Cybertruck,2022,Base,83012,FWD,5,Truck,2568,4,US,Premium,132378
+Kia,Sportage EV,2023,Premium,59926,RWD,7,SUV,1956,5,South Korea,Mid-range,144832
+Ford,F-150 Lightning,2025,Premium,44325,AWD,2,Truck,2675,4,US,Mid-range,57644
+Audi,e-tron,2025,Standard,114471,AWD,7,Van,1500,4,Germany,Luxury,21563
+BYD,Atto 3,2026,Long Range,104594,RWD,5,Van,1680,5,China,Luxury,219672
+Ford,F-150 Lightning,2026,Premium,95704,RWD,2,Truck,2262,5,US,Premium,70819
+Tesla,Cybertruck,2024,Long Range,81331,AWD,5,Truck,2504,5,US,Premium,192430
+Mercedes,GLE EV,2025,Long Range,83712,FWD,7,Van,1677,3,Germany,Premium,37695
+Tesla,Model 3,2023,Standard,106795,RWD,5,Van,1724,5,US,Luxury,212365
+Volkswagen,ID. Aero,2025,Long Range,92183,FWD,5,Sedan,1549,5,Germany,Premium,254291
+Ford,Explorer EV,2025,Base,31806,RWD,5,Truck,2587,4,US,Budget,49546
+Tesla,Model S,2023,Premium,64307,RWD,7,Hatchback,1754,4,US,Mid-range,138801
+BYD,Max,2023,Long Range,99850,FWD,7,Truck,2608,5,China,Premium,207644
+GM/Chevrolet,Blazer EV,2024,Premium,70082,AWD,7,Hatchback,1500,5,US,Premium,20253
+GM/Chevrolet,Silverado EV,2024,Standard,61768,FWD,7,SUV,1989,4,US,Mid-range,27695
+BMW,i4,2022,Base,87727,FWD,7,Van,1500,5,Germany,Premium,35030
+GM/Chevrolet,Bolt EUV,2025,Standard,29502,RWD,7,Hatchback,1722,4,US,Budget,19509
+Kia,EV6,2026,Premium,81788,RWD,7,Coupe,1500,3,South Korea,Premium,103637
+BYD,Atto 3,2025,Performance,94900,AWD,5,Hatchback,1500,5,China,Premium,172031
+BYD,Max,2026,Standard,76923,RWD,5,Truck,2840,5,China,Premium,121433
+Tesla,Model 3,2024,Premium,173467,AWD,5,Hatchback,2086,4,US,Luxury,241741
+Audi,Q6 e-tron,2024,Premium,105362,FWD,5,Coupe,1500,5,Germany,Luxury,22361
+Kia,Picanto EV,2022,Standard,39230,FWD,5,Hatchback,1570,4,South Korea,Mid-range,92917
+Volkswagen,ID.5,2022,Premium,90567,AWD,5,Truck,2426,5,Germany,Premium,266134
+Hyundai,Ioniq,2025,Performance,95402,AWD,7,Coupe,1627,4,South Korea,Premium,124589
+Toyota,bZ Compact SUV,2025,Long Range,84186,FWD,5,SUV,1969,5,Japan,Premium,15914
+Tesla,Model Y,2026,Standard,131838,FWD,7,Sedan,1541,5,US,Luxury,410211
+Kia,EV9,2024,Base,36207,AWD,7,SUV,2343,4,South Korea,Mid-range,96649
+Hyundai,Ioniq 5,2026,Standard,60217,FWD,5,SUV,2085,4,South Korea,Mid-range,83698
+Kia,Sportage EV,2025,Premium,76146,FWD,5,SUV,1980,4,South Korea,Premium,86432
+Tesla,Model 3,2024,Premium,92301,RWD,7,Hatchback,1604,5,US,Premium,249410
+Mercedes,GLE EV,2025,Premium,158317,AWD,5,Van,1882,5,Germany,Luxury,22636
+Rivian,R3,2025,Performance,109164,AWD,5,Hatchback,1853,5,US,Luxury,19234
+Kia,Niro EV,2025,Premium,108568,AWD,7,Van,1655,4,South Korea,Luxury,139588
+GM/Chevrolet,Silverado EV,2024,Base,33469,FWD,5,SUV,2124,4,US,Budget,2373
+Rivian,R3,2025,Base,79069,RWD,5,SUV,1833,5,US,Premium,25139
+GM/Chevrolet,Bolt EV,2023,Base,59075,AWD,7,Coupe,1586,4,US,Mid-range,15584
+Tesla,Model 3,2025,Base,38137,FWD,7,Sedan,1674,5,US,Mid-range,113015
+Kia,Sportage EV,2024,Premium,72899,AWD,5,SUV,1586,5,South Korea,Premium,78422
+Kia,Sportage EV,2026,Base,72430,RWD,5,SUV,1686,5,South Korea,Premium,52716
+Volkswagen,ID. Aero,2024,Performance,90339,AWD,5,SUV,2218,4,Germany,Premium,202441
+GM/Chevrolet,Bolt EUV,2024,Standard,57794,FWD,7,Truck,2854,5,US,Mid-range,28957
+NIO,EL6,2024,Long Range,99775,RWD,5,SUV,1845,4,China,Premium,27479
+Rivian,R2,2026,Long Range,98563,AWD,7,SUV,2158,3,US,Premium,20133
+Volkswagen,ID. Buzz,2025,Premium,45327,AWD,5,Coupe,1619,4,Germany,Mid-range,299882
+Tesla,Model Y,2023,Standard,100758,RWD,7,SUV,1900,5,US,Luxury,472436
+Porsche,Macan Electric,2025,Standard,185797,AWD,7,Coupe,1665,4,Germany,Luxury,21608
+Mercedes,EQG,2025,Long Range,94597,AWD,5,Coupe,1500,5,Germany,Premium,48573
+Tesla,Model S,2021,Premium,108109,AWD,5,Van,1524,4,US,Luxury,201131
+Rivian,R2,2025,Base,79448,AWD,7,Truck,2460,5,US,Premium,21177
+Mercedes,EQC,2026,Premium,151395,AWD,5,Van,1500,5,Germany,Luxury,37405
+Hyundai,i30,2025,Standard,30173,FWD,5,Truck,2516,3,South Korea,Budget,76614
+Kia,Niro EV,2024,Performance,81763,AWD,5,Coupe,1629,4,South Korea,Premium,93663
+Volkswagen,ID. Buzz,2026,Long Range,42400,FWD,5,Hatchback,1500,4,Germany,Mid-range,252676
+Tesla,Model X,2022,Standard,98266,FWD,5,Hatchback,1500,4,US,Premium,144367
+BYD,Max,2024,Standard,70847,AWD,7,Van,1921,4,China,Premium,234001
+Ford,Explorer EV,2023,Performance,78509,RWD,5,Van,1650,4,US,Premium,51688
+Tesla,Cybertruck,2022,Premium,154963,AWD,5,Truck,1876,5,US,Luxury,148718
+BYD,Yuan Plus,2023,Long Range,44085,RWD,7,Coupe,1693,4,China,Mid-range,187463
+Volkswagen,ID.3,2024,Long Range,47039,RWD,7,Truck,2639,5,Germany,Mid-range,270498
+Hyundai,Ioniq 5,2025,Long Range,50916,FWD,5,Sedan,1672,3,South Korea,Mid-range,54316
+Rivian,R1S,2022,Base,64348,RWD,7,SUV,2128,5,US,Mid-range,3522
+BYD,Atto 3,2022,Base,21385,RWD,5,Hatchback,1781,5,China,Budget,233873
+BYD,Atto 3,2025,Long Range,99108,FWD,7,Hatchback,1842,5,China,Premium,190865
+GM/Chevrolet,Bolt EV,2025,Base,60513,AWD,7,Hatchback,1720,5,US,Mid-range,12934
+Volkswagen,ID.5,2023,Performance,64071,RWD,5,Coupe,1826,3,Germany,Mid-range,290103
+BYD,Atto 3,2026,Performance,31933,RWD,7,Coupe,1500,3,China,Budget,219100
+Volkswagen,ID.3,2026,Standard,33484,AWD,5,Truck,2437,5,Germany,Budget,207337
+Tesla,Model S,2025,Performance,68594,FWD,7,Coupe,1685,5,US,Premium,245974
+Tesla,Cybertruck,2025,Standard,61013,FWD,7,Truck,2708,3,US,Mid-range,132800
+Hyundai,Ioniq 5,2025,Base,68602,FWD,7,SUV,2317,5,South Korea,Premium,109721
+Volkswagen,ID. Aero,2021,Long Range,76215,RWD,5,Truck,2363,5,Germany,Premium,249899
+Rivian,R1S,2026,Premium,110739,RWD,5,Sedan,1664,5,US,Luxury,26386
+Volkswagen,ID.4,2024,Performance,111511,AWD,7,Truck,2464,5,Germany,Luxury,230069
+Kia,Niro EV,2025,Premium,64727,RWD,5,Truck,2102,5,South Korea,Mid-range,135916
+BMW,i7,2023,Base,89651,RWD,5,Truck,2470,4,Germany,Premium,72062
+Tesla,Model 3,2023,Performance,125634,RWD,7,Hatchback,1567,5,US,Luxury,223587
+BMW,i3,2025,Base,93156,FWD,5,Van,1564,4,Germany,Premium,71204
+Tesla,Cybertruck,2022,Long Range,93999,FWD,5,Truck,2476,5,US,Premium,124977
+Toyota,bZ Compact SUV,2023,Premium,52161,RWD,7,SUV,2088,5,Japan,Mid-range,7110
+Tesla,Model S,2024,Performance,77898,RWD,5,Sedan,1500,4,US,Premium,153891
+Volkswagen,ID.4,2025,Base,78699,RWD,5,Coupe,1649,5,Germany,Premium,200182
+Tesla,Model S,2021,Base,109936,AWD,7,Truck,2219,4,US,Luxury,117148
+Xiaomi,SU7,2024,Performance,115673,RWD,5,SUV,2328,3,China,Luxury,8357
+Hyundai,Kona Electric,2024,Performance,43667,AWD,5,Van,1707,4,South Korea,Mid-range,71109
+Kia,EV6,2025,Base,60524,RWD,7,Coupe,1638,4,South Korea,Mid-range,105178
+Tesla,Model 3,2021,Standard,24980,RWD,5,Hatchback,1500,5,US,Budget,132068
+GM/Chevrolet,Blazer EV,2024,Base,58717,FWD,5,Sedan,1754,5,US,Mid-range,22110
+BYD,Qin,2024,Base,17777,FWD,7,Hatchback,1788,4,China,Budget,212740
+Audi,Q4 e-tron,2026,Performance,163471,RWD,7,Sedan,1500,5,Germany,Luxury,31112
+BYD,Seagull,2021,Base,53783,RWD,5,Van,1599,4,China,Mid-range,162990
+Tesla,Model Y,2022,Long Range,38805,RWD,5,Truck,2329,5,US,Mid-range,424786
+Tesla,Model X,2024,Performance,90520,AWD,5,Coupe,1771,4,US,Premium,189429
+Hyundai,Ioniq 5,2025,Base,46385,RWD,5,Truck,2726,4,South Korea,Mid-range,58564
+Kia,Niro EV,2026,Performance,110516,AWD,5,Coupe,1738,5,South Korea,Luxury,62032
+Tesla,Cybertruck,2023,Standard,35072,FWD,7,Truck,2535,5,US,Mid-range,139628
+Ford,Explorer EV,2025,Performance,106247,FWD,5,Coupe,1701,5,US,Luxury,49209
+Volkswagen,ID.3,2026,Base,56735,AWD,7,Hatchback,1500,4,Germany,Mid-range,257294
+Hyundai,Ioniq,2025,Long Range,74693,RWD,7,Hatchback,1739,5,South Korea,Premium,138161
+Volkswagen,ID.5,2022,Premium,70141,AWD,5,Hatchback,1533,5,Germany,Premium,203826
+Volkswagen,ID.5,2025,Standard,60219,AWD,5,Van,1739,5,Germany,Mid-range,290126
+Kia,Picanto EV,2020,Base,44609,RWD,7,Sedan,1545,4,South Korea,Mid-range,62067
+Tesla,Model 3,2025,Performance,58453,RWD,7,Van,1813,3,US,Mid-range,216013
+Tesla,Cybertruck,2023,Premium,118801,FWD,7,Truck,2562,4,US,Luxury,197139
+Mercedes,EQC,2024,Performance,87690,AWD,5,Hatchback,1957,4,Germany,Premium,36911
+Toyota,bZ4X,2022,Standard,55776,FWD,5,Coupe,1626,4,Japan,Mid-range,18523
+Volkswagen,ID. Aero,2023,Standard,51299,RWD,5,Coupe,1555,5,Germany,Mid-range,222298
+BYD,Dolphin,2025,Standard,82760,RWD,5,SUV,1789,3,China,Premium,125776
+BMW,i4,2023,Performance,130984,RWD,7,Van,1500,5,Germany,Luxury,64205
+Volkswagen,ID.4,2025,Base,65062,AWD,5,Coupe,1613,5,Germany,Premium,282957
+Tesla,Model S,2022,Premium,163493,RWD,7,Hatchback,1653,5,US,Luxury,241709
+Tesla,Model X,2023,Premium,53974,FWD,7,Sedan,1500,5,US,Mid-range,206669
+GM/Chevrolet,Bolt EV,2025,Performance,60211,FWD,5,Coupe,1519,4,US,Mid-range,23288
+BMW,i3,2023,Premium,81482,RWD,7,Sedan,1755,4,Germany,Premium,60859
+Tesla,Model S,2025,Performance,140245,AWD,7,Sedan,1500,5,US,Luxury,186365
+BYD,Dolphin,2024,Performance,108909,RWD,5,Truck,2422,3,China,Luxury,136507
+BYD,Seagull,2025,Base,31665,FWD,5,Van,1935,5,China,Budget,162790
+BMW,i7,2026,Premium,125747,AWD,5,Hatchback,1500,3,Germany,Luxury,62950
+Tesla,Model S,2024,Long Range,75201,RWD,5,Truck,2460,5,US,Premium,105880
+Tesla,Model 3,2025,Long Range,91388,FWD,5,Sedan,1624,4,US,Premium,148700
+Ford,F-150 Lightning,2024,Standard,60850,FWD,2,Truck,2747,4,US,Mid-range,58206
+Tesla,Cybertruck,2024,Long Range,131729,FWD,5,Truck,2319,4,US,Luxury,162108
+BMW,iX,2021,Standard,82329,RWD,7,Hatchback,1723,4,Germany,Premium,59553
+BYD,Atto 3,2021,Performance,91712,RWD,5,Hatchback,1550,5,China,Premium,177248
+Tesla,Model 3,2024,Standard,106610,FWD,5,Hatchback,1673,5,US,Luxury,103912
+BYD,Qin,2020,Long Range,36752,FWD,5,Sedan,1500,4,China,Mid-range,178041
+GM/Chevrolet,Equinox EV,2024,Long Range,55502,AWD,7,SUV,2188,5,US,Mid-range,18580
+Mercedes,EQS,2025,Base,136919,AWD,7,Coupe,1500,5,Germany,Luxury,59537
+Mercedes,EQE,2023,Long Range,142535,FWD,7,Sedan,1500,4,Germany,Luxury,32410
+Volkswagen,ID. Aero,2025,Performance,68256,RWD,5,Sedan,1589,5,Germany,Premium,215601
+BMW,i3,2025,Premium,127970,RWD,5,Coupe,1671,5,Germany,Luxury,25659
+BYD,Yuan Plus,2026,Base,71806,AWD,5,Sedan,1702,4,China,Premium,163682
+BYD,Qin,2023,Performance,54457,AWD,5,Truck,2307,4,China,Mid-range,205191
+Audi,Q4 e-tron,2026,Long Range,145965,FWD,7,Coupe,1663,4,Germany,Luxury,21092
+Tesla,Model X,2025,Performance,40997,AWD,5,Sedan,1637,5,US,Mid-range,192699
+Tesla,Model 3,2026,Performance,147080,AWD,7,Sedan,1521,5,US,Luxury,199927
+BYD,Max,2023,Long Range,35900,FWD,5,SUV,2227,5,China,Mid-range,176515
+Tesla,Model X,2025,Base,76806,FWD,7,Sedan,1675,5,US,Premium,136111
+Tesla,Cybertruck,2025,Base,96810,FWD,7,Truck,2373,4,US,Premium,113593
+Kia,EV9,2026,Performance,78041,RWD,5,SUV,2121,5,South Korea,Premium,103428
+Volkswagen,ID.3,2025,Base,47862,AWD,7,Sedan,1500,3,Germany,Mid-range,247700
+Audi,Q4 e-tron,2025,Base,84124,AWD,5,Hatchback,1666,4,Germany,Premium,60155
+Ford,Mustang Mach-E,2024,Premium,62058,FWD,5,Van,1502,4,US,Mid-range,65997
+BYD,Seagull,2026,Performance,95761,RWD,5,Coupe,1789,4,China,Premium,171938
+BYD,Qin,2024,Base,75733,RWD,5,Truck,2335,5,China,Premium,228964
+Volkswagen,ID. Buzz,2024,Premium,74047,RWD,5,Coupe,1522,5,Germany,Premium,290963
+Kia,Niro EV,2026,Performance,91033,AWD,5,Van,1525,4,South Korea,Premium,54833
+BYD,Atto 3,2024,Standard,30843,AWD,7,Hatchback,1578,4,China,Budget,206164
+BMW,i5,2021,Premium,139021,FWD,5,Truck,2464,5,Germany,Luxury,48199
+Volkswagen,ID. Aero,2021,Standard,60392,RWD,7,Truck,2360,3,Germany,Mid-range,256880
+Kia,Sportage EV,2020,Standard,26732,RWD,5,SUV,1818,5,South Korea,Budget,147499
+Volkswagen,ID. Buzz,2024,Long Range,70635,FWD,5,Hatchback,1613,4,Germany,Premium,289608
+BYD,Dolphin,2023,Premium,25794,AWD,5,Truck,2438,3,China,Budget,112218
+Toyota,bZ4X,2024,Performance,94210,AWD,5,Coupe,1660,5,Japan,Premium,1723
+Ford,Mustang Mach-E,2025,Performance,60547,RWD,5,Coupe,1500,3,US,Mid-range,27560
+Tesla,Cybertruck,2025,Premium,170548,AWD,7,Truck,2453,4,US,Luxury,192321
+Mercedes,EQG,2023,Base,82191,RWD,5,Sedan,1500,4,Germany,Premium,59566
+Hyundai,Ioniq 6,2025,Premium,100948,AWD,7,Hatchback,1597,5,South Korea,Luxury,101360
+Audi,e-tron GT,2024,Base,106732,FWD,5,Truck,2498,5,Germany,Luxury,48443
+Ford,Explorer EV,2026,Premium,97985,AWD,7,Sedan,1744,5,US,Premium,45069
+Volkswagen,ID.3,2024,Base,38795,FWD,5,Coupe,1516,5,Germany,Mid-range,216258
+Tesla,Model Y,2024,Standard,111997,FWD,5,Van,1500,4,US,Luxury,445661
+BYD,Dolphin,2026,Long Range,49411,RWD,7,SUV,1819,4,China,Mid-range,124104
+Kia,EV6,2023,Base,37475,FWD,5,Truck,2381,5,South Korea,Mid-range,67143
+BMW,i3,2026,Performance,148407,AWD,5,Hatchback,1500,4,Germany,Luxury,27898
+BYD,Qin,2024,Standard,46657,AWD,5,SUV,2255,5,China,Mid-range,249607
+Tesla,Model X,2021,Premium,97028,AWD,5,Van,1693,4,US,Premium,229836
+Mercedes,EQG,2026,Base,129546,AWD,5,Truck,2639,4,Germany,Luxury,57503
+Polestar,2,2025,Performance,93834,AWD,5,Coupe,1500,5,Sweden,Premium,6307
+Hyundai,i30,2023,Base,37475,FWD,7,Van,1504,4,South Korea,Mid-range,129662
+Tesla,Cybertruck,2025,Standard,127335,AWD,5,Truck,2328,5,US,Luxury,188107
+BYD,Atto 3,2024,Base,50361,RWD,7,Sedan,1615,5,China,Mid-range,209468
+Tesla,Model 3,2024,Premium,152845,AWD,5,Truck,2696,4,US,Luxury,153103
+Rivian,R2,2025,Performance,117871,RWD,7,Truck,2401,5,US,Luxury,14378
+Tesla,Model X,2025,Performance,126875,AWD,7,Van,1500,5,US,Luxury,158417
+Kia,Picanto EV,2024,Long Range,57851,AWD,5,Coupe,1735,5,South Korea,Mid-range,125554
+BYD,Max,2024,Base,70891,AWD,7,Truck,2252,5,China,Premium,119629
+Kia,Picanto EV,2024,Performance,105759,AWD,7,Hatchback,1819,3,South Korea,Luxury,107830
+BMW,i5,2025,Performance,83831,RWD,7,Truck,2285,4,Germany,Premium,61677
+Mercedes,EQE,2026,Performance,148925,AWD,7,SUV,1889,4,Germany,Luxury,66282
+BYD,Atto 3,2022,Base,49226,FWD,5,Coupe,1609,5,China,Mid-range,172454
+Tesla,Model S,2025,Base,29412,AWD,5,Hatchback,1705,5,US,Budget,206579
+Tesla,Cybertruck,2024,Standard,107898,FWD,5,Truck,2227,5,US,Luxury,188033
+Audi,e-tron GT,2022,Premium,137632,RWD,5,Truck,2791,4,Germany,Luxury,74974
+Audi,e-tron GT,2024,Base,65799,RWD,7,Truck,2305,4,Germany,Premium,52856
+Kia,Niro EV,2022,Premium,93773,AWD,5,Truck,2450,5,South Korea,Premium,126881
+Kia,Picanto EV,2024,Base,57644,AWD,5,Sedan,1686,5,South Korea,Mid-range,149672
+BMW,i5,2022,Performance,102441,RWD,5,Hatchback,1545,3,Germany,Luxury,23392
+Tesla,Cybertruck,2024,Base,49297,FWD,5,Truck,2643,5,US,Mid-range,241001
+Rivian,R1S,2024,Performance,118076,RWD,7,Hatchback,1514,5,US,Luxury,656
+Volkswagen,ID.4,2023,Premium,69215,AWD,7,Truck,2586,5,Germany,Premium,211559
+Volkswagen,ID. Aero,2026,Standard,86340,FWD,5,Sedan,1882,5,Germany,Premium,279621
+Hyundai,Ioniq 6,2023,Base,41678,AWD,5,Van,1580,4,South Korea,Mid-range,52756
+Tesla,Cybertruck,2025,Premium,131327,AWD,5,Truck,2711,5,US,Luxury,195107
+Tesla,Model X,2025,Base,106034,FWD,7,Van,1771,5,US,Luxury,136623
+GM/Chevrolet,Blazer EV,2023,Performance,60380,RWD,7,Van,1584,3,US,Mid-range,8909
+Tesla,Model Y,2024,Performance,141349,AWD,5,Coupe,1540,4,US,Luxury,490678
+Kia,Picanto EV,2025,Base,33502,FWD,7,Van,1588,4,South Korea,Budget,70571
+BYD,Seagull,2025,Premium,98579,AWD,5,Coupe,1606,5,China,Premium,142672
+Volkswagen,ID. Aero,2024,Base,29414,AWD,5,SUV,2196,5,Germany,Budget,268683
+BYD,Atto 3,2025,Long Range,32535,RWD,5,Sedan,1704,4,China,Budget,218123
+Volkswagen,ID.5,2024,Performance,106704,RWD,7,Van,1614,5,Germany,Luxury,282713
+GM/Chevrolet,Bolt EUV,2025,Premium,61872,RWD,5,Hatchback,1500,5,US,Mid-range,10487
+BYD,Yuan Plus,2024,Base,31743,AWD,5,SUV,1787,4,China,Budget,226541
+Kia,Sportage EV,2025,Performance,72348,AWD,7,SUV,2315,3,South Korea,Premium,144057
+Hyundai,Ioniq 6,2025,Performance,47415,FWD,7,Hatchback,1581,5,South Korea,Mid-range,102665
+BMW,i4,2023,Standard,101992,FWD,7,Sedan,1856,5,Germany,Luxury,24913
+NIO,EC6,2025,Premium,83406,RWD,7,Van,1673,5,China,Premium,11073
+GM/Chevrolet,Blazer EV,2023,Performance,77802,AWD,5,Truck,2508,5,US,Premium,18415
+BYD,Atto 3,2024,Performance,53801,AWD,7,Van,1590,5,China,Mid-range,168996
+Tesla,Model 3,2025,Long Range,84191,RWD,7,Coupe,1694,4,US,Premium,181874
+BYD,Qin,2023,Base,40160,FWD,7,Hatchback,1500,5,China,Mid-range,234883
+Kia,EV6,2022,Performance,48028,AWD,5,Hatchback,1500,4,South Korea,Mid-range,81607
+Tesla,Model S,2026,Performance,120991,AWD,7,Truck,2847,4,US,Luxury,177875
+Hyundai,i30,2022,Base,52457,AWD,5,Sedan,1576,5,South Korea,Mid-range,72150
+Kia,Picanto EV,2023,Standard,66396,AWD,7,Sedan,1580,4,South Korea,Premium,93251
+BYD,Dolphin,2025,Base,53720,FWD,7,Hatchback,1728,3,China,Mid-range,246801
+Ford,Mustang Mach-E,2026,Premium,56792,AWD,5,SUV,2102,4,US,Mid-range,31784
+Tesla,Model S,2024,Standard,122808,AWD,7,Van,1500,4,US,Luxury,162784
+Tesla,Model X,2025,Long Range,153915,RWD,5,Van,1572,5,US,Luxury,210826
+GM/Chevrolet,Equinox EV,2025,Standard,28858,RWD,7,SUV,2241,4,US,Budget,24599
+Hyundai,Kona Electric,2024,Standard,53616,AWD,5,Coupe,1500,5,South Korea,Mid-range,78661
+BMW,i5,2020,Base,93337,RWD,5,Truck,2335,5,Germany,Premium,25170
+Volkswagen,ID. Aero,2026,Standard,69769,RWD,7,Hatchback,1560,4,Germany,Premium,251078
+BYD,Yuan Plus,2026,Standard,35604,RWD,5,Truck,2708,5,China,Mid-range,210674
+Ford,F-150 Lightning,2025,Long Range,91074,FWD,4,Truck,2537,5,US,Premium,78477
+Ford,E-Transit,2022,Premium,72686,RWD,7,Coupe,1507,3,US,Premium,32038
+GM/Chevrolet,Bolt EV,2024,Performance,43772,FWD,7,SUV,2127,4,US,Mid-range,13494
+BYD,Max,2025,Premium,100296,AWD,7,Hatchback,1686,4,China,Luxury,155370
+Kia,Picanto EV,2026,Long Range,70116,FWD,5,Sedan,1535,5,South Korea,Premium,82992
+Volkswagen,ID. Buzz,2026,Base,70180,FWD,5,Truck,2406,4,Germany,Premium,220918
+Tesla,Model 3,2023,Base,50662,FWD,5,Truck,2602,5,US,Mid-range,240645
+Rivian,R1S,2023,Base,71764,RWD,5,Coupe,1532,4,US,Premium,16601
+Tesla,Model Y,2024,Standard,118292,AWD,5,Truck,2443,5,US,Luxury,419454
+Toyota,bZ Compact SUV,2025,Base,65609,FWD,5,SUV,1949,4,Japan,Premium,24977
+Volkswagen,ID. Buzz,2023,Premium,99864,AWD,7,Truck,2583,5,Germany,Premium,237739
+Tesla,Model 3,2022,Long Range,84610,RWD,5,SUV,2001,4,US,Premium,171529
+Kia,Sportage EV,2025,Premium,81244,AWD,5,SUV,2277,5,South Korea,Premium,70466
+Mercedes,EQC,2024,Premium,167461,RWD,7,Hatchback,1500,4,Germany,Luxury,50533
+GM/Chevrolet,Equinox EV,2023,Long Range,33127,FWD,5,SUV,2025,4,US,Budget,19880
+Ford,Explorer EV,2023,Performance,66132,FWD,5,Truck,2343,5,US,Premium,34351
+BMW,i7,2024,Base,58695,AWD,5,Coupe,1677,4,Germany,Mid-range,59887
+GM/Chevrolet,Silverado EV,2025,Premium,46867,RWD,7,Sedan,1579,5,US,Mid-range,24354
+Mercedes,EQS,2024,Performance,183950,AWD,5,Coupe,1676,5,Germany,Luxury,78765
+BYD,Max,2025,Long Range,26705,AWD,7,Truck,2625,4,China,Budget,188547
+Hyundai,Ioniq 5,2024,Standard,37624,RWD,5,Van,1500,4,South Korea,Mid-range,76324
+BYD,Dolphin,2025,Performance,98822,AWD,7,Hatchback,1500,4,China,Premium,172137
+Porsche,Macan Electric,2025,Standard,186970,AWD,5,Hatchback,1894,5,Germany,Luxury,29154
+NIO,EL8,2024,Premium,68322,RWD,5,Coupe,1745,5,China,Premium,2458
+Tesla,Model Y,2024,Premium,91805,RWD,7,Hatchback,1500,4,US,Premium,462587
+GM/Chevrolet,Bolt EV,2024,Base,34244,AWD,7,SUV,1772,5,US,Budget,29653
+Rivian,R3,2026,Performance,113739,AWD,5,Coupe,1500,4,US,Luxury,22439
+Tesla,Cybertruck,2025,Standard,98006,FWD,7,Truck,2276,4,US,Premium,113383
+Kia,EV9,2024,Standard,67166,AWD,5,SUV,1821,4,South Korea,Premium,69022
+Rivian,R1S,2024,Base,73774,AWD,7,Truck,2508,5,US,Premium,22100
+Tesla,Model Y,2024,Long Range,98421,RWD,5,Hatchback,1628,5,US,Premium,459091
+GM/Chevrolet,Silverado EV,2024,Standard,42545,FWD,7,Sedan,1830,3,US,Mid-range,11545
+BYD,Leaf 50X,2023,Performance,25921,AWD,5,Truck,2544,5,China,Budget,110847
+Rivian,R1S,2024,Standard,86120,AWD,7,Van,1514,4,US,Premium,1755
+Fisker,Ronin,2024,Performance,77587,AWD,7,Sedan,1691,4,US,Premium,24352
+Toyota,bZ4X,2026,Long Range,89239,RWD,5,Hatchback,1734,5,Japan,Premium,3195
+Hyundai,Ioniq 6,2023,Standard,53342,FWD,5,Sedan,1500,4,South Korea,Mid-range,142003
+Mercedes,EQS,2026,Premium,108753,AWD,5,SUV,1922,4,Germany,Luxury,65854
+Mercedes,GLE EV,2022,Base,94571,AWD,7,Truck,2664,5,Germany,Premium,59270
+BYD,Dolphin,2025,Base,52114,AWD,5,Coupe,1539,4,China,Mid-range,186712
+Mercedes,EQC,2025,Premium,91108,AWD,5,Van,1793,5,Germany,Premium,58124
+Tesla,Cybertruck,2024,Premium,49738,RWD,7,Truck,2606,5,US,Mid-range,179970
+Kia,EV9,2023,Standard,33511,AWD,7,SUV,2106,4,South Korea,Budget,137108
+BYD,Seagull,2023,Standard,84140,AWD,7,Truck,2278,5,China,Premium,236926
+Tesla,Model 3,2025,Premium,137917,RWD,7,SUV,2111,5,US,Luxury,132643
+Tesla,Model 3,2024,Long Range,148636,AWD,7,Van,1690,3,US,Luxury,108335
+GM/Chevrolet,Bolt EUV,2025,Performance,62331,AWD,7,Truck,2393,4,US,Mid-range,27154
+BYD,Qin,2025,Standard,29108,AWD,7,Hatchback,1780,5,China,Budget,179440
+GM/Chevrolet,Bolt EUV,2025,Performance,81160,RWD,7,Truck,2789,4,US,Premium,28393
+Tesla,Model 3,2025,Base,80586,RWD,5,Van,1645,5,US,Premium,243472
+BYD,Qin,2025,Standard,79452,FWD,7,Hatchback,1610,5,China,Premium,216726
+Kia,Niro EV,2021,Performance,51784,FWD,5,SUV,2137,5,South Korea,Mid-range,94100
+Ford,E-Transit,2025,Base,47443,RWD,7,Van,1750,4,US,Mid-range,71700
+BYD,Max,2024,Premium,113232,AWD,7,Coupe,1576,4,China,Luxury,184045
+BMW,i3,2021,Long Range,102095,AWD,5,Coupe,1503,4,Germany,Luxury,29444
+Audi,e-tron,2026,Performance,104966,AWD,5,Sedan,1596,4,Germany,Luxury,20618
+Kia,Niro EV,2024,Long Range,40789,FWD,5,Coupe,1580,5,South Korea,Mid-range,63756
+BYD,Leaf 50X,2025,Standard,32451,FWD,7,Coupe,1889,4,China,Budget,104392
+Tesla,Model 3,2022,Standard,112087,RWD,5,Sedan,1775,5,US,Luxury,140793
+Mercedes,EQG,2022,Base,64417,FWD,7,SUV,2149,5,Germany,Mid-range,31870
+Tesla,Model 3,2025,Base,108727,FWD,7,Truck,2525,3,US,Luxury,118818
+Audi,e-tron,2021,Performance,119078,RWD,5,Coupe,1617,5,Germany,Luxury,62009
+Hyundai,Ioniq 5,2025,Base,34994,FWD,7,Hatchback,1500,3,South Korea,Budget,123225
+NIO,ET5,2023,Premium,114241,AWD,7,Truck,2456,5,China,Luxury,26747
+Ford,Mustang Mach-E,2025,Long Range,70077,AWD,5,Truck,2211,3,US,Premium,52702
+Xiaomi,SU7,2024,Long Range,95395,FWD,5,SUV,2215,5,China,Premium,8671
+BYD,Seagull,2024,Base,16613,AWD,5,Sedan,1578,3,China,Budget,205452
+Ford,F-150 Lightning,2022,Premium,39148,AWD,4,Truck,2430,4,US,Mid-range,78104
+Volkswagen,ID.3,2025,Performance,52326,AWD,5,SUV,2045,5,Germany,Mid-range,248780
+Hyundai,Ioniq 6,2026,Premium,43930,AWD,5,SUV,1932,4,South Korea,Mid-range,60140
+BMW,i5,2025,Base,68260,RWD,5,SUV,1984,4,Germany,Premium,78488
+Audi,e-tron GT,2024,Base,86243,FWD,5,Sedan,1500,4,Germany,Premium,24433
+Polestar,2,2025,Base,91716,RWD,5,Hatchback,1632,5,Sweden,Premium,2292
+Ford,Explorer EV,2025,Base,55304,FWD,5,SUV,2189,5,US,Mid-range,32117
+Volkswagen,ID.4,2024,Long Range,67672,RWD,5,SUV,1988,4,Germany,Premium,268234
+Volkswagen,ID.5,2022,Performance,46349,RWD,5,SUV,1513,4,Germany,Mid-range,219975
+GM/Chevrolet,Silverado EV,2023,Premium,41711,AWD,5,Hatchback,1502,4,US,Mid-range,776
+BYD,Atto 3,2024,Long Range,71452,RWD,5,Van,1540,5,China,Premium,111875
+Tesla,Cybertruck,2022,Long Range,109130,FWD,7,Truck,2513,5,US,Luxury,161385
+BYD,Dolphin,2025,Performance,30282,RWD,7,Van,1897,5,China,Budget,180781
+BYD,Dolphin,2025,Standard,83813,RWD,5,SUV,1784,3,China,Premium,193467
+BYD,Atto 3,2022,Long Range,59084,FWD,7,Hatchback,1597,4,China,Mid-range,242445
+BYD,Dolphin,2021,Performance,43986,RWD,5,Coupe,1505,4,China,Mid-range,213365
+Tesla,Model Y,2024,Long Range,114550,FWD,5,Coupe,1663,5,US,Luxury,473485
+Tesla,Model Y,2025,Performance,63323,RWD,7,Coupe,1634,5,US,Mid-range,404935
+Porsche,Taycan,2024,Premium,143428,AWD,7,Coupe,1500,4,Germany,Luxury,6555
+Volkswagen,ID. Aero,2023,Premium,60338,RWD,7,Hatchback,1500,5,Germany,Mid-range,201954
+Volkswagen,ID.3,2023,Premium,53065,RWD,7,Truck,2506,3,Germany,Mid-range,243991
+BMW,i5,2022,Performance,74179,RWD,7,Coupe,1714,5,Germany,Premium,60959
+BYD,Atto 3,2025,Long Range,51946,AWD,7,Sedan,1785,5,China,Mid-range,247778
+Toyota,bZ Compact SUV,2024,Long Range,85222,FWD,7,SUV,2167,4,Japan,Premium,12454
+Ford,E-Transit,2025,Standard,44718,FWD,7,Hatchback,1523,5,US,Mid-range,41551
+Tesla,Model X,2024,Premium,57311,RWD,7,Hatchback,1576,5,US,Mid-range,103833
+Volkswagen,ID. Aero,2025,Premium,112803,AWD,7,Truck,2658,4,Germany,Luxury,225327
+Audi,e-tron GT,2025,Long Range,126393,FWD,7,Sedan,1500,4,Germany,Luxury,38380
+Toyota,bZ Compact SUV,2025,Premium,79560,RWD,7,SUV,1681,5,Japan,Premium,12847
+Hyundai,Ioniq,2025,Performance,56648,AWD,7,Truck,2444,4,South Korea,Mid-range,120189
+Kia,EV9,2026,Long Range,68590,FWD,5,SUV,1880,5,South Korea,Premium,136116
+Tesla,Model Y,2025,Premium,126347,AWD,5,SUV,1955,4,US,Luxury,433007
+Volvo,XC40 Recharge,2025,Long Range,79465,FWD,5,Van,1500,5,Sweden,Premium,9072
+BYD,Qin,2022,Base,51140,AWD,5,Van,1639,5,China,Mid-range,122452
+NIO,EL8,2021,Long Range,55222,AWD,7,Coupe,1742,4,China,Mid-range,7302
+BMW,i3,2024,Premium,79372,AWD,5,Hatchback,1500,5,Germany,Premium,73538
+Kia,Picanto EV,2024,Performance,42779,FWD,5,SUV,1837,4,South Korea,Mid-range,60355
+Hyundai,Ioniq 6,2026,Premium,56433,RWD,5,Truck,2171,4,South Korea,Mid-range,82791
+BYD,Atto 3,2026,Long Range,27583,FWD,5,Truck,2795,5,China,Budget,122434
+Tesla,Model S,2026,Base,58827,FWD,7,Sedan,1518,4,US,Mid-range,198300
+BYD,Atto 3,2024,Premium,65610,RWD,5,Sedan,1707,4,China,Premium,108967
+Tesla,Cybertruck,2024,Long Range,71380,RWD,7,Truck,2926,5,US,Premium,213989
+Ford,F-150 Lightning,2024,Premium,79236,AWD,2,Truck,2579,4,US,Premium,59746
+BYD,Max,2024,Premium,88219,AWD,7,Coupe,1709,4,China,Premium,227690
+Tesla,Model S,2020,Performance,164704,RWD,7,Sedan,1900,5,US,Luxury,159470
+Fisker,Ronin,2026,Standard,93653,FWD,5,Sedan,1675,3,US,Premium,24709
+Audi,e-tron GT,2024,Performance,121872,AWD,5,Van,1664,5,Germany,Luxury,31338
+Rivian,R1S,2022,Premium,102879,AWD,5,Sedan,1640,5,US,Luxury,27062
+Volvo,XC90 Recharge,2022,Performance,74428,RWD,5,Truck,2794,5,Sweden,Premium,3031
+Tesla,Model 3,2026,Performance,112275,AWD,7,Hatchback,1825,4,US,Luxury,193133
+Volkswagen,ID. Buzz,2025,Long Range,97039,FWD,5,Coupe,1712,4,Germany,Premium,224398
+GM/Chevrolet,Silverado EV,2021,Premium,53396,AWD,5,Sedan,1519,4,US,Mid-range,1550
+GM/Chevrolet,Blazer EV,2025,Premium,80503,RWD,5,Sedan,1721,3,US,Premium,14992
+Tesla,Model 3,2025,Long Range,31640,FWD,7,Coupe,1602,5,US,Budget,146342
+Ford,F-150 Lightning,2023,Performance,69526,AWD,2,Truck,2445,5,US,Premium,23821
+BYD,Atto 3,2025,Performance,81358,AWD,5,Sedan,1500,4,China,Premium,108251
+BYD,Qin,2026,Base,45158,AWD,5,SUV,1873,5,China,Mid-range,119766
+Hyundai,Ioniq,2023,Standard,73470,RWD,5,Truck,2647,5,South Korea,Premium,142666
+Kia,Sportage EV,2024,Standard,31797,FWD,5,SUV,2224,4,South Korea,Budget,131619
+Kia,EV9,2022,Long Range,73676,AWD,5,SUV,1945,5,South Korea,Premium,89937
+Tesla,Model S,2023,Performance,105706,RWD,5,Coupe,1802,3,US,Luxury,247669
+Audi,e-tron,2024,Long Range,123736,FWD,5,Coupe,1758,5,Germany,Luxury,45413
+BYD,Dolphin,2025,Base,73207,AWD,5,Hatchback,1500,4,China,Premium,205374
+Tesla,Model S,2023,Standard,95125,AWD,7,Hatchback,1713,3,US,Premium,116755
+Audi,e-tron GT,2023,Long Range,64643,FWD,5,SUV,2231,5,Germany,Mid-range,67458
+Toyota,bZ4X,2022,Base,35116,FWD,5,Hatchback,1689,4,Japan,Mid-range,3528
+Mercedes,EQE,2025,Premium,112651,RWD,7,SUV,2158,4,Germany,Luxury,79068
+Ford,Explorer EV,2024,Premium,80542,RWD,7,Coupe,1500,5,US,Premium,37698
+BMW,i4,2022,Standard,99870,AWD,5,Coupe,1807,4,Germany,Premium,76842
+Kia,Picanto EV,2021,Performance,106510,AWD,7,Van,1618,5,South Korea,Luxury,120403
+Tesla,Model S,2025,Standard,58831,FWD,5,Sedan,1837,5,US,Mid-range,150860
+Volkswagen,ID.3,2025,Long Range,70858,FWD,7,Truck,2795,5,Germany,Premium,251846
+Volkswagen,ID. Buzz,2024,Standard,46173,AWD,5,Sedan,1533,5,Germany,Mid-range,274696
+BYD,Yuan Plus,2025,Base,73712,AWD,7,Sedan,1812,4,China,Premium,243890
+GM/Chevrolet,Silverado EV,2023,Premium,73891,AWD,5,SUV,1762,5,US,Premium,7223
+Hyundai,Ioniq,2025,Standard,65291,RWD,5,Van,1742,5,South Korea,Premium,99183
+Tesla,Model Y,2024,Premium,137035,RWD,5,Hatchback,1769,4,US,Luxury,429314
+BYD,Yuan Plus,2023,Base,36016,RWD,5,SUV,2000,5,China,Mid-range,143487
+BMW,i4,2024,Standard,96459,AWD,7,Truck,2534,4,Germany,Premium,64056
+Tesla,Cybertruck,2025,Base,64862,RWD,5,Truck,2349,5,US,Mid-range,237113
+Mercedes,EQS,2025,Standard,131965,RWD,5,Coupe,1776,4,Germany,Luxury,62952
+Hyundai,Kona Electric,2024,Premium,97252,AWD,5,SUV,2108,5,South Korea,Premium,59030
+Hyundai,i30,2024,Long Range,63320,FWD,7,Sedan,1930,5,South Korea,Mid-range,132537
+Kia,EV9,2023,Standard,63387,RWD,5,SUV,2057,5,South Korea,Mid-range,97503
+Mercedes,EQE,2021,Standard,115666,RWD,7,Hatchback,1500,4,Germany,Luxury,25083
+BYD,Dolphin,2022,Standard,30805,RWD,7,Truck,2193,5,China,Budget,133529
+BMW,i4,2026,Premium,103491,AWD,5,Sedan,1837,5,Germany,Luxury,42817
+Kia,Niro EV,2026,Long Range,67364,FWD,5,SUV,2072,3,South Korea,Premium,128059
+BYD,Seagull,2025,Standard,37099,AWD,5,Hatchback,1783,5,China,Mid-range,163441
+Audi,Q4 e-tron,2025,Standard,55204,FWD,5,Hatchback,1500,4,Germany,Mid-range,48087
+Ford,E-Transit,2025,Standard,63604,FWD,5,Hatchback,1508,4,US,Mid-range,36824
+BMW,iX,2023,Performance,101591,RWD,7,Van,1688,5,Germany,Luxury,73116
+Mercedes,GLE EV,2024,Base,62601,AWD,5,Van,1500,3,Germany,Mid-range,69358
+Mercedes,EQS,2025,Standard,99348,FWD,7,Coupe,1578,4,Germany,Premium,79812
+GM/Chevrolet,Bolt EUV,2021,Base,40120,AWD,5,SUV,1980,5,US,Mid-range,25340
+Mercedes,EQC,2025,Base,124226,FWD,5,SUV,1728,4,Germany,Luxury,40173
+GM/Chevrolet,Blazer EV,2025,Base,34617,RWD,5,Coupe,1685,4,US,Budget,24423
+BMW,i7,2021,Long Range,75381,FWD,7,SUV,2165,4,Germany,Premium,62356
+Kia,EV9,2021,Standard,32211,RWD,7,SUV,1957,5,South Korea,Budget,60096
+GM/Chevrolet,Silverado EV,2026,Premium,68395,AWD,7,Coupe,1500,4,US,Premium,27929
+Tesla,Model S,2024,Long Range,156702,AWD,7,Sedan,1500,5,US,Luxury,132013
+Audi,e-tron,2026,Base,97863,AWD,7,Coupe,1509,5,Germany,Premium,24216
+Mercedes,EQS,2025,Long Range,183986,FWD,5,Hatchback,1663,5,Germany,Luxury,50432
+Tesla,Cybertruck,2025,Performance,56353,AWD,7,Truck,2480,4,US,Mid-range,197115
+Mercedes,EQG,2022,Standard,126404,FWD,7,SUV,2048,4,Germany,Luxury,37272
+Tesla,Model 3,2023,Premium,67811,RWD,7,Sedan,1618,5,US,Premium,194039
+BYD,Seagull,2022,Long Range,53237,FWD,5,Truck,2247,5,China,Mid-range,163016
+GM/Chevrolet,Blazer EV,2025,Base,63437,AWD,5,Truck,2127,5,US,Mid-range,13397
+Tesla,Cybertruck,2024,Standard,101209,AWD,5,Truck,2359,5,US,Luxury,248389
+Ford,Explorer EV,2023,Standard,37298,RWD,5,SUV,2136,4,US,Mid-range,60230
+Mercedes,EQC,2022,Premium,155446,FWD,5,Sedan,1500,5,Germany,Luxury,41853
+Hyundai,Ioniq 5,2022,Premium,55487,AWD,5,Sedan,1768,3,South Korea,Mid-range,52238
+Tesla,Model 3,2020,Long Range,65735,RWD,5,Coupe,1684,3,US,Premium,120134
+BYD,Seagull,2023,Standard,62912,AWD,5,Hatchback,1783,5,China,Mid-range,196923
+Kia,Picanto EV,2026,Premium,97175,AWD,5,Truck,2301,4,South Korea,Premium,93712
+Polestar,2,2020,Base,82455,FWD,5,Van,1643,4,Sweden,Premium,12945
+BMW,i5,2025,Base,84667,AWD,5,Truck,2318,3,Germany,Premium,39763
+BYD,Dolphin,2024,Standard,57388,FWD,5,Sedan,1500,5,China,Mid-range,181198
+BMW,iX,2025,Standard,92032,FWD,7,Sedan,1684,5,Germany,Premium,29936
+Kia,EV6,2024,Base,72870,RWD,7,Truck,2444,5,South Korea,Premium,68801
+Ford,Explorer EV,2025,Premium,66423,AWD,5,Van,1938,5,US,Premium,56669
+Tesla,Cybertruck,2025,Premium,52220,AWD,5,Truck,2532,5,US,Mid-range,119997
+GM/Chevrolet,Equinox EV,2025,Long Range,84367,RWD,5,SUV,2312,4,US,Premium,6773
+Kia,EV9,2025,Long Range,93514,FWD,5,SUV,1814,5,South Korea,Premium,120989
+Toyota,bZ Compact SUV,2020,Base,30417,RWD,5,SUV,2421,4,Japan,Budget,15941
+BYD,Seagull,2021,Performance,106412,RWD,7,Van,1515,5,China,Luxury,180190
+BMW,iX,2026,Long Range,81774,AWD,5,Truck,2691,5,Germany,Premium,38573
+Rivian,R1T,2021,Standard,75010,FWD,4,Truck,2477,5,US,Premium,1899
+Tesla,Model S,2025,Standard,67257,RWD,5,Truck,2729,5,US,Premium,149284
+NIO,EL6,2025,Standard,65308,FWD,7,Sedan,1784,5,China,Premium,19253
+BMW,i4,2023,Base,63736,FWD,5,Sedan,1500,5,Germany,Mid-range,28907
+Tesla,Model Y,2025,Premium,154034,RWD,7,Hatchback,1611,5,US,Luxury,428866
+BYD,Seagull,2025,Standard,26965,RWD,7,Van,1750,5,China,Budget,131090
+GM/Chevrolet,Bolt EUV,2024,Long Range,61731,FWD,5,Coupe,1597,5,US,Mid-range,10777
+Tesla,Model 3,2024,Base,88043,FWD,5,Sedan,1735,3,US,Premium,108761
+Kia,EV9,2025,Long Range,74001,RWD,5,SUV,1873,5,South Korea,Premium,137133
+BYD,Atto 3,2025,Premium,81059,AWD,7,Van,1569,4,China,Premium,230802
+BMW,iX,2022,Base,51044,RWD,7,Coupe,1582,4,Germany,Mid-range,44259
+Tesla,Model Y,2023,Premium,144886,AWD,5,Hatchback,1572,5,US,Luxury,416711
+Mercedes,EQG,2026,Long Range,124673,FWD,5,SUV,1890,5,Germany,Luxury,24079
+Fisker,Ronin,2024,Performance,159067,RWD,7,Van,1803,5,US,Luxury,23252
+Fisker,Ocean,2024,Long Range,93019,AWD,5,Sedan,1655,5,US,Premium,1655
+GM/Chevrolet,Bolt EV,2026,Premium,67711,FWD,5,Van,1868,5,US,Premium,15428
+Tesla,Model 3,2025,Performance,112636,RWD,7,Truck,2220,5,US,Luxury,126461
+GM/Chevrolet,Blazer EV,2023,Standard,62461,AWD,5,Hatchback,1571,4,US,Mid-range,6024
+Tesla,Model Y,2026,Long Range,83728,AWD,7,Hatchback,1738,4,US,Premium,490450
+Tesla,Model X,2025,Performance,92160,AWD,7,Sedan,1630,4,US,Premium,139912
+BYD,Dolphin,2023,Standard,23506,AWD,5,Hatchback,1694,3,China,Budget,178149
+Hyundai,Kona Electric,2026,Performance,77800,RWD,5,Hatchback,1720,4,South Korea,Premium,58908
+Ford,Mustang Mach-E,2022,Standard,56514,RWD,5,Truck,2216,3,US,Mid-range,39584
+BMW,i3,2025,Standard,69071,FWD,5,Van,1576,4,Germany,Premium,73019
+Volkswagen,ID.4,2024,Premium,112817,AWD,5,Sedan,1541,5,Germany,Luxury,244997
+BYD,Yuan Plus,2025,Standard,28078,AWD,7,Sedan,1500,3,China,Budget,207345
+Xiaomi,SU7,2024,Base,67625,RWD,7,Truck,2209,5,China,Premium,26829
+Volkswagen,ID.4,2024,Standard,45198,AWD,5,Truck,2492,5,Germany,Mid-range,251931
+Volkswagen,ID. Buzz,2025,Standard,34913,AWD,5,Hatchback,1579,5,Germany,Budget,204604
+Tesla,Model X,2022,Base,53236,AWD,5,Coupe,1686,4,US,Mid-range,178460
+Ford,E-Transit,2023,Performance,78715,RWD,5,Coupe,1647,4,US,Premium,41203
+GM/Chevrolet,Bolt EUV,2024,Standard,57065,FWD,5,SUV,2167,5,US,Mid-range,24368
+BYD,Yuan Plus,2025,Performance,113906,RWD,7,Truck,2485,3,China,Luxury,193570
+Tesla,Model 3,2024,Performance,171222,AWD,5,Van,1588,5,US,Luxury,247330
+BMW,i5,2024,Performance,143876,AWD,5,Truck,1841,3,Germany,Luxury,37253
+BMW,iX,2024,Base,62907,RWD,7,SUV,1899,5,Germany,Mid-range,49240
+BYD,Atto 3,2022,Long Range,101093,FWD,7,Sedan,1565,5,China,Luxury,230522
+Toyota,bZ Compact SUV,2024,Standard,53125,AWD,5,SUV,1998,4,Japan,Mid-range,19789
+Tesla,Model S,2025,Long Range,67690,RWD,5,Hatchback,1865,4,US,Premium,187975
+Volkswagen,ID. Buzz,2025,Standard,71667,FWD,5,Van,1500,3,Germany,Premium,285418
+NIO,EC6,2025,Premium,103197,RWD,5,Van,1500,4,China,Luxury,20886
+Volkswagen,ID. Aero,2022,Performance,94244,AWD,7,SUV,1834,4,Germany,Premium,251606
+BMW,i7,2025,Performance,150935,RWD,5,Hatchback,2027,5,Germany,Luxury,49006
+Volkswagen,ID. Buzz,2022,Performance,46160,RWD,5,Coupe,1500,5,Germany,Mid-range,298179
+BYD,Seagull,2025,Long Range,32711,RWD,7,Truck,2579,5,China,Budget,169948
+Polestar,3,2024,Standard,76931,RWD,7,Truck,2494,4,Sweden,Premium,17188
+Volkswagen,ID. Aero,2021,Performance,102348,RWD,5,SUV,1990,5,Germany,Luxury,251849
+Audi,Q4 e-tron,2022,Base,84690,AWD,5,Van,1617,5,Germany,Premium,55401
+BYD,Max,2025,Performance,118077,FWD,5,Sedan,1687,5,China,Luxury,103364
+BYD,Atto 3,2026,Premium,87620,RWD,5,Hatchback,1500,4,China,Premium,118872
+Tesla,Model Y,2025,Standard,92380,RWD,5,Sedan,1616,4,US,Premium,461008
+BMW,i7,2020,Premium,84309,RWD,5,Truck,2413,5,Germany,Premium,53466
+Volkswagen,ID. Aero,2024,Performance,115398,AWD,7,Sedan,1511,4,Germany,Luxury,296594
+Mercedes,EQE,2023,Standard,142020,FWD,7,Hatchback,1640,5,Germany,Luxury,57178
+Hyundai,Ioniq,2023,Long Range,48460,FWD,7,Van,1594,4,South Korea,Mid-range,128198
+Fisker,Ronin,2025,Premium,106306,AWD,7,Van,1500,5,US,Luxury,8757
+Tesla,Model Y,2026,Premium,55364,AWD,5,SUV,2157,4,US,Mid-range,467657
+Mercedes,GLE EV,2025,Premium,111590,RWD,5,SUV,2182,4,Germany,Luxury,58457
+Ford,F-150 Lightning,2025,Premium,79280,RWD,4,Truck,2810,5,US,Premium,67161
+Ford,E-Transit,2022,Long Range,44715,RWD,7,SUV,1709,5,US,Mid-range,77918
+Mercedes,EQC,2026,Long Range,122737,AWD,7,SUV,1927,5,Germany,Luxury,45500
+GM/Chevrolet,Silverado EV,2026,Long Range,75057,FWD,5,Truck,2136,3,US,Premium,18197
+BMW,i7,2023,Performance,121735,RWD,7,Coupe,1630,5,Germany,Luxury,71997
+Tesla,Model S,2025,Base,41533,RWD,5,Hatchback,1673,4,US,Mid-range,205263
+Tesla,Cybertruck,2022,Base,33282,AWD,5,Truck,2657,5,US,Budget,223257
+Rivian,R2,2024,Standard,78386,RWD,5,Hatchback,1941,5,US,Premium,12601
+Kia,Picanto EV,2026,Standard,54592,FWD,7,Van,1500,4,South Korea,Mid-range,84955
+Ford,E-Transit,2024,Long Range,84501,RWD,7,Coupe,1500,5,US,Premium,72596
+Hyundai,Kona Electric,2026,Standard,45692,RWD,7,Coupe,1750,5,South Korea,Mid-range,89861
+Tesla,Model S,2025,Premium,131665,RWD,5,SUV,2096,5,US,Luxury,124407
+Tesla,Model 3,2026,Long Range,146733,RWD,5,Truck,2940,5,US,Luxury,162803
+BMW,i3,2024,Standard,108425,FWD,5,SUV,1704,5,Germany,Luxury,72604
+Volkswagen,ID.5,2024,Premium,43024,AWD,5,Truck,2308,5,Germany,Mid-range,246474
+Tesla,Model X,2024,Premium,157562,AWD,5,SUV,1670,4,US,Luxury,163095
+Hyundai,Ioniq 5,2024,Performance,61790,FWD,7,Sedan,1500,5,South Korea,Mid-range,110783
+Tesla,Model 3,2024,Performance,109835,AWD,7,Hatchback,1590,3,US,Luxury,219324
+Kia,EV9,2025,Base,31082,FWD,5,SUV,2151,5,South Korea,Budget,76695
+BYD,Seagull,2025,Premium,111062,AWD,5,Truck,2095,4,China,Luxury,149002
+Ford,Explorer EV,2025,Premium,56655,FWD,5,Van,1533,5,US,Mid-range,41791
+BYD,Qin,2023,Long Range,82830,FWD,7,Van,1756,5,China,Premium,213531
+Volkswagen,ID. Buzz,2025,Standard,85587,RWD,5,Truck,2623,3,Germany,Premium,259718
+Tesla,Model S,2023,Performance,170973,RWD,7,Van,1500,3,US,Luxury,177006
+Tesla,Model Y,2024,Long Range,158710,FWD,5,Van,1503,5,US,Luxury,416641
+Volkswagen,ID. Aero,2026,Performance,102828,RWD,5,Truck,2341,5,Germany,Luxury,238315
+Hyundai,Ioniq 6,2024,Premium,58686,RWD,5,Truck,2388,5,South Korea,Mid-range,66241
+Kia,EV9,2024,Performance,50056,FWD,5,SUV,1774,3,South Korea,Mid-range,140441
+BYD,Yuan Plus,2021,Base,24412,FWD,5,Truck,2592,5,China,Budget,206262
+GM/Chevrolet,Equinox EV,2024,Long Range,58896,FWD,7,SUV,1846,4,US,Mid-range,16859
+Mercedes,EQG,2024,Long Range,113572,FWD,5,Van,1776,4,Germany,Luxury,73690
+Ford,E-Transit,2025,Standard,32152,FWD,5,Hatchback,1556,4,US,Budget,25887
+Tesla,Model Y,2024,Premium,168093,RWD,5,Coupe,1659,3,US,Luxury,434155
+Hyundai,Ioniq,2020,Performance,74306,AWD,7,Truck,2759,5,South Korea,Premium,113130
+Tesla,Model X,2025,Performance,99111,RWD,7,Truck,2442,5,US,Premium,160176
+BYD,Yuan Plus,2026,Long Range,32377,RWD,5,Coupe,1701,4,China,Budget,164156
+Porsche,Macan Electric,2021,Standard,163151,AWD,5,Van,1678,5,Germany,Luxury,2340
+Tesla,Cybertruck,2023,Premium,172193,RWD,5,Truck,2679,5,US,Luxury,199763
+Hyundai,Kona Electric,2025,Base,46056,FWD,7,Sedan,1504,5,South Korea,Mid-range,143815
+Kia,Picanto EV,2025,Performance,88002,RWD,5,SUV,1841,5,South Korea,Premium,60132
+GM/Chevrolet,Equinox EV,2025,Base,57563,AWD,5,SUV,2246,5,US,Mid-range,18527
+Kia,EV6,2021,Premium,91322,RWD,7,SUV,2083,4,South Korea,Premium,103135
+Tesla,Model 3,2025,Standard,39765,RWD,5,Truck,2486,5,US,Mid-range,177083
+BYD,Dolphin,2025,Long Range,23724,RWD,7,Truck,2484,4,China,Budget,224275
+Hyundai,Ioniq 5,2023,Premium,42532,RWD,7,Hatchback,1500,5,South Korea,Mid-range,118099
+Tesla,Model S,2023,Base,29556,AWD,5,Truck,2661,4,US,Budget,119019
+BYD,Yuan Plus,2023,Premium,62696,RWD,5,Truck,2371,3,China,Mid-range,249959
+Tesla,Model Y,2025,Long Range,71009,RWD,5,Van,1500,4,US,Premium,465765
+Tesla,Model S,2023,Long Range,41850,FWD,7,Van,1500,5,US,Mid-range,211387
+Volkswagen,ID.5,2025,Base,36800,RWD,5,SUV,2050,5,Germany,Mid-range,290748
+Tesla,Model Y,2024,Premium,166324,AWD,7,Truck,2510,5,US,Luxury,466326
+Kia,Picanto EV,2024,Base,71843,RWD,5,Van,1500,4,South Korea,Premium,123890
+BMW,i5,2024,Long Range,117383,FWD,5,Coupe,1713,4,Germany,Luxury,33138
+Ford,Mustang Mach-E,2024,Base,46220,RWD,5,Van,1620,4,US,Mid-range,60684
+Tesla,Model S,2024,Base,29639,AWD,7,SUV,2004,4,US,Budget,195341
+Tesla,Cybertruck,2025,Premium,81978,RWD,7,Truck,2412,5,US,Premium,146854
+Tesla,Model S,2025,Performance,94641,RWD,7,SUV,2014,4,US,Premium,235320
+BMW,i3,2023,Long Range,113238,AWD,5,Hatchback,1537,4,Germany,Luxury,31347
+GM/Chevrolet,Bolt EV,2024,Long Range,41353,AWD,7,Truck,2412,4,US,Mid-range,28209
+Tesla,Model Y,2021,Standard,116565,RWD,5,Sedan,1669,5,US,Luxury,458264
+NIO,EC6,2025,Standard,73080,RWD,7,Coupe,1732,4,China,Premium,11643
+Tesla,Model S,2025,Base,106993,FWD,5,Coupe,1727,5,US,Luxury,178229
+Kia,Niro EV,2024,Standard,42319,FWD,5,Van,1500,5,South Korea,Mid-range,90341
+GM/Chevrolet,Bolt EUV,2025,Long Range,51965,AWD,5,Coupe,1582,5,US,Mid-range,28326
+Mercedes,EQC,2025,Long Range,136372,AWD,7,Coupe,1500,4,Germany,Luxury,34019
+GM/Chevrolet,Equinox EV,2023,Long Range,53069,AWD,5,SUV,1900,5,US,Mid-range,9605
+Ford,Explorer EV,2025,Base,45557,AWD,5,Coupe,1500,5,US,Mid-range,46977
+BYD,Qin,2022,Base,24219,FWD,7,Coupe,1500,4,China,Budget,166519
+Ford,E-Transit,2020,Standard,62155,AWD,5,Van,1500,5,US,Mid-range,60595
+Tesla,Model Y,2024,Performance,162214,AWD,7,Hatchback,1852,5,US,Luxury,443580
+Audi,Q4 e-tron,2023,Base,76292,RWD,7,Truck,2642,5,Germany,Premium,57167
+Kia,EV9,2020,Long Range,70024,FWD,5,SUV,2118,5,South Korea,Premium,63318
+Ford,Explorer EV,2026,Base,61244,RWD,7,Sedan,1714,4,US,Mid-range,57282
+Volkswagen,ID. Buzz,2024,Performance,60928,AWD,7,Truck,2556,5,Germany,Mid-range,257710
+BMW,i3,2021,Premium,119496,AWD,5,Van,1533,5,Germany,Luxury,47944
+Hyundai,i30,2025,Standard,66375,FWD,7,Coupe,1500,4,South Korea,Premium,125248
+GM/Chevrolet,Bolt EUV,2025,Performance,68554,FWD,5,SUV,2177,5,US,Premium,27343
+Tesla,Cybertruck,2026,Standard,80797,RWD,7,Truck,2600,4,US,Premium,212130
+Tesla,Model Y,2021,Base,59816,AWD,5,Van,1500,4,US,Mid-range,446207
+BYD,Seagull,2020,Performance,61584,AWD,5,Sedan,1600,5,China,Mid-range,190643
+Tesla,Model X,2024,Base,99143,RWD,5,Coupe,1638,3,US,Premium,177987
+Mercedes,EQS,2023,Base,129585,FWD,7,Hatchback,1739,5,Germany,Luxury,24901
+BYD,Seagull,2021,Performance,99786,AWD,5,Sedan,1675,5,China,Premium,126447
+Lucid,Air,2026,Base,137880,FWD,7,Truck,2482,5,US,Luxury,21377
+BYD,Seagull,2025,Long Range,57738,AWD,5,Coupe,1878,4,China,Mid-range,108943
+Tesla,Model Y,2023,Base,112472,FWD,5,Van,1500,5,US,Luxury,485203
+Ford,E-Transit,2025,Long Range,54602,AWD,5,Van,1886,3,US,Mid-range,50891
+BMW,iX,2021,Long Range,86702,RWD,5,SUV,2095,3,Germany,Premium,40089
+Hyundai,Ioniq 5,2023,Performance,107017,RWD,5,SUV,2285,5,South Korea,Luxury,67872
+Kia,Sportage EV,2025,Long Range,76787,RWD,5,SUV,2168,4,South Korea,Premium,116634
+GM/Chevrolet,Bolt EUV,2024,Long Range,54182,AWD,7,Truck,2617,4,US,Mid-range,4380
+BYD,Dolphin,2022,Long Range,43672,AWD,7,Coupe,1500,3,China,Mid-range,203792
+Xiaomi,SU7,2025,Premium,55514,AWD,5,Sedan,1521,4,China,Mid-range,22327
+Lucid,Air,2024,Premium,269775,AWD,7,Hatchback,1560,4,US,Luxury,4056
+BMW,i7,2026,Premium,125637,RWD,5,Hatchback,1713,5,Germany,Luxury,47587
+Tesla,Model 3,2024,Premium,111275,AWD,5,SUV,1551,5,US,Luxury,172863
+BMW,i4,2025,Base,84530,AWD,5,Hatchback,1644,4,Germany,Premium,25679
+Tesla,Model S,2025,Base,97308,FWD,7,SUV,2139,4,US,Premium,239872
+Tesla,Model X,2025,Premium,35654,FWD,5,Truck,2311,4,US,Mid-range,228295
+BYD,Leaf 50X,2026,Long Range,101980,FWD,5,Van,1500,4,China,Luxury,128300
+Hyundai,Ioniq 6,2025,Long Range,80040,AWD,5,Truck,2281,5,South Korea,Premium,146157
+Mercedes,GLE EV,2026,Performance,104554,FWD,5,Hatchback,1664,4,Germany,Luxury,68955
+GM/Chevrolet,Equinox EV,2023,Long Range,65559,FWD,5,SUV,1966,4,US,Premium,6658
+GM/Chevrolet,Equinox EV,2025,Base,64751,AWD,7,SUV,2008,4,US,Mid-range,23069
+Volkswagen,ID.3,2023,Standard,32332,RWD,5,Hatchback,1596,5,Germany,Budget,283336
+BYD,Qin,2026,Performance,112008,RWD,7,SUV,2173,3,China,Luxury,201649
+Volkswagen,ID. Buzz,2023,Performance,114649,RWD,7,SUV,2254,4,Germany,Luxury,297615
+Porsche,Taycan,2025,Premium,111304,RWD,7,Van,1500,5,Germany,Luxury,5234
+Tesla,Model Y,2021,Premium,60365,AWD,7,Sedan,1624,5,US,Mid-range,438670
+Mercedes,EQE,2025,Premium,198768,RWD,5,SUV,2382,5,Germany,Luxury,77200
+Kia,Picanto EV,2024,Standard,32564,FWD,5,Hatchback,1510,4,South Korea,Budget,123543
+Volkswagen,ID. Buzz,2025,Premium,116578,RWD,5,Van,1580,3,Germany,Luxury,202014
+GM/Chevrolet,Bolt EV,2022,Base,44454,FWD,5,Van,1500,5,US,Mid-range,19383
+Hyundai,Ioniq,2021,Standard,33847,AWD,7,Sedan,1766,3,South Korea,Budget,145242
+Audi,Q6 e-tron,2024,Base,51267,RWD,7,Sedan,1704,4,Germany,Mid-range,64472
+Audi,e-tron,2025,Standard,77808,FWD,5,Van,1701,5,Germany,Premium,67104
+Volkswagen,ID.4,2025,Base,78904,FWD,7,Van,1553,5,Germany,Premium,283626
+BYD,Leaf 50X,2024,Long Range,75118,FWD,5,Sedan,1759,4,China,Premium,220772
+Kia,EV9,2023,Performance,76777,AWD,5,SUV,2179,4,South Korea,Premium,99948
+Audi,Q4 e-tron,2025,Standard,119851,RWD,5,Sedan,1635,5,Germany,Luxury,48973
+BYD,Atto 3,2025,Premium,45554,AWD,5,SUV,2109,5,China,Mid-range,119429
+BMW,i3,2023,Performance,111496,RWD,5,Coupe,1636,4,Germany,Luxury,41408
+BMW,iX,2024,Performance,134618,AWD,5,Coupe,1939,5,Germany,Luxury,68965
+GM/Chevrolet,Bolt EV,2024,Long Range,55216,RWD,5,Coupe,1500,5,US,Mid-range,805
+Tesla,Model S,2023,Premium,163321,AWD,7,Hatchback,1689,4,US,Luxury,220716
+GM/Chevrolet,Bolt EUV,2026,Premium,52995,AWD,5,Truck,2568,5,US,Mid-range,5490
+Audi,e-tron,2024,Standard,111573,FWD,5,Hatchback,1707,5,Germany,Luxury,58813
+Tesla,Model X,2024,Performance,79743,RWD,5,SUV,2108,5,US,Premium,136484
+BYD,Atto 3,2025,Premium,26327,RWD,5,Van,1505,4,China,Budget,129109
+Fisker,Ocean,2026,Standard,67825,AWD,5,Sedan,1500,5,US,Premium,26063
+Tesla,Model X,2022,Premium,78153,AWD,5,Hatchback,1500,4,US,Premium,114033
+Mercedes,GLE EV,2022,Premium,93751,AWD,7,Van,1800,5,Germany,Premium,32471
+Hyundai,Kona Electric,2026,Standard,68248,FWD,5,Hatchback,1607,5,South Korea,Premium,75804
+BYD,Qin,2023,Performance,89614,AWD,5,Hatchback,1555,5,China,Premium,198687
+Mercedes,EQC,2026,Performance,185593,FWD,7,Coupe,1500,4,Germany,Luxury,51560
+Volkswagen,ID. Aero,2024,Base,52451,AWD,5,SUV,2163,5,Germany,Mid-range,231690
+Hyundai,i30,2024,Base,53837,FWD,7,Sedan,1500,5,South Korea,Mid-range,55119
+Volkswagen,ID. Aero,2022,Base,29913,AWD,5,Van,1799,5,Germany,Budget,200434
+Kia,Picanto EV,2024,Base,34300,FWD,5,Van,1642,4,South Korea,Budget,143619
+Tesla,Model 3,2025,Premium,130542,AWD,7,Hatchback,1630,4,US,Luxury,190536
+Volkswagen,ID.4,2026,Base,49576,AWD,5,Sedan,1759,4,Germany,Mid-range,295672
+Fisker,Ronin,2025,Base,60987,AWD,7,Van,1757,5,US,Mid-range,2488
+BYD,Leaf 50X,2025,Premium,96175,AWD,7,Hatchback,1619,3,China,Premium,232340
+BMW,i7,2025,Performance,162797,RWD,5,Van,1847,5,Germany,Luxury,27119
+BYD,Max,2023,Performance,102394,AWD,7,Truck,2715,5,China,Luxury,226612
+Ford,Explorer EV,2025,Premium,59495,RWD,5,Truck,2327,5,US,Mid-range,62617
+Tesla,Model 3,2024,Performance,99778,AWD,5,Truck,2409,4,US,Premium,186712
+Fisker,Ocean,2025,Long Range,66660,RWD,7,Coupe,1773,5,US,Premium,12789
+Volkswagen,ID.4,2023,Premium,78485,AWD,5,Sedan,1560,4,Germany,Premium,208905
+BYD,Max,2023,Long Range,30609,FWD,7,Hatchback,1560,5,China,Budget,111239
+Tesla,Model X,2022,Performance,117706,RWD,5,Truck,2497,5,US,Luxury,160982
+Tesla,Cybertruck,2024,Performance,106069,RWD,7,Truck,2604,3,US,Luxury,156874
+Hyundai,i30,2025,Long Range,70682,FWD,7,SUV,2251,4,South Korea,Premium,50014
+BYD,Atto 3,2024,Long Range,41905,RWD,5,Truck,2686,3,China,Mid-range,239018
+Mercedes,EQS,2025,Performance,94342,AWD,5,SUV,1893,4,Germany,Premium,56423
+Volkswagen,ID. Aero,2024,Premium,40587,RWD,7,Coupe,1615,4,Germany,Mid-range,268842
+BYD,Atto 3,2022,Performance,98782,RWD,7,Coupe,1500,4,China,Premium,130723
+Kia,EV6,2022,Premium,40060,RWD,7,Sedan,1500,4,South Korea,Mid-range,51025
+GM/Chevrolet,Bolt EUV,2023,Performance,73854,AWD,5,Coupe,2090,4,US,Premium,27191
+Tesla,Model X,2022,Base,43328,RWD,5,Van,1526,3,US,Mid-range,148395
+Tesla,Model X,2025,Long Range,100200,RWD,7,Hatchback,1849,4,US,Luxury,197625
+Tesla,Model Y,2025,Performance,135068,AWD,7,Sedan,1500,5,US,Luxury,419874
+GM/Chevrolet,Silverado EV,2026,Standard,64855,RWD,7,Van,1781,4,US,Mid-range,16372
+BMW,i4,2022,Performance,102335,AWD,7,Hatchback,1526,5,Germany,Luxury,57345
+Hyundai,Kona Electric,2026,Premium,78808,AWD,7,Truck,2368,4,South Korea,Premium,79142
+Mercedes,EQC,2026,Premium,89767,AWD,5,Sedan,1697,4,Germany,Premium,44745
+Ford,Explorer EV,2024,Base,54162,AWD,7,Hatchback,1624,4,US,Mid-range,26655
+Kia,Sportage EV,2022,Standard,38543,FWD,5,SUV,1872,5,South Korea,Mid-range,117943
+Mercedes,EQE,2023,Performance,91689,RWD,5,Van,1713,5,Germany,Premium,45385
+BYD,Atto 3,2023,Premium,72253,RWD,5,Hatchback,1553,4,China,Premium,245833
+Tesla,Model Y,2025,Standard,28189,AWD,7,SUV,1677,3,US,Budget,412935
+BYD,Yuan Plus,2025,Standard,32633,RWD,5,Truck,2335,5,China,Budget,106393
+Tesla,Model S,2025,Performance,61792,AWD,5,Sedan,1663,5,US,Mid-range,214239
+Hyundai,Ioniq 5,2025,Performance,97448,RWD,5,Coupe,1500,3,South Korea,Premium,81695
+NIO,ET6,2025,Base,75083,AWD,5,Sedan,1800,5,China,Premium,6090
+Tesla,Model Y,2025,Premium,56042,AWD,5,Coupe,1801,4,US,Mid-range,439817
+Tesla,Model Y,2025,Base,102065,FWD,5,SUV,1950,5,US,Luxury,469259
+Volkswagen,ID. Aero,2024,Performance,92355,RWD,5,Truck,2436,4,Germany,Premium,216375
+Rivian,R3,2025,Long Range,105185,FWD,5,Hatchback,1527,4,US,Luxury,20140
+BYD,Max,2023,Base,20789,RWD,5,Van,1923,4,China,Budget,208014
+Hyundai,Ioniq 6,2024,Performance,97949,AWD,5,Hatchback,1500,5,South Korea,Premium,105426
+Tesla,Cybertruck,2024,Premium,112720,AWD,5,Truck,2564,5,US,Luxury,138409
+Tesla,Model X,2025,Premium,155604,AWD,7,Van,1625,4,US,Luxury,240825
+Porsche,Macan Electric,2023,Standard,107490,AWD,5,SUV,1666,4,Germany,Luxury,2249
+Fisker,Ocean,2023,Premium,100837,AWD,5,Sedan,1500,5,US,Luxury,27700
+Tesla,Cybertruck,2024,Base,112538,FWD,5,Truck,2742,4,US,Luxury,200169
+Toyota,bZ4X,2024,Standard,65164,FWD,5,SUV,2093,5,Japan,Premium,21633
+BMW,i4,2025,Premium,134002,AWD,7,Coupe,1795,5,Germany,Luxury,54751
+Mercedes,EQE,2025,Base,125284,FWD,7,Truck,2720,4,Germany,Luxury,50741
+Volkswagen,ID.3,2022,Base,53615,FWD,5,SUV,2264,4,Germany,Mid-range,208794
+Hyundai,Ioniq,2021,Performance,54289,FWD,7,Hatchback,1707,4,South Korea,Mid-range,110889
+Hyundai,Ioniq,2023,Performance,69817,AWD,5,Van,1643,5,South Korea,Premium,127527
+BMW,i4,2024,Base,47597,FWD,7,Sedan,1577,5,Germany,Mid-range,22877
+Tesla,Model Y,2024,Long Range,50417,RWD,5,Sedan,1587,4,US,Mid-range,444988
+Tesla,Model 3,2025,Premium,127859,FWD,5,SUV,2152,5,US,Luxury,125874
+BYD,Dolphin,2026,Base,27881,RWD,5,Van,1867,4,China,Budget,131662
+GM/Chevrolet,Bolt EUV,2024,Performance,98118,FWD,5,Sedan,1500,5,US,Premium,23127
+Tesla,Cybertruck,2025,Standard,114029,AWD,7,Truck,2681,5,US,Luxury,169238
+BMW,i7,2021,Base,76431,RWD,7,Sedan,1776,4,Germany,Premium,30267
+Fisker,Ocean,2025,Standard,47757,AWD,7,Sedan,1812,4,US,Mid-range,6983
+Tesla,Model S,2023,Long Range,122960,FWD,5,SUV,2239,4,US,Luxury,114585
+BMW,i5,2024,Standard,91503,RWD,7,Coupe,1500,5,Germany,Premium,64217
+Volkswagen,ID. Buzz,2026,Base,77633,AWD,5,Truck,2544,5,Germany,Premium,203039
+Mercedes,EQG,2022,Long Range,74524,AWD,5,Hatchback,1690,5,Germany,Premium,75343
+Tesla,Model X,2026,Base,27571,AWD,5,Coupe,1682,5,US,Budget,203167
+GM/Chevrolet,Silverado EV,2023,Performance,42948,AWD,5,Sedan,1903,4,US,Mid-range,14040
+Mercedes,GLE EV,2022,Long Range,100017,FWD,5,Hatchback,1500,5,Germany,Luxury,39100
+Toyota,bZ4X,2026,Performance,108713,RWD,5,Sedan,1549,4,Japan,Luxury,12763
+BMW,i7,2026,Performance,96475,AWD,7,Van,1639,5,Germany,Premium,54809
+Hyundai,i30,2025,Standard,33128,AWD,5,SUV,2024,5,South Korea,Budget,138439
+Kia,Niro EV,2025,Premium,52665,AWD,5,SUV,1711,5,South Korea,Mid-range,62015
+Mercedes,EQC,2022,Long Range,117362,AWD,7,SUV,1923,4,Germany,Luxury,75929
+Kia,Picanto EV,2024,Premium,91917,FWD,5,Van,1684,4,South Korea,Premium,124978
+Tesla,Model 3,2023,Standard,128698,RWD,5,Truck,2335,5,US,Luxury,132614
+Rivian,R2,2025,Premium,100225,RWD,5,Sedan,1592,4,US,Luxury,10726
+BMW,i4,2025,Base,66795,RWD,7,Coupe,1861,5,Germany,Premium,50876
+BMW,i3,2025,Long Range,102396,FWD,5,Hatchback,1822,5,Germany,Luxury,35285
+BYD,Seagull,2025,Long Range,53277,RWD,5,Coupe,1807,4,China,Mid-range,242908
+BMW,i5,2025,Base,102104,FWD,5,SUV,2165,3,Germany,Luxury,30235
+Volkswagen,ID.3,2025,Standard,62840,RWD,7,Hatchback,1960,5,Germany,Mid-range,242781
+BMW,i5,2024,Performance,131247,AWD,5,Truck,2302,4,Germany,Luxury,65041
+Tesla,Model S,2025,Premium,84149,RWD,5,Sedan,1606,4,US,Premium,224851
+BMW,iX,2025,Standard,71217,FWD,5,Van,1623,4,Germany,Premium,70121
+Honda,e,2022,Premium,60662,AWD,5,SUV,1943,4,Japan,Mid-range,10748
+Tesla,Model X,2024,Premium,46218,AWD,7,Truck,2198,4,US,Mid-range,108494
+Lucid,Air,2026,Premium,225594,RWD,7,Van,1500,5,US,Luxury,21994
+Volkswagen,ID. Buzz,2025,Standard,87726,AWD,7,Van,1646,5,Germany,Premium,253183
+Mercedes,EQE,2024,Premium,146624,AWD,7,Coupe,1586,4,Germany,Luxury,43244
+Ford,Mustang Mach-E,2022,Base,64696,RWD,5,Van,1771,4,US,Mid-range,37967
+Kia,Picanto EV,2024,Base,26810,AWD,7,SUV,2204,5,South Korea,Budget,138862
+GM/Chevrolet,Blazer EV,2024,Premium,45723,RWD,5,SUV,1728,5,US,Mid-range,19610
+Audi,Q6 e-tron,2025,Performance,99175,FWD,5,Coupe,1897,5,Germany,Premium,77677
+Volkswagen,ID. Aero,2025,Standard,87997,FWD,7,SUV,1931,4,Germany,Premium,228031
+BYD,Leaf 50X,2025,Base,25854,AWD,7,Truck,2589,5,China,Budget,106382
+BMW,i3,2025,Long Range,66807,RWD,5,Coupe,1736,4,Germany,Premium,37357
+Ford,F-150 Lightning,2024,Standard,38587,FWD,2,Truck,2728,5,US,Mid-range,66132
+Ford,Explorer EV,2024,Performance,61417,AWD,5,Coupe,1689,5,US,Mid-range,29374
+Ford,F-150 Lightning,2026,Premium,73147,AWD,2,Truck,2484,5,US,Premium,26454
+Volkswagen,ID.4,2024,Performance,80127,AWD,7,SUV,2269,5,Germany,Premium,267416
+Ford,F-150 Lightning,2025,Long Range,69759,FWD,4,Truck,2664,4,US,Premium,57497
+Tesla,Model 3,2023,Standard,68205,AWD,5,Van,1512,4,US,Premium,179048
+Kia,EV9,2026,Standard,52325,AWD,5,SUV,2334,5,South Korea,Mid-range,142095
+Tesla,Model X,2025,Long Range,119927,AWD,5,Van,1826,4,US,Luxury,137895
+BYD,Max,2022,Standard,59139,FWD,7,Sedan,1666,4,China,Mid-range,241442
+Volkswagen,ID.3,2025,Base,73427,AWD,7,Hatchback,1532,4,Germany,Premium,258880
+Volkswagen,ID.4,2021,Premium,105116,RWD,5,Truck,2408,4,Germany,Luxury,297514
+GM/Chevrolet,Bolt EV,2024,Performance,54376,AWD,7,Sedan,1654,5,US,Mid-range,24792
+Volkswagen,ID. Aero,2025,Long Range,61722,FWD,5,SUV,2029,4,Germany,Mid-range,292808
+Volkswagen,ID.4,2025,Base,70848,FWD,7,Hatchback,1500,4,Germany,Premium,282558
+BYD,Seagull,2024,Long Range,51371,AWD,7,Coupe,1598,5,China,Mid-range,177642
+Volkswagen,ID.5,2021,Long Range,44741,AWD,7,Sedan,1689,5,Germany,Mid-range,254746
+BYD,Qin,2021,Base,25493,RWD,5,SUV,1716,4,China,Budget,203716
+Tesla,Model Y,2025,Long Range,139789,FWD,5,Coupe,1711,4,US,Luxury,402120
+Kia,EV6,2020,Standard,29339,FWD,5,SUV,2266,4,South Korea,Budget,61921
+BMW,iX,2024,Long Range,73855,FWD,5,Hatchback,1829,5,Germany,Premium,33084
+BMW,i3,2025,Premium,108403,AWD,7,Truck,2516,5,Germany,Luxury,60610
+Hyundai,Kona Electric,2024,Performance,50242,RWD,5,SUV,2084,5,South Korea,Mid-range,106270
+Volkswagen,ID. Aero,2023,Premium,107651,AWD,5,Hatchback,1500,4,Germany,Luxury,215531
+Mercedes,GLE EV,2026,Long Range,89517,FWD,5,Van,1692,4,Germany,Premium,50182
+Hyundai,Ioniq 6,2024,Performance,106648,AWD,7,Coupe,1549,5,South Korea,Luxury,149654
+Hyundai,Ioniq,2023,Long Range,85388,AWD,5,Sedan,1500,4,South Korea,Premium,131774
+Tesla,Model S,2023,Premium,84622,AWD,5,SUV,1922,4,US,Premium,193331
+BYD,Atto 3,2025,Long Range,28904,AWD,5,Hatchback,1559,4,China,Budget,225650
+Volkswagen,ID. Buzz,2025,Premium,88651,RWD,7,Sedan,1768,4,Germany,Premium,243258
+Volkswagen,ID.4,2024,Long Range,69709,AWD,5,Truck,2597,5,Germany,Premium,273314
+Kia,EV6,2023,Long Range,68881,AWD,5,SUV,1755,4,South Korea,Premium,85490
+Hyundai,Ioniq 5,2026,Performance,46436,RWD,7,SUV,2075,4,South Korea,Mid-range,73520
+Kia,Niro EV,2023,Base,53627,FWD,5,Sedan,1500,3,South Korea,Mid-range,65815
+Ford,Explorer EV,2025,Base,31999,AWD,5,Truck,2364,4,US,Budget,25220
+Ford,E-Transit,2025,Long Range,97441,RWD,5,Coupe,1680,4,US,Premium,26936
+GM/Chevrolet,Equinox EV,2022,Base,33772,RWD,5,SUV,2124,4,US,Budget,22698
+Toyota,bZ Compact SUV,2023,Long Range,79916,FWD,5,SUV,2030,4,Japan,Premium,29619
+Tesla,Model X,2025,Premium,133808,AWD,7,Truck,2540,4,US,Luxury,225294
+Tesla,Model S,2025,Long Range,43023,FWD,7,Coupe,1723,5,US,Mid-range,177801
+Tesla,Model X,2026,Premium,88928,AWD,5,SUV,1899,4,US,Premium,116766
+BMW,i5,2025,Long Range,119539,RWD,5,Sedan,1669,3,Germany,Luxury,49676
+Audi,e-tron,2025,Base,71446,FWD,5,Sedan,1500,5,Germany,Premium,60589
+BYD,Max,2023,Performance,93435,AWD,5,Van,1500,5,China,Premium,220329
+Rivian,R2,2024,Long Range,96777,FWD,7,Hatchback,1807,5,US,Premium,20918
+Tesla,Model 3,2024,Performance,142117,AWD,5,SUV,1870,5,US,Luxury,232616
+NIO,EL8,2024,Long Range,119325,FWD,5,Truck,2732,5,China,Luxury,11219
+BYD,Atto 3,2025,Base,61647,AWD,7,Truck,2640,4,China,Mid-range,115977
+Tesla,Model 3,2025,Long Range,112948,FWD,5,Truck,2409,5,US,Luxury,130244
+Hyundai,Kona Electric,2025,Performance,91101,AWD,7,Van,1500,5,South Korea,Premium,95350
+BYD,Qin,2022,Base,30225,RWD,5,Coupe,1704,4,China,Budget,237770
+BYD,Atto 3,2025,Long Range,104232,FWD,5,Van,1649,4,China,Luxury,190907
+BYD,Leaf 50X,2024,Base,45941,AWD,5,Truck,2531,5,China,Mid-range,114800
+Ford,Mustang Mach-E,2025,Standard,68548,RWD,5,Coupe,1696,5,US,Premium,25642
+Kia,EV6,2025,Long Range,46513,FWD,5,Truck,2677,4,South Korea,Mid-range,124966
+BYD,Max,2022,Standard,72613,FWD,7,Van,1500,4,China,Premium,232843
+Kia,Niro EV,2022,Base,34817,RWD,7,Truck,2426,4,South Korea,Budget,109878
+GM/Chevrolet,Bolt EV,2025,Base,34507,RWD,7,Truck,2166,5,US,Budget,18832
+BYD,Qin,2023,Long Range,27058,AWD,5,Sedan,1500,4,China,Budget,176350
+Volkswagen,ID.4,2020,Premium,48609,AWD,5,Truck,2188,5,Germany,Mid-range,221203
+Tesla,Model X,2025,Base,30686,AWD,5,Sedan,1533,5,US,Budget,248383
+Tesla,Cybertruck,2023,Performance,56003,AWD,5,Truck,2669,4,US,Mid-range,102435
+BMW,i3,2025,Standard,75699,FWD,5,Sedan,1537,5,Germany,Premium,23009
+Tesla,Model S,2025,Premium,102511,AWD,5,Coupe,1648,4,US,Luxury,206373
+Hyundai,Ioniq,2022,Standard,39241,FWD,5,SUV,1948,5,South Korea,Mid-range,50222
+GM/Chevrolet,Bolt EUV,2025,Long Range,74597,AWD,7,Truck,2456,4,US,Premium,14842
+Tesla,Model S,2024,Performance,62921,RWD,5,Van,1500,4,US,Mid-range,248485
+Kia,EV9,2023,Long Range,62847,FWD,7,SUV,1905,5,South Korea,Mid-range,73090
+BYD,Yuan Plus,2023,Premium,44973,RWD,5,Hatchback,2102,4,China,Mid-range,163237
+Toyota,bZ Compact SUV,2026,Long Range,86892,FWD,7,SUV,1924,4,Japan,Premium,27998
+Hyundai,Ioniq 6,2022,Performance,56768,RWD,5,Coupe,1611,5,South Korea,Mid-range,141874
+Ford,Explorer EV,2022,Long Range,86650,RWD,5,Truck,2525,5,US,Premium,45060
+Kia,Picanto EV,2023,Performance,84711,AWD,7,Sedan,1715,4,South Korea,Premium,109134
+Tesla,Model S,2025,Base,93768,FWD,5,Sedan,1585,4,US,Premium,129076
+BMW,iX,2025,Premium,133858,AWD,5,SUV,2012,5,Germany,Luxury,27376
+Toyota,bZ4X,2026,Premium,73010,AWD,5,Sedan,1595,4,Japan,Premium,9198
+Kia,Picanto EV,2026,Long Range,53570,FWD,7,Coupe,1883,5,South Korea,Mid-range,112650
+Ford,Mustang Mach-E,2023,Standard,61248,RWD,5,Hatchback,1664,4,US,Mid-range,76286
+Audi,Q4 e-tron,2024,Premium,130056,AWD,5,Sedan,1715,4,Germany,Luxury,44054
+BYD,Qin,2022,Premium,39143,FWD,7,Hatchback,1500,3,China,Mid-range,143146
+BYD,Max,2023,Standard,26581,RWD,5,SUV,1699,5,China,Budget,206659
+Kia,Sportage EV,2023,Performance,92528,RWD,7,SUV,2003,4,South Korea,Premium,118664
+Volkswagen,ID. Aero,2022,Long Range,73265,FWD,5,Truck,2433,3,Germany,Premium,255210
+Mercedes,EQS,2022,Long Range,178840,AWD,5,Truck,2548,5,Germany,Luxury,49341
+Audi,Q6 e-tron,2024,Standard,55701,RWD,5,SUV,2094,4,Germany,Mid-range,52734
+BYD,Dolphin,2024,Long Range,75080,FWD,7,Sedan,1791,3,China,Premium,149633
+BYD,Qin,2022,Base,46767,AWD,5,Sedan,1500,3,China,Mid-range,150601
+Ford,Mustang Mach-E,2026,Base,43574,RWD,5,SUV,1834,5,US,Mid-range,55997
+BYD,Leaf 50X,2025,Premium,71227,RWD,5,Sedan,1500,4,China,Premium,114165
+Mercedes,EQS,2024,Base,126360,AWD,5,Coupe,1760,5,Germany,Luxury,31657
+Volkswagen,ID. Buzz,2021,Long Range,35869,FWD,5,Truck,2542,3,Germany,Mid-range,202031
+BMW,i4,2025,Standard,84569,RWD,7,Sedan,1500,4,Germany,Premium,62828
+Tesla,Model Y,2023,Base,106611,RWD,5,Hatchback,1582,5,US,Luxury,481578
+BMW,i4,2024,Performance,82828,AWD,5,Hatchback,1572,4,Germany,Premium,59167
+Volkswagen,ID.3,2024,Standard,38832,RWD,7,SUV,1808,5,Germany,Mid-range,256517
+Kia,Niro EV,2025,Performance,52083,RWD,5,Hatchback,1630,5,South Korea,Mid-range,99623
+Tesla,Cybertruck,2024,Standard,125177,AWD,7,Truck,2263,5,US,Luxury,162760
+GM/Chevrolet,Blazer EV,2024,Long Range,46760,AWD,5,Coupe,1592,4,US,Mid-range,22048
+Mercedes,GLE EV,2024,Premium,134954,RWD,7,Van,1736,5,Germany,Luxury,76804
+BYD,Qin,2023,Premium,33832,AWD,7,SUV,1930,4,China,Budget,177176
+Tesla,Model S,2021,Premium,143043,FWD,5,SUV,2265,5,US,Luxury,139115
+Tesla,Model X,2021,Base,66814,AWD,7,Truck,2428,4,US,Premium,228985
+BMW,iX,2025,Long Range,135695,AWD,5,Hatchback,1687,4,Germany,Luxury,36974
+Kia,Niro EV,2025,Premium,65978,RWD,7,Coupe,1625,4,South Korea,Premium,91348
+Kia,EV6,2026,Premium,95776,RWD,7,Van,1877,5,South Korea,Premium,81075
+BYD,Qin,2026,Premium,79543,AWD,7,Van,1565,5,China,Premium,153987
+Volkswagen,ID.3,2023,Premium,92433,AWD,5,Coupe,1765,4,Germany,Premium,212147
+Kia,Niro EV,2024,Long Range,56060,RWD,5,Coupe,1542,5,South Korea,Mid-range,117679
+Hyundai,Ioniq 5,2024,Standard,60016,AWD,5,Coupe,1925,5,South Korea,Mid-range,80671
+Porsche,Macan Electric,2024,Premium,184202,AWD,7,Coupe,1714,5,Germany,Luxury,14726
+Tesla,Cybertruck,2022,Performance,57538,FWD,5,Truck,2484,5,US,Mid-range,194936
+GM/Chevrolet,Bolt EV,2021,Performance,47455,FWD,5,Van,1612,4,US,Mid-range,7468
+Volkswagen,ID.5,2024,Long Range,52457,RWD,5,SUV,1885,4,Germany,Mid-range,214608
+Volkswagen,ID.5,2022,Base,27967,AWD,7,Sedan,1750,5,Germany,Budget,258777
+GM/Chevrolet,Equinox EV,2021,Long Range,61755,FWD,5,SUV,2033,5,US,Mid-range,9557
+GM/Chevrolet,Bolt EUV,2025,Standard,36433,FWD,5,Hatchback,1500,5,US,Mid-range,27128
+Volvo,XC40 Recharge,2026,Performance,111533,AWD,5,SUV,1917,4,Sweden,Luxury,29548
+Tesla,Model S,2026,Standard,81673,AWD,5,SUV,2107,4,US,Premium,117880
+Tesla,Cybertruck,2026,Base,55330,RWD,7,Truck,2635,4,US,Mid-range,211999
+GM/Chevrolet,Equinox EV,2025,Long Range,49790,RWD,5,SUV,2327,5,US,Mid-range,29595
+Kia,Niro EV,2024,Long Range,82834,AWD,5,Truck,2631,4,South Korea,Premium,98307
+BYD,Dolphin,2024,Premium,104506,FWD,5,Hatchback,1790,5,China,Luxury,111020
+Tesla,Model Y,2022,Long Range,45170,RWD,5,Van,1563,4,US,Mid-range,416114
+Tesla,Model S,2025,Premium,135057,RWD,7,SUV,2017,5,US,Luxury,107596
+Audi,Q6 e-tron,2026,Performance,79001,AWD,7,Coupe,1660,5,Germany,Premium,72672
+Tesla,Model 3,2025,Base,50205,FWD,5,Van,1641,3,US,Mid-range,169041
+BYD,Max,2025,Base,24481,AWD,5,Sedan,1500,3,China,Budget,176238
+BYD,Dolphin,2024,Long Range,51538,FWD,7,SUV,1948,5,China,Mid-range,188274
+BYD,Atto 3,2024,Base,19084,AWD,7,Truck,2431,4,China,Budget,216310
+Tesla,Model Y,2024,Performance,37255,RWD,7,SUV,1904,5,US,Mid-range,451073
+Hyundai,Ioniq,2022,Base,28094,RWD,7,Van,1572,3,South Korea,Budget,119899
+Tesla,Cybertruck,2025,Base,88008,FWD,5,Truck,2585,4,US,Premium,102752
+Ford,Explorer EV,2025,Performance,75194,AWD,5,Sedan,1687,4,US,Premium,31804
+BYD,Yuan Plus,2026,Standard,90375,AWD,5,Hatchback,1540,5,China,Premium,232416
+Kia,Niro EV,2025,Performance,111746,FWD,7,Truck,2484,4,South Korea,Luxury,96875
+Audi,Q4 e-tron,2022,Premium,144616,AWD,5,SUV,2232,5,Germany,Luxury,57074
+BMW,i5,2025,Standard,69329,RWD,5,SUV,2137,5,Germany,Premium,73975
+Hyundai,Ioniq 5,2022,Premium,39047,AWD,7,Coupe,1718,4,South Korea,Mid-range,57836
+BYD,Seagull,2025,Long Range,79832,FWD,7,SUV,2024,5,China,Premium,242291
+BYD,Seagull,2024,Premium,51227,AWD,7,Sedan,1756,5,China,Mid-range,143773
+BMW,i5,2024,Standard,70389,RWD,5,Coupe,1815,5,Germany,Premium,76685
+Volvo,XC90 Recharge,2022,Performance,90661,AWD,5,SUV,2143,5,Sweden,Premium,15699
+BMW,i7,2022,Performance,154010,AWD,5,Coupe,1842,4,Germany,Luxury,26663
+Kia,EV6,2025,Premium,61993,AWD,5,Sedan,1566,4,South Korea,Mid-range,65237
+GM/Chevrolet,Blazer EV,2025,Long Range,34425,RWD,5,Sedan,1690,4,US,Budget,20827
+Hyundai,Kona Electric,2025,Standard,53515,AWD,5,Hatchback,1607,5,South Korea,Mid-range,93480
+Tesla,Model S,2026,Long Range,127635,FWD,7,SUV,2140,5,US,Luxury,158325
+Kia,EV6,2024,Standard,31231,RWD,5,Sedan,1615,5,South Korea,Budget,74025
+Toyota,bZ4X,2025,Standard,46569,FWD,5,SUV,2099,5,Japan,Mid-range,1982
+Tesla,Model X,2025,Base,95626,RWD,5,Coupe,1896,5,US,Premium,233990
+BMW,i7,2022,Premium,116700,RWD,5,Van,1527,5,Germany,Luxury,29505
+Tesla,Cybertruck,2022,Long Range,88721,FWD,5,Truck,2380,4,US,Premium,226922
+Hyundai,Ioniq 5,2026,Standard,59666,AWD,5,Sedan,1500,4,South Korea,Mid-range,130091
+Tesla,Cybertruck,2024,Premium,148668,AWD,5,Truck,2309,5,US,Luxury,117109
+Volkswagen,ID. Buzz,2025,Standard,48209,FWD,5,Sedan,1783,5,Germany,Mid-range,272524
+GM/Chevrolet,Bolt EV,2021,Base,57966,RWD,5,Van,1500,4,US,Mid-range,3168
+BYD,Yuan Plus,2026,Long Range,92189,FWD,7,Coupe,1766,4,China,Premium,158795
+BMW,i5,2020,Standard,94186,AWD,7,Coupe,1511,4,Germany,Premium,43577
+Ford,Mustang Mach-E,2024,Base,38197,FWD,5,Hatchback,1500,5,US,Mid-range,25281
+Rivian,R2,2020,Standard,74903,RWD,5,Coupe,1679,4,US,Premium,16890
+BYD,Leaf 50X,2024,Long Range,77873,RWD,5,SUV,2029,4,China,Premium,152424
+Volkswagen,ID.4,2025,Standard,76085,FWD,5,Hatchback,1500,4,Germany,Premium,264457
+Tesla,Model X,2023,Base,55933,RWD,5,SUV,2166,3,US,Mid-range,183636
+Volvo,C40 Recharge,2022,Base,45993,RWD,7,Hatchback,1500,5,Sweden,Mid-range,3048
+Rivian,R1T,2020,Base,64056,FWD,2,Truck,2714,5,US,Mid-range,12678
+Kia,EV9,2025,Long Range,39330,AWD,7,SUV,2029,5,South Korea,Mid-range,139592
+Mercedes,EQS,2024,Premium,200860,RWD,5,Hatchback,1543,5,Germany,Luxury,50870
+Hyundai,Kona Electric,2025,Performance,83020,RWD,5,Sedan,1500,4,South Korea,Premium,65013
+BMW,i7,2023,Long Range,131127,RWD,7,Van,1543,4,Germany,Luxury,49932
+Tesla,Model Y,2023,Long Range,63693,FWD,7,Van,1500,3,US,Mid-range,462962
+GM/Chevrolet,Bolt EV,2025,Long Range,37683,AWD,7,Truck,2310,4,US,Mid-range,20559
+Tesla,Model Y,2025,Premium,40474,RWD,5,SUV,2239,4,US,Mid-range,484636
+Mercedes,EQS,2024,Base,111876,AWD,7,Sedan,1698,4,Germany,Luxury,36359
+Ford,F-150 Lightning,2024,Performance,106767,AWD,2,Truck,2776,4,US,Luxury,44309
+GM/Chevrolet,Bolt EUV,2025,Premium,47999,AWD,7,Van,1527,5,US,Mid-range,2175
+Tesla,Model X,2024,Base,78352,FWD,5,Truck,2584,5,US,Premium,135414
+BYD,Qin,2025,Premium,101756,RWD,5,Coupe,1710,5,China,Luxury,207780
+BYD,Yuan Plus,2021,Performance,36439,AWD,5,Coupe,1516,4,China,Mid-range,110969
+Volkswagen,ID.4,2024,Standard,45114,RWD,7,Sedan,1516,4,Germany,Mid-range,248569
+Tesla,Model Y,2024,Base,117811,AWD,5,Coupe,1774,4,US,Luxury,402141
+NIO,EC6,2022,Standard,64086,AWD,5,SUV,2057,5,China,Mid-range,19395
+Kia,Niro EV,2026,Performance,71757,AWD,5,Truck,2916,5,South Korea,Premium,123775
+BYD,Max,2026,Performance,71385,AWD,5,Coupe,1527,4,China,Premium,234079
+Volkswagen,ID. Aero,2023,Performance,82345,RWD,7,Hatchback,1677,4,Germany,Premium,291745
+Volkswagen,ID.4,2024,Long Range,69646,RWD,5,Coupe,1500,4,Germany,Premium,292447
+Kia,Niro EV,2023,Performance,59633,AWD,5,Coupe,1529,5,South Korea,Mid-range,97616
+Hyundai,Ioniq,2024,Performance,44797,AWD,5,Sedan,1500,5,South Korea,Mid-range,113793
+Rivian,R3,2025,Standard,79723,AWD,7,SUV,2018,5,US,Premium,28225
+Hyundai,Ioniq 5,2025,Premium,65433,AWD,7,Sedan,1506,5,South Korea,Premium,78985
+Volvo,XC90 Recharge,2024,Standard,75391,RWD,5,Van,1623,5,Sweden,Premium,16760
+Mercedes,EQG,2024,Long Range,95795,AWD,7,Truck,2380,3,Germany,Premium,37523
+BYD,Yuan Plus,2024,Long Range,65610,FWD,5,Hatchback,1677,5,China,Premium,239905
+Rivian,R1S,2024,Standard,85224,RWD,7,Coupe,1500,5,US,Premium,18207
+Tesla,Model S,2026,Performance,173601,RWD,7,Truck,2374,4,US,Luxury,192234
+Ford,Explorer EV,2024,Long Range,93392,RWD,5,Van,1566,4,US,Premium,53055
+Volkswagen,ID.5,2025,Standard,60859,AWD,5,Sedan,1783,4,Germany,Mid-range,280770
+Audi,Q6 e-tron,2024,Base,68629,RWD,5,Sedan,1555,5,Germany,Premium,32172
+Mercedes,EQG,2025,Premium,128362,AWD,5,Coupe,1630,4,Germany,Luxury,79528
+Ford,E-Transit,2024,Performance,115289,AWD,7,Hatchback,1500,5,US,Luxury,28651
+Ford,Explorer EV,2021,Premium,97934,RWD,5,SUV,1826,4,US,Premium,45842
+BYD,Yuan Plus,2024,Standard,42922,RWD,7,Van,1633,5,China,Mid-range,109861
+Tesla,Model 3,2025,Standard,103424,AWD,7,Hatchback,1500,5,US,Luxury,136780
+Volkswagen,ID.3,2025,Long Range,46682,RWD,5,Coupe,1552,5,Germany,Mid-range,243592
+Tesla,Model Y,2025,Base,38869,AWD,7,Coupe,1522,4,US,Mid-range,420151
+GM/Chevrolet,Bolt EV,2023,Performance,39441,RWD,5,Coupe,1534,3,US,Mid-range,9783
+BYD,Seagull,2025,Standard,53846,AWD,7,Hatchback,1522,4,China,Mid-range,196975
+Lucid,Air,2024,Performance,156097,RWD,5,SUV,2233,4,US,Luxury,13230
+BMW,i3,2024,Performance,130176,FWD,7,Van,1584,4,Germany,Luxury,59392
+Mercedes,EQG,2025,Premium,153236,RWD,7,Sedan,1585,5,Germany,Luxury,44720
+Tesla,Model X,2025,Premium,60275,AWD,7,SUV,1918,4,US,Mid-range,226355
+Mercedes,EQC,2025,Premium,202974,AWD,7,Sedan,1500,5,Germany,Luxury,22987
+Rivian,R2,2021,Performance,113614,AWD,5,Hatchback,1500,5,US,Luxury,4505
+Hyundai,Ioniq 6,2024,Performance,77514,AWD,5,Hatchback,1500,4,South Korea,Premium,71992
+Kia,Sportage EV,2023,Base,47385,FWD,7,SUV,2270,4,South Korea,Mid-range,57685
+Ford,Explorer EV,2025,Long Range,69672,AWD,5,Coupe,1592,5,US,Premium,49288
+Tesla,Cybertruck,2024,Premium,110129,RWD,5,Truck,2528,5,US,Luxury,212436
+Hyundai,Ioniq 5,2025,Standard,63435,RWD,7,Truck,2434,5,South Korea,Mid-range,133046
+Volkswagen,ID. Aero,2022,Long Range,60509,AWD,5,Coupe,1710,5,Germany,Mid-range,222081
+Tesla,Model X,2023,Performance,111767,AWD,7,Hatchback,1774,4,US,Luxury,176852
+Volkswagen,ID.5,2025,Long Range,101757,FWD,5,Sedan,1868,4,Germany,Luxury,269645
+Tesla,Model X,2021,Premium,118011,AWD,5,Hatchback,1554,4,US,Luxury,177339
+Tesla,Model X,2024,Premium,80831,RWD,5,Hatchback,1546,4,US,Premium,202000
+Tesla,Model X,2021,Long Range,118192,AWD,5,Coupe,1733,5,US,Luxury,123098
+Toyota,bZ4X,2025,Standard,48847,AWD,7,Coupe,1542,5,Japan,Mid-range,21759
+Kia,EV6,2023,Premium,82404,FWD,7,Van,1788,4,South Korea,Premium,95064
+Fisker,Ronin,2024,Base,85586,FWD,7,SUV,1923,4,US,Premium,25585
+Volkswagen,ID.3,2024,Performance,53591,RWD,5,Coupe,1653,3,Germany,Mid-range,209815
+BYD,Qin,2022,Standard,70031,FWD,7,Hatchback,1558,3,China,Premium,187796
+Hyundai,i30,2024,Standard,31257,RWD,5,Truck,2029,4,South Korea,Budget,83425
+Volkswagen,ID. Aero,2022,Performance,77145,RWD,7,Coupe,1500,5,Germany,Premium,280321
+Tesla,Model 3,2025,Performance,133324,AWD,7,Hatchback,1570,4,US,Luxury,119703
+BMW,i3,2025,Standard,61491,RWD,7,Coupe,1500,4,Germany,Mid-range,75130
+BYD,Leaf 50X,2024,Performance,56202,RWD,5,Coupe,1500,5,China,Mid-range,225829
+BMW,i3,2025,Premium,113221,RWD,5,Truck,2431,3,Germany,Luxury,36980
+BMW,i5,2023,Premium,104740,RWD,5,Coupe,1510,5,Germany,Luxury,58894
+Tesla,Model S,2026,Performance,120238,AWD,5,Van,1725,3,US,Luxury,139118
+Tesla,Model X,2025,Standard,86050,FWD,5,Hatchback,1653,5,US,Premium,244820
+Ford,F-150 Lightning,2024,Performance,113010,FWD,2,Truck,2490,5,US,Luxury,26657
+Hyundai,Ioniq 5,2022,Performance,87757,RWD,5,Truck,2567,5,South Korea,Premium,73010
+Tesla,Model X,2022,Performance,77380,AWD,5,Sedan,1602,3,US,Premium,238571
+Volvo,C40 Recharge,2025,Base,87551,AWD,5,Truck,2197,4,Sweden,Premium,28712
+Tesla,Cybertruck,2023,Long Range,40790,RWD,7,Truck,2247,5,US,Mid-range,187262
+GM/Chevrolet,Equinox EV,2022,Base,32829,AWD,7,SUV,1866,5,US,Budget,26546
+Polestar,4,2023,Performance,90904,AWD,7,Coupe,1500,5,Sweden,Premium,18672
+BYD,Max,2023,Long Range,98961,RWD,5,Van,1594,4,China,Premium,230275
+Tesla,Model X,2025,Standard,108925,FWD,7,Hatchback,1665,5,US,Luxury,104109
+Tesla,Model S,2021,Performance,76848,RWD,7,Coupe,1660,5,US,Premium,229674
+BYD,Qin,2023,Long Range,52356,FWD,5,Sedan,1582,5,China,Mid-range,146928
+Tesla,Model 3,2025,Base,91015,RWD,7,SUV,1936,5,US,Premium,229357
+GM/Chevrolet,Bolt EUV,2025,Performance,44784,AWD,5,Hatchback,1677,5,US,Mid-range,7434
+Tesla,Model 3,2025,Long Range,84994,RWD,5,Sedan,1655,4,US,Premium,246722
+Hyundai,i30,2026,Premium,95007,FWD,5,Hatchback,1791,3,South Korea,Premium,111030
+Xiaomi,SU7,2024,Premium,89311,AWD,5,SUV,1829,4,China,Premium,29176
+Ford,Mustang Mach-E,2024,Standard,67108,RWD,5,Hatchback,1516,5,US,Premium,58727
+Kia,Niro EV,2024,Base,56357,FWD,5,Hatchback,1503,5,South Korea,Mid-range,107160
+BYD,Leaf 50X,2024,Standard,21286,RWD,7,Sedan,1613,5,China,Budget,116507
+BMW,i4,2025,Long Range,88308,RWD,5,Hatchback,1664,4,Germany,Premium,31503
+Hyundai,Ioniq,2024,Performance,103986,AWD,7,Sedan,1595,5,South Korea,Luxury,106892
+Volkswagen,ID.4,2020,Base,27139,FWD,5,Hatchback,1500,4,Germany,Budget,271891
+Tesla,Model Y,2026,Standard,53435,RWD,7,Hatchback,1818,4,US,Mid-range,467122
+Audi,e-tron GT,2023,Premium,88281,AWD,5,Coupe,1737,4,Germany,Premium,66857
+Volkswagen,ID.5,2025,Base,76427,RWD,5,Van,1585,4,Germany,Premium,248734
+Tesla,Model S,2023,Base,45117,FWD,5,Sedan,1619,3,US,Mid-range,116884
+Volkswagen,ID.5,2024,Performance,68349,RWD,7,Hatchback,1694,4,Germany,Premium,238867
+Volkswagen,ID.4,2023,Long Range,49538,RWD,7,Coupe,1650,5,Germany,Mid-range,250021
+Mercedes,EQG,2025,Long Range,111629,AWD,5,SUV,1944,4,Germany,Luxury,76984
+GM/Chevrolet,Bolt EUV,2026,Long Range,54836,AWD,5,Hatchback,1600,5,US,Mid-range,17331
+Ford,F-150 Lightning,2025,Base,34802,AWD,4,Truck,2056,4,US,Budget,51835
+Tesla,Model Y,2022,Standard,93506,RWD,5,Van,1646,5,US,Premium,464918
+Volkswagen,ID.4,2024,Standard,79224,FWD,5,SUV,2091,5,Germany,Premium,219453
+Hyundai,Kona Electric,2025,Long Range,43460,FWD,5,Truck,2699,5,South Korea,Mid-range,114002
+Tesla,Model X,2021,Premium,100895,RWD,7,SUV,1686,5,US,Luxury,201220
+BYD,Dolphin,2026,Performance,31398,AWD,5,Hatchback,1500,5,China,Budget,240918
+GM/Chevrolet,Blazer EV,2024,Long Range,85774,AWD,5,Van,1666,4,US,Premium,22091
+Tesla,Model 3,2023,Performance,53096,RWD,7,Van,1503,4,US,Mid-range,123687
+Hyundai,Ioniq 5,2023,Base,40064,FWD,5,Van,1526,5,South Korea,Mid-range,95016
+BYD,Seagull,2023,Base,72566,RWD,7,Hatchback,1591,5,China,Premium,193019
+Tesla,Model S,2023,Premium,90489,AWD,5,Van,1535,4,US,Premium,231411
+BYD,Yuan Plus,2026,Premium,58741,RWD,5,Sedan,1654,5,China,Mid-range,193352
+Lucid,Gravity,2025,Performance,166389,AWD,5,Van,1555,5,US,Luxury,27265
+Ford,E-Transit,2022,Performance,72684,AWD,7,Coupe,1539,4,US,Premium,25267
+Toyota,bZ4X,2021,Performance,93899,AWD,7,Coupe,1520,5,Japan,Premium,29112
+Hyundai,Ioniq 6,2023,Long Range,79421,FWD,7,Van,1500,5,South Korea,Premium,120050
+Tesla,Model 3,2022,Premium,78038,AWD,7,Coupe,1704,3,US,Premium,156841
+Kia,Niro EV,2026,Performance,89457,RWD,7,Van,1577,4,South Korea,Premium,55244
+Volkswagen,ID.3,2020,Long Range,81317,RWD,7,Truck,2388,4,Germany,Premium,205086
+Mercedes,GLE EV,2021,Long Range,133886,AWD,5,Van,1500,4,Germany,Luxury,61011
+Tesla,Model 3,2026,Premium,123396,AWD,5,Coupe,1684,4,US,Luxury,179193
+Hyundai,Kona Electric,2023,Long Range,89541,RWD,7,SUV,1987,5,South Korea,Premium,122583
+Tesla,Model S,2025,Base,30387,FWD,5,Hatchback,1500,5,US,Budget,225676
+BYD,Atto 3,2024,Standard,21708,AWD,5,Hatchback,1776,4,China,Budget,240735
+GM/Chevrolet,Bolt EV,2024,Premium,52233,RWD,5,Van,1529,4,US,Mid-range,17461
+Hyundai,Ioniq,2025,Premium,78179,AWD,5,SUV,2435,5,South Korea,Premium,93827
+Volkswagen,ID.5,2025,Base,32609,FWD,5,Truck,2358,3,Germany,Budget,223686
+Volkswagen,ID. Aero,2024,Standard,64647,FWD,5,Hatchback,1566,4,Germany,Mid-range,229331
+Hyundai,Kona Electric,2026,Standard,40896,RWD,7,Truck,2639,4,South Korea,Mid-range,60452
+Ford,E-Transit,2024,Performance,99172,AWD,5,SUV,2017,5,US,Premium,55818
+Audi,Q6 e-tron,2025,Standard,97078,AWD,7,Hatchback,1677,5,Germany,Premium,69050
+Toyota,bZ4X,2025,Long Range,75339,RWD,5,Hatchback,1541,5,Japan,Premium,12682
+Ford,Mustang Mach-E,2025,Performance,72825,RWD,5,Van,1939,3,US,Premium,45964
+BYD,Atto 3,2025,Long Range,26098,AWD,5,Truck,2861,5,China,Budget,233286
+BMW,i3,2023,Base,89087,RWD,7,Truck,2730,4,Germany,Premium,63501
+Volkswagen,ID.5,2026,Performance,72231,AWD,5,Sedan,1564,4,Germany,Premium,241869
+BYD,Leaf 50X,2022,Long Range,80180,AWD,5,Truck,2565,5,China,Premium,170493
+Mercedes,EQS,2023,Premium,111693,AWD,5,Hatchback,1500,4,Germany,Luxury,72096
+Tesla,Model S,2026,Base,119620,FWD,5,Van,1667,4,US,Luxury,186324
+Audi,Q4 e-tron,2025,Standard,63113,RWD,5,Van,1501,4,Germany,Mid-range,79880
+Hyundai,i30,2026,Premium,83200,AWD,5,Sedan,1500,3,South Korea,Premium,92496
+BMW,iX,2023,Long Range,130325,AWD,5,Sedan,1679,5,Germany,Luxury,62481
+BMW,i5,2024,Premium,92379,AWD,7,Truck,2455,5,Germany,Premium,64158
+Audi,Q4 e-tron,2025,Premium,154475,AWD,5,Sedan,1646,5,Germany,Luxury,20728
+BMW,i5,2024,Standard,78677,RWD,5,Hatchback,1501,5,Germany,Premium,28903
+Kia,EV9,2021,Long Range,56384,FWD,5,SUV,1920,5,South Korea,Mid-range,85632
+Tesla,Model Y,2025,Performance,51114,RWD,7,SUV,2000,5,US,Mid-range,484952
+Hyundai,Ioniq 6,2024,Performance,44088,RWD,5,Hatchback,1685,3,South Korea,Mid-range,119102
+Tesla,Model 3,2023,Premium,98229,RWD,7,Sedan,1500,4,US,Premium,151125
+GM/Chevrolet,Equinox EV,2026,Performance,71801,AWD,7,SUV,1829,4,US,Premium,4745
+Hyundai,Ioniq 6,2024,Standard,63405,RWD,7,Sedan,1532,5,South Korea,Mid-range,79234
+BMW,i3,2023,Premium,126296,RWD,5,Truck,2766,4,Germany,Luxury,27018
+Tesla,Model S,2024,Long Range,91117,RWD,7,Hatchback,1500,4,US,Premium,174122
+Tesla,Cybertruck,2026,Standard,39888,AWD,5,Truck,2479,4,US,Mid-range,224642
+GM/Chevrolet,Bolt EUV,2024,Premium,75461,AWD,5,SUV,2063,4,US,Premium,10961
+Tesla,Cybertruck,2023,Performance,182464,AWD,5,Truck,2927,5,US,Luxury,202403
+Tesla,Model X,2023,Premium,43481,RWD,5,SUV,1871,5,US,Mid-range,134257
+Tesla,Model 3,2025,Base,70039,RWD,7,Sedan,1837,5,US,Premium,164008
+Toyota,bZ4X,2024,Base,60317,RWD,7,Coupe,1500,4,Japan,Mid-range,23683
+GM/Chevrolet,Bolt EV,2024,Standard,46965,AWD,7,Sedan,1530,5,US,Mid-range,15168
+BYD,Dolphin,2021,Premium,107053,AWD,7,Coupe,2029,3,China,Luxury,216609
+BYD,Atto 3,2023,Base,73543,AWD,5,Hatchback,1839,5,China,Premium,164917
+BYD,Qin,2025,Standard,52251,AWD,7,Van,1538,5,China,Mid-range,174435
+Ford,Explorer EV,2025,Base,67753,FWD,5,Truck,2613,5,US,Premium,21665
+BMW,i5,2025,Base,48714,FWD,5,Van,1633,4,Germany,Mid-range,75073
+Tesla,Model X,2026,Base,31181,FWD,5,Van,1525,4,US,Budget,143060
+Tesla,Model Y,2025,Long Range,68462,FWD,7,Coupe,1614,4,US,Premium,443244
+Tesla,Model S,2023,Premium,51644,AWD,5,Truck,2333,5,US,Mid-range,247691
+BMW,iX,2025,Standard,66273,AWD,5,Sedan,1554,4,Germany,Premium,66889
+Ford,F-150 Lightning,2025,Standard,68958,AWD,4,Truck,2809,5,US,Premium,69276
+BYD,Dolphin,2024,Standard,51238,FWD,5,Hatchback,1637,5,China,Mid-range,242985
+Tesla,Model Y,2025,Base,114588,FWD,5,Coupe,1534,3,US,Luxury,458139
+Tesla,Cybertruck,2024,Standard,43048,FWD,7,Truck,2507,5,US,Mid-range,249983
+Fisker,Ocean,2025,Premium,54042,RWD,5,Truck,2045,4,US,Mid-range,17793
+BYD,Atto 3,2025,Premium,34873,AWD,7,Coupe,1500,4,China,Budget,145087
+Ford,Explorer EV,2025,Standard,47275,FWD,5,Coupe,1509,3,US,Mid-range,20597
+BMW,i4,2024,Long Range,69816,FWD,7,SUV,2056,4,Germany,Premium,42961
+Volkswagen,ID.5,2025,Long Range,95116,AWD,7,Sedan,1693,3,Germany,Premium,223250
+BYD,Qin,2025,Premium,33846,FWD,5,Truck,2279,5,China,Budget,220677
+Tesla,Cybertruck,2025,Premium,98891,FWD,5,Truck,2642,4,US,Premium,113008
+Kia,Picanto EV,2020,Performance,51182,FWD,7,Van,1712,5,South Korea,Mid-range,106543
+Ford,E-Transit,2023,Standard,53190,FWD,7,Hatchback,1682,4,US,Mid-range,73417
+BMW,i5,2024,Base,73901,FWD,5,Coupe,1522,5,Germany,Premium,78616
+Hyundai,Kona Electric,2023,Long Range,49377,FWD,7,Hatchback,1766,5,South Korea,Mid-range,113770
+Tesla,Model 3,2025,Premium,129475,AWD,7,SUV,1856,4,US,Luxury,225901
+Fisker,Ocean,2023,Base,81514,FWD,5,Hatchback,1690,4,US,Premium,16427
+Ford,F-150 Lightning,2024,Base,33055,AWD,2,Truck,2425,5,US,Budget,77480
+BYD,Dolphin,2024,Long Range,38278,RWD,5,Coupe,1685,5,China,Mid-range,237305
+Polestar,3,2023,Long Range,77182,RWD,5,Hatchback,1500,5,Sweden,Premium,5412
+Kia,Picanto EV,2025,Premium,80721,RWD,5,Hatchback,1503,3,South Korea,Premium,130227
+Kia,EV6,2021,Premium,36093,AWD,5,SUV,2561,5,South Korea,Mid-range,73706
+GM/Chevrolet,Equinox EV,2022,Performance,59494,FWD,5,SUV,1650,3,US,Mid-range,16751
+Ford,Explorer EV,2023,Standard,38434,FWD,5,Truck,2667,4,US,Mid-range,31451
+BMW,i3,2024,Performance,73301,FWD,7,Coupe,1547,5,Germany,Premium,50214
+Tesla,Model Y,2025,Long Range,113868,AWD,7,Sedan,1500,4,US,Luxury,455459
+BYD,Dolphin,2024,Premium,100526,AWD,7,Hatchback,1569,4,China,Luxury,178707
+Rivian,R3,2025,Base,78088,AWD,5,Hatchback,1769,3,US,Premium,26875
+BYD,Qin,2025,Performance,101418,AWD,5,Hatchback,1696,3,China,Luxury,115025
+Volkswagen,ID.3,2023,Premium,99610,AWD,7,Coupe,1973,4,Germany,Premium,245824
+Volkswagen,ID.3,2025,Base,66621,AWD,5,Coupe,1570,5,Germany,Premium,206717
+Volkswagen,ID.3,2021,Long Range,70655,FWD,7,Hatchback,1724,4,Germany,Premium,211095
+Kia,Niro EV,2025,Performance,110499,RWD,5,SUV,1849,4,South Korea,Luxury,55383
+NIO,EL8,2025,Premium,104954,AWD,7,Sedan,1974,5,China,Luxury,26944
+BYD,Leaf 50X,2024,Long Range,42041,FWD,7,Truck,2360,3,China,Mid-range,120124
+Tesla,Model S,2025,Long Range,120338,RWD,7,Truck,2561,4,US,Luxury,236717
+Tesla,Model Y,2025,Long Range,147346,AWD,5,Van,1709,5,US,Luxury,458246
+Audi,e-tron GT,2025,Base,69716,AWD,5,SUV,1869,5,Germany,Premium,21802
+BMW,i7,2025,Premium,88626,AWD,7,Coupe,1728,4,Germany,Premium,40644
+BYD,Max,2022,Standard,68089,AWD,5,Hatchback,1668,4,China,Premium,201225
+Ford,E-Transit,2024,Premium,97929,RWD,7,SUV,2018,5,US,Premium,20102
+Mercedes,EQE,2022,Long Range,118966,RWD,5,Hatchback,1668,4,Germany,Luxury,78467
+Mercedes,GLE EV,2021,Performance,167761,RWD,7,Hatchback,1571,5,Germany,Luxury,66576
+Rivian,R3,2024,Performance,105997,RWD,7,Hatchback,1630,5,US,Luxury,1509
+BYD,Max,2023,Long Range,94065,AWD,5,Hatchback,1679,5,China,Premium,117049
+GM/Chevrolet,Equinox EV,2025,Long Range,58373,FWD,5,SUV,2173,5,US,Mid-range,5246
+Hyundai,Ioniq 5,2025,Premium,64471,AWD,7,Sedan,1574,4,South Korea,Mid-range,90740
+Mercedes,EQG,2022,Long Range,140187,FWD,5,Hatchback,1500,4,Germany,Luxury,31832
+GM/Chevrolet,Silverado EV,2025,Premium,70759,FWD,7,Coupe,1500,4,US,Premium,11923
+Ford,Explorer EV,2025,Standard,57567,FWD,5,SUV,1896,4,US,Mid-range,64630
+BMW,i5,2026,Long Range,125687,AWD,5,Truck,2713,5,Germany,Luxury,50691
+Tesla,Model S,2024,Performance,64261,FWD,5,Hatchback,1894,3,US,Mid-range,145470
+Kia,Sportage EV,2023,Base,31014,AWD,5,SUV,2106,5,South Korea,Budget,68930
+Polestar,3,2024,Standard,116528,AWD,5,Truck,2331,4,Sweden,Luxury,14704
+NIO,EL6,2024,Performance,144157,AWD,5,Hatchback,1500,5,China,Luxury,28598
+Tesla,Model X,2024,Base,97305,FWD,7,Van,1545,3,US,Premium,135420
+Tesla,Cybertruck,2021,Base,64614,RWD,5,Truck,2450,4,US,Mid-range,243316
+Tesla,Model Y,2024,Premium,142240,RWD,5,Truck,2813,5,US,Luxury,461025
+GM/Chevrolet,Blazer EV,2023,Standard,45535,AWD,7,Sedan,1500,5,US,Mid-range,7422
+Ford,F-150 Lightning,2024,Long Range,88744,FWD,2,Truck,2611,5,US,Premium,63330
+BYD,Dolphin,2021,Standard,36672,FWD,7,Truck,2585,4,China,Mid-range,112221
+Hyundai,Ioniq 5,2025,Standard,37110,AWD,7,Hatchback,1594,5,South Korea,Mid-range,143597
+Mercedes,EQE,2025,Performance,103655,RWD,7,Van,1865,4,Germany,Luxury,54248
+GM/Chevrolet,Blazer EV,2024,Performance,41329,RWD,5,Hatchback,1818,5,US,Mid-range,18258
+Kia,Picanto EV,2025,Base,28246,RWD,5,Sedan,1730,4,South Korea,Budget,75515
+Kia,Niro EV,2025,Base,55056,RWD,7,Coupe,1500,4,South Korea,Mid-range,118841
+Hyundai,Kona Electric,2024,Premium,69523,RWD,7,Hatchback,1807,4,South Korea,Premium,133082
+BYD,Atto 3,2024,Long Range,25254,FWD,7,Van,1891,4,China,Budget,158999
+Kia,Sportage EV,2022,Long Range,89448,FWD,5,SUV,2041,5,South Korea,Premium,135902
+BMW,iX,2025,Base,76099,FWD,5,SUV,1969,5,Germany,Premium,36766
+Audi,Q4 e-tron,2024,Base,103667,FWD,5,Truck,2348,4,Germany,Luxury,59232
+BMW,i4,2024,Standard,86675,FWD,5,Truck,2345,4,Germany,Premium,72572
+GM/Chevrolet,Bolt EUV,2021,Standard,64474,FWD,5,Truck,2241,4,US,Mid-range,9147
+Tesla,Cybertruck,2025,Base,55744,AWD,5,Truck,2748,4,US,Mid-range,237895
+Hyundai,i30,2025,Performance,72353,RWD,5,Van,1868,3,South Korea,Premium,107166
+Tesla,Model 3,2024,Performance,92847,RWD,5,Sedan,1500,3,US,Premium,187727
+BYD,Dolphin,2025,Base,64953,AWD,7,Coupe,1563,5,China,Mid-range,246706
+GM/Chevrolet,Equinox EV,2024,Base,32869,FWD,5,SUV,2125,3,US,Budget,10258
+Volvo,C40 Recharge,2022,Base,46215,FWD,5,Hatchback,1790,5,Sweden,Mid-range,17974
+Tesla,Model 3,2025,Premium,109716,AWD,7,Truck,2588,5,US,Luxury,176733
+Volkswagen,ID.4,2022,Long Range,82795,AWD,7,Coupe,1581,4,Germany,Premium,263434
+Ford,Mustang Mach-E,2026,Long Range,61925,FWD,7,Van,1684,4,US,Mid-range,37462
+BYD,Leaf 50X,2025,Long Range,51480,AWD,5,Hatchback,1730,5,China,Mid-range,132415
+Kia,Sportage EV,2026,Standard,75696,AWD,5,SUV,1910,4,South Korea,Premium,99994
+GM/Chevrolet,Blazer EV,2023,Base,30573,AWD,7,Coupe,1561,4,US,Budget,13459
+Kia,Sportage EV,2021,Performance,92297,RWD,5,SUV,2329,5,South Korea,Premium,79309
+Tesla,Model S,2023,Base,41460,RWD,5,Van,1500,4,US,Mid-range,119951
+Volkswagen,ID.3,2025,Standard,53934,FWD,7,Sedan,1763,5,Germany,Mid-range,220093
+Ford,Explorer EV,2024,Premium,86810,AWD,7,Truck,2676,4,US,Premium,40976
+Kia,EV9,2024,Performance,107670,AWD,7,SUV,1870,5,South Korea,Luxury,128063
+Tesla,Cybertruck,2025,Premium,113506,RWD,5,Truck,2737,4,US,Luxury,162101
+GM/Chevrolet,Bolt EV,2024,Standard,37659,AWD,7,Sedan,1500,5,US,Mid-range,14766
+Tesla,Cybertruck,2025,Long Range,118632,FWD,5,Truck,2731,5,US,Luxury,209669
+GM/Chevrolet,Bolt EUV,2026,Premium,71451,AWD,7,Van,1633,5,US,Premium,1367
+Tesla,Model S,2025,Base,66114,RWD,7,Sedan,1665,4,US,Premium,185813
+Toyota,bZ4X,2022,Premium,46863,AWD,7,Sedan,1614,5,Japan,Mid-range,1920
+Volkswagen,ID.3,2023,Performance,70445,FWD,7,Truck,2184,4,Germany,Premium,214221
+BYD,Qin,2022,Long Range,77020,FWD,5,Van,1500,5,China,Premium,167490
+Tesla,Model S,2025,Performance,169177,RWD,7,SUV,2131,4,US,Luxury,130032
+BYD,Atto 3,2025,Base,39604,AWD,5,Van,1754,5,China,Mid-range,195375
+Audi,Q4 e-tron,2023,Base,48523,AWD,5,SUV,2208,5,Germany,Mid-range,57366
+Xiaomi,SU7,2021,Long Range,49222,AWD,5,Hatchback,1717,5,China,Mid-range,23659
+Volkswagen,ID.3,2023,Premium,57817,AWD,5,Truck,2281,5,Germany,Mid-range,227778
+Volkswagen,ID. Buzz,2020,Standard,72241,FWD,5,Sedan,1734,4,Germany,Premium,255858
+GM/Chevrolet,Equinox EV,2022,Premium,82968,AWD,7,SUV,2053,4,US,Premium,7825
+Audi,e-tron,2023,Long Range,82136,AWD,5,Sedan,1600,4,Germany,Premium,56851
+Kia,EV9,2020,Base,33055,AWD,7,SUV,2035,4,South Korea,Budget,139463
+Volkswagen,ID.4,2022,Performance,97373,AWD,5,Sedan,1616,4,Germany,Premium,246097
+Volkswagen,ID.3,2024,Long Range,62606,RWD,5,Coupe,1892,4,Germany,Mid-range,233529
+GM/Chevrolet,Silverado EV,2024,Premium,80872,AWD,5,Hatchback,1778,3,US,Premium,24840
+Tesla,Model 3,2025,Standard,27830,RWD,7,Van,1500,4,US,Budget,110913
+BMW,i3,2025,Standard,104402,RWD,5,Coupe,1612,5,Germany,Luxury,64517
+Volkswagen,ID.3,2026,Performance,77435,RWD,5,Sedan,1972,5,Germany,Premium,250773
+Ford,F-150 Lightning,2025,Performance,55790,AWD,2,Truck,2494,3,US,Mid-range,58686
+Tesla,Model Y,2026,Long Range,43501,FWD,7,Hatchback,1575,4,US,Mid-range,417203
+Kia,EV9,2024,Premium,73063,RWD,7,SUV,1899,5,South Korea,Premium,143775
+Hyundai,Ioniq 5,2022,Standard,34455,AWD,5,Van,1606,5,South Korea,Budget,120724
+BMW,i3,2024,Performance,123236,AWD,7,Truck,2571,5,Germany,Luxury,49531
+Tesla,Cybertruck,2024,Premium,117989,FWD,5,Truck,2492,4,US,Luxury,117423
+Kia,Niro EV,2024,Standard,39013,RWD,7,Van,1500,4,South Korea,Mid-range,124150
+Kia,Picanto EV,2024,Long Range,50328,RWD,5,Hatchback,1655,4,South Korea,Mid-range,79174
+Kia,Picanto EV,2025,Base,48935,FWD,7,Coupe,1500,5,South Korea,Mid-range,106640
+Kia,Sportage EV,2025,Premium,89201,AWD,7,SUV,2168,4,South Korea,Premium,55676
+BMW,iX,2025,Long Range,133417,RWD,7,Van,1852,4,Germany,Luxury,53580
+Ford,Explorer EV,2025,Performance,63491,RWD,5,Sedan,1500,4,US,Mid-range,37708
+BYD,Leaf 50X,2025,Premium,109496,RWD,7,Hatchback,1641,4,China,Luxury,180168
+Mercedes,EQE,2023,Standard,112178,RWD,7,Van,1500,4,Germany,Luxury,38676
+Hyundai,Ioniq 6,2022,Premium,45588,AWD,5,Truck,2462,4,South Korea,Mid-range,103603
+Tesla,Model Y,2022,Long Range,79776,FWD,5,Truck,2482,3,US,Premium,488350
+Tesla,Model X,2024,Performance,138879,AWD,5,Sedan,1500,4,US,Luxury,187901
+BYD,Qin,2021,Premium,78314,AWD,5,Sedan,1856,4,China,Premium,235914
+Ford,E-Transit,2024,Standard,81564,AWD,5,Van,1521,5,US,Premium,70445
+GM/Chevrolet,Silverado EV,2025,Base,62818,RWD,7,Hatchback,1500,5,US,Mid-range,4921
+Ford,Explorer EV,2026,Premium,99668,RWD,5,Sedan,1528,5,US,Premium,21835
+Hyundai,i30,2023,Standard,33062,AWD,5,Van,1627,5,South Korea,Budget,88310
+Volkswagen,ID.3,2025,Performance,46782,RWD,5,Truck,2545,5,Germany,Mid-range,268903
+Tesla,Model S,2022,Standard,127541,RWD,5,Coupe,1500,3,US,Luxury,136670
+BYD,Seagull,2024,Standard,53793,RWD,5,SUV,1740,4,China,Mid-range,246202
+Volkswagen,ID. Buzz,2023,Performance,110995,RWD,5,SUV,2041,5,Germany,Luxury,225518
+Tesla,Model X,2022,Long Range,85292,FWD,7,Van,1585,5,US,Premium,146415
+BYD,Seagull,2024,Standard,83644,FWD,5,Van,1686,5,China,Premium,218991
+Kia,EV6,2025,Performance,117356,AWD,5,Coupe,1599,4,South Korea,Luxury,136386
+GM/Chevrolet,Silverado EV,2023,Performance,95648,RWD,5,Truck,2567,4,US,Premium,20948
+Xiaomi,SU7,2025,Base,55836,AWD,5,SUV,2092,4,China,Mid-range,22178
+Rivian,R2,2025,Long Range,102187,RWD,5,Hatchback,1603,5,US,Luxury,2112
+BMW,i4,2025,Long Range,101732,FWD,5,Truck,2234,4,Germany,Luxury,41594
+Volkswagen,ID. Aero,2023,Base,44659,FWD,5,Sedan,1726,5,Germany,Mid-range,256210
+BMW,i3,2024,Premium,104798,AWD,7,Hatchback,1658,5,Germany,Luxury,26942
+Ford,F-150 Lightning,2025,Premium,53246,RWD,2,Truck,2253,4,US,Mid-range,30016
+Tesla,Model S,2025,Premium,176583,RWD,5,SUV,1951,4,US,Luxury,199834
+Volkswagen,ID.4,2023,Long Range,78654,FWD,7,Coupe,1665,5,Germany,Premium,204287
+Mercedes,EQC,2024,Standard,113688,FWD,7,Van,1500,4,Germany,Luxury,59376
+Volkswagen,ID.4,2024,Performance,61036,AWD,5,Coupe,1750,4,Germany,Mid-range,274419
+Kia,EV6,2026,Performance,46823,RWD,5,Sedan,1581,3,South Korea,Mid-range,141318
+Kia,Picanto EV,2022,Long Range,73622,FWD,5,SUV,1901,5,South Korea,Premium,128389
+Tesla,Cybertruck,2026,Performance,70201,RWD,5,Truck,2486,5,US,Premium,166507
+Volkswagen,ID. Aero,2025,Performance,86735,AWD,7,Van,1665,5,Germany,Premium,261533
+BYD,Max,2024,Premium,105442,AWD,7,Truck,2431,5,China,Luxury,226549
+Tesla,Cybertruck,2025,Base,98106,AWD,5,Truck,2705,4,US,Premium,221459
+Tesla,Model 3,2024,Premium,128470,RWD,7,Truck,2712,3,US,Luxury,244654
+Mercedes,GLE EV,2025,Premium,92408,RWD,5,Sedan,1500,4,Germany,Premium,22464
+BYD,Dolphin,2022,Base,71012,FWD,5,SUV,2283,4,China,Premium,210658
+Hyundai,Kona Electric,2025,Long Range,92989,RWD,7,SUV,1766,5,South Korea,Premium,132728
+BYD,Leaf 50X,2023,Standard,74284,FWD,5,Truck,2198,5,China,Premium,128075
+NIO,ET6,2024,Standard,78059,FWD,7,SUV,2102,5,China,Premium,24158
+BYD,Seagull,2023,Premium,109451,AWD,5,Sedan,1504,5,China,Luxury,128508
+Volkswagen,ID.3,2024,Premium,49551,AWD,7,Coupe,1737,3,Germany,Mid-range,222078
+Mercedes,EQG,2025,Long Range,102051,AWD,5,Coupe,1700,5,Germany,Luxury,26785
+Mercedes,EQE,2026,Premium,93287,FWD,5,Hatchback,1500,3,Germany,Premium,49781
+Tesla,Model X,2023,Performance,164468,RWD,5,Van,1822,5,US,Luxury,146842
+Ford,Mustang Mach-E,2025,Long Range,62237,FWD,5,Sedan,1557,5,US,Mid-range,34572
+Hyundai,Ioniq 5,2023,Standard,55336,FWD,5,Van,1644,3,South Korea,Mid-range,84896
+Hyundai,Ioniq,2026,Standard,37257,AWD,5,SUV,2264,3,South Korea,Mid-range,64933
+Tesla,Cybertruck,2025,Long Range,45726,RWD,5,Truck,2592,5,US,Mid-range,240212
+Tesla,Model Y,2025,Long Range,107945,AWD,7,Hatchback,1644,4,US,Luxury,410789
+GM/Chevrolet,Silverado EV,2020,Long Range,45328,AWD,5,Coupe,1796,4,US,Mid-range,20824
+Hyundai,Ioniq 5,2023,Long Range,41738,RWD,7,Hatchback,1697,5,South Korea,Mid-range,92151
+Volkswagen,ID. Aero,2026,Base,69452,RWD,7,Van,1614,4,Germany,Premium,260693
+GM/Chevrolet,Equinox EV,2021,Performance,65657,AWD,5,SUV,2129,5,US,Premium,12802
+Ford,E-Transit,2025,Base,61660,RWD,7,Coupe,1660,4,US,Mid-range,27087
+Tesla,Model 3,2025,Standard,72436,AWD,7,Van,1777,3,US,Premium,139369
+Kia,EV9,2025,Long Range,49012,AWD,5,SUV,1708,5,South Korea,Mid-range,114969
+Tesla,Model S,2026,Base,119418,AWD,7,Sedan,1500,5,US,Luxury,170811
+GM/Chevrolet,Equinox EV,2024,Standard,34301,RWD,7,SUV,2077,4,US,Budget,738
+BMW,i3,2023,Long Range,122666,FWD,5,Hatchback,1500,5,Germany,Luxury,66187
+Toyota,bZ4X,2024,Performance,66817,AWD,5,Hatchback,1863,4,Japan,Premium,11062
+Tesla,Model 3,2025,Long Range,49281,RWD,7,Truck,2920,3,US,Mid-range,224804
+Tesla,Model X,2026,Premium,139666,RWD,5,Coupe,1500,3,US,Luxury,165373
+BYD,Qin,2025,Premium,47548,RWD,5,Coupe,1512,4,China,Mid-range,214113
