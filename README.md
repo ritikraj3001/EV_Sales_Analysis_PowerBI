@@ -38,6 +38,11 @@ The **EV Sales Analysis Dashboard** provides a comprehensive overview of the ele
 
 ---
 
+## 📸 Dashboard Preview
+
+![EV Sales Analysis Dashboard](https://github.com/ritikraj3001/EV_Sales_Analysis_PowerBI/blob/main/EV%20Sales%20Analysis%20Dashboard.png)
+
+---
 
 ## 🧮 Analytical SQL Queries
 
