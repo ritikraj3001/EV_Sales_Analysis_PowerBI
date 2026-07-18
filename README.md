@@ -370,12 +370,6 @@ Use the interactive filters to analyze:
 
 ---
 
-## 📸 Dashboard Preview
-
-![EV Sales Analysis Dashboard](Images/EV%20Sales%20Analysis%20Dashboard.png)
-
----
-
 # 👨‍💻 Author
 
 **Ritik Raj**
